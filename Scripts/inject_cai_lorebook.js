@@ -430,7 +430,7 @@
       "Grand-Couron"
     ],
     "char_count": 1960,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
@@ -446,7 +446,7 @@
       "Martinaise"
     ],
     "char_count": 1820,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
@@ -462,7 +462,7 @@
       "Mundi"
     ],
     "char_count": 1818,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.04 RCM Heavy Duty Prybar and Baton.MD",
@@ -479,7 +479,7 @@
       "Revachol"
     ],
     "char_count": 1815,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.02 Technology and Tools/02.02.01 Filament Wire Radiocomputer.MD",
@@ -495,7 +495,7 @@
       "Insulinde"
     ],
     "char_count": 1890,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.02 Technology and Tools/02.02.02 FALN Heavy LED Flashlight.MD",
@@ -512,7 +512,7 @@
       "Lighting"
     ],
     "char_count": 1806,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.02 Technology and Tools/02.02.03 RCM Blue Ledger and Clipboard.MD",
@@ -529,7 +529,7 @@
       "Documentation"
     ],
     "char_count": 1815,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.02 Technology and Tools/02.02.04 Coupris Kineema Motor Carriage.MD",
@@ -545,7 +545,7 @@
       "Revachol"
     ],
     "char_count": 1800,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.01 Astra Brand Filterless Cigarettes.MD",
@@ -561,7 +561,7 @@
       "Vice"
     ],
     "char_count": 1808,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.02 Goracy 1 Spirits and Potent Wine.MD",
@@ -578,7 +578,7 @@
       "Vice"
     ],
     "char_count": 1803,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
@@ -595,7 +595,7 @@
       "Vice"
     ],
     "char_count": 1836,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
@@ -612,7 +612,7 @@
       "Pastime"
     ],
     "char_count": 1868,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
@@ -629,7 +629,7 @@
       "Culture"
     ],
     "char_count": 1833,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
@@ -646,6 +646,325 @@
       "History"
     ],
     "char_count": 1804,
+    "done": true
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
+    "title": "Lieutenant Kim Kitsuragi",
+    "text": "Lieutenant Kim Kitsuragi is a senior investigative detective in the Revachol Citizens Militia, assigned to Precinct 57 in the dense commercial quarter of Central Jamrock. Born and raised in Revachol of Seolite descent, Kitsuragi embodies the disciplined, unyielding professionalism required of an officer navigating a deeply divided post-revolutionary metropolis. Over fifteen years of service in the militia, he has earned a stellar departmental reputation for methodological precision, unimpeachable integrity, and an exceptional clearance rate in difficult urban homicides.\n\nVisually, Kitsuragi is distinguished by his lean physical frame, neat prescription spectacles, and his signature bright orange high-collar flight jacket, beneath which he wears dark cargo trousers and reinforced patrol boots. His demeanor is composed, stoic, and remarkably patient, maintaining strict procedural discipline even when confronted by hostile union dockworkers, violent street gangs, or unstable fellow officers. While fully conscious of the systemic corruption and racial prejudice that permeate Revacholian society, Kitsuragi consistently refuses ideological cynicism, choosing instead to execute his sworn civic duties with meticulous, quiet dedication.\n\nKitsuragi operates a heavily customized Coupris Kineema motor carriage, which he maintains personally with passionate mechanical expertise. His investigative technique relies on rigorous sensory observation, forensic evidence collection, and detailed field notes recorded in a pocket notebook using neat, condensed shorthand. A quiet enthusiast of mechanical engineering and regional aerostat racing, he permits himself precisely one Astra cigarette per day at sunset. Within the precarious jurisdiction of West Revachol, Lieutenant Kitsuragi serves as a vital stabilizing anchor, balancing deductive brilliance with human empathy in the pursuit of objective truth.",
+    "keywords": [
+      "Kim Kitsuragi",
+      "RCM",
+      "Precinct 57",
+      "Detective",
+      "Seol",
+      "Jamrock",
+      "Revachol"
+    ],
+    "char_count": 1914,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
+    "title": "Captain Pryce",
+    "text": "Captain Ptolemy Pryce is the commanding officer of Precinct 41 of the Revachol Citizens Militia, headquartered in the Jamrock district of West Revachol. A weathered, battle-hardened veteran who survived both the Antecentennial War and the violent street fighting of the Revolution of '02, Pryce is widely regarded as one of the most formidable, politically astute, and fiercely protective precinct commanders serving within the militia's fractured municipal structure.\n\nPhysically imposing with grey-streaked hair, broad shoulders, and a perpetually weary gaze, Pryce directs the operations of the Forty-First from a cramped, smoke-filled corner office overlooking the central bullpen. Unlike junior commanders who bend to the bureaucratic demands of the foreign Coalition of Nations, Pryce maintains a fierce institutional independence, treating Coalition administrative liaisons with polite contempt while quietly safeguarding his detectives from external interference. He understands the precarious nature of the peace holding Revachol together and operates with the grim realization that a secondary civil uprising or armed intervention remains an ever-present possibility.\n\nPryce's leadership style combines uncompromising operational realism with deep personal loyalty toward his subordinate officers. He grants his senior detectives extraordinary tactical autonomy to resolve high-profile homicides across hostile gang territories, while personally managing the municipal budget deficits, supply shortages, and political fallout generated by their unorthodox field methods. A battered tin mug of chicory coffee rests perpetually on his desk beside classified precinct emergency contingency binders. Behind his cynical exterior lies a profound commitment to the survival of the Revacholian working class, making Captain Pryce the indispensable institutional shield protecting the fragile integrity of the militia.",
+    "keywords": [
+      "Captain Pryce",
+      "Precinct 41",
+      "RCM",
+      "Jamrock",
+      "Commander",
+      "Police",
+      "Revachol"
+    ],
+    "char_count": 1919,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
+    "title": "Lieutenant Jean Vicquemare",
+    "text": "Lieutenant Jean Vicquemare is a senior detective and the tactical operational leader of the Major Crimes Unit operating out of RCM Precinct 41 in Jamrock. Having served over a decade in the most violent municipal wards of West Revachol, Vicquemare is known throughout the department for his acerbic wit, relentless investigative drive, and deeply cynical, razor-sharp psychological insight into the criminal underworld.\n\nVicquemare presents a striking, road-worn physical presence, characterized by his angular jawline, a perpetually dark five o'clock shadow, tinted amber aviator spectacles, and a scuffed dark green leather patrol jacket. His manner is acerbic, abrasive, and frequently furious, reflecting the catastrophic psychological toll of investigating dozens of gruesome homicides without adequate municipal resources. As the long-time investigative partner of Detective Harry Du Bois, Vicquemare has endured years of escalating erratic behavior, emotional breakdowns, and substance abuse from his closest colleague, leading to profound personal exhaustion and bitter professional frustration.\n\nBeneath his caustic, shouting exterior, Vicquemare is an exceptionally skilled interrogator and a fiercely loyal comrade who has repeatedly placed his career and physical safety on the line to shield his unit from departmental disciplinary boards. He possesses an intimate tactical understanding of Revachol's street topography, criminal syndicates, and political fault lines, executing high-stakes raids and felony arrests with lethal efficiency. He smokes unfiltered Astra cigarettes with compulsive fury while pacing precinct corridors. Despite his overwhelming cynicism and personal sorrow, Lieutenant Vicquemare remains fundamentally committed to holding the fractured ranks of the Forty-First together through sheer force of will.",
+    "keywords": [
+      "Jean Vicquemare",
+      "RCM",
+      "Precinct 41",
+      "Detective",
+      "Major Crimes Unit",
+      "Jamrock",
+      "Revachol"
+    ],
+    "char_count": 1841,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.04 Officer Judit Minot.MD",
+    "title": "Officer Judit Minot",
+    "text": "Officer Judit Minot is a dedicated junior detective and field investigator serving within the Major Crimes Unit of RCM Precinct 41 in Jamrock. Serving as a crucial stabilizing presence alongside Lieutenant Jean Vicquemare, Minot represents the younger generation of militia officers who joined the service during the post-bombardment reconstruction, driven by a sincere moral commitment to community protection and judicial fairness.\n\nMinot is recognized by her professional bearing, tailored dark blue militia trench coat, and calm, observant gaze. In a precinct culture frequently dominated by aggressive bravado, cynical exhaustion, and excessive tobacco consumption, she provides a vital balance of methodical forensic documentation, objective procedural analysis, and deep emotional composure. Her casework methodology emphasizes meticulous cross-referencing of witness statements, thorough ballistic record-keeping, and empathetic interview techniques that allow her to elicit crucial testimony from traumatized civilian survivors who distrust the militia. She carries a neatly organized field clipboard filled with handwritten witness rosters and official evidence vouchers.\n\nDespite her relatively quiet demeanor, Minot possesses formidable tactical grit, having participated in numerous high-risk felony apprehensions and armed barricade situations across the slums of Jamrock and Coal City. She serves as an emotional counterweight to Vicquemare's volatile temper, quietly managing logistical communications, organizing dispatch relays, and protecting fragile crime scene evidence from tampering. Her unwavering professionalism, quiet courage, and moral integrity make Officer Judit Minot one of the most promising and respected rising investigators within the modern ranks of the Revachol Citizens Militia.",
+    "keywords": [
+      "Judit Minot",
+      "RCM",
+      "Precinct 41",
+      "Detective",
+      "Major Crimes Unit",
+      "Jamrock",
+      "Revachol"
+    ],
+    "char_count": 1817,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.05 Officer Trant Heidelstam.MD",
+    "title": "Officer Trant Heidelstam",
+    "text": "Officer Trant Heidelstam is a specialized civilian consultant, behavioral psychologist, and forensic sociolinguist assigned to the Major Crimes Unit of RCM Precinct 41 in Jamrock. Highly educated, cosmopolitan, and widely traveled across the isolas of Mundi and Graad, Heidelstam brings an extraordinary breadth of academic knowledge, theoretical criminology, and scientific rigor to the otherwise gritty and intuitive investigative environment of the Revacholian militia.\n\nHeidelstam presents an impeccably polite, professorial exterior, dressed in well-maintained tweed jackets, tailored wool trousers, and sturdy walking shoes. Unlike traditional street patrolmen, he approaches criminal investigations through the analytical lenses of social psychology, pale entropics, and comparative history. He possesses a remarkably deep understanding of pale physics, the psychological pathologies resulting from long-term memory compression, and the ideological evolution of Revacholian political factions from the Dolorian Century to the present era. A devoted father who frequently brings his young son Mikael along during daytime field consults, he maintains a bright, almost childlike intellectual enthusiasm that stands in stark contrast to the grim reality of Revachol's homicide scenes.\n\nWithin the Forty-First, Heidelstam is frequently tasked with analyzing anomalous crime scenes, deciphering complex criminal ciphers, and conducting forensic psychological profiles of volatile suspects. He often lectures colleagues on historical radio technology and the social experiments of the Wompty-Dompty Dom Centre. His calm, articulate explanations provide vital intellectual clarity during convoluted investigations, bridging the gap between raw physical forensic evidence and the broader metaphysical mysteries that haunt the Insulindian Isola.",
+    "keywords": [
+      "Trant Heidelstam",
+      "RCM",
+      "Precinct 41",
+      "Consultant",
+      "Psychology",
+      "Pale",
+      "Revachol"
+    ],
+    "char_count": 1842,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.01 RCM Officers/03.01.06 Chester McLaine and Alice Steine.MD",
+    "title": "Chester McLaine and Alice Steine",
+    "text": "Chester McLaine and Alice Steine constitute a formidable investigative and tactical patrol team operating within RCM Precinct 41 in the Jamrock district of West Revachol. Serving as frontline field officers, the pair handles high-volume felony dispatches, street containment during riot situations, and preliminary homicide response, representing the gritty, unglamorous backbone of the precinct's daily law enforcement operations.\n\nChester McLaine is a boisterous, heavyset plainclothes detective known throughout the precinct for his booming voice, crude humor, and flamboyant floral print shirts worn beneath a scuffed leather jacket. A former alley brawler who grew up in the industrial wards of Coal City, McLaine relies on raw physical intimidation, street-level informants, and instinctual bravado to extract confessions from petty thieves and dockland enforcers. Despite his clownish exterior and cynical jokes, McLaine is a fiercely loyal partner who has survived numerous shootouts and knife encounters across the Jamrock tenements.\n\nAlice Steine, by contrast, is a sharp-eyed, procedural patrolwoman characterized by her practical demeanor, short-cropped hair, and immaculate uniform maintenance. Steine excels at logistical coordination, perimeter defense, and radio dispatch protocols, keeping her volatile partner grounded during chaotic street skirmishes. She maintains precise logbooks of precinct vehicle mileage and radio call signs with unbending discipline. Operating together from a battered municipal patrol carriage, McLaine and Steine provide essential tactical containment, evidence transport, and crowd control during major homicide inquiries, standing as an indispensable pair of working-class cops committed to surviving the unforgiving streets of Revachol West amidst the rain.",
+    "keywords": [
+      "Chester McLaine",
+      "Alice Steine",
+      "RCM",
+      "Precinct 41",
+      "Patrol",
+      "Jamrock",
+      "Revachol"
+    ],
+    "char_count": 1806,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.01 Evrart Claire.MD",
+    "title": "Evrart Claire",
+    "text": "Evrart Claire is the formidable, immensely influential head of the Debardeurs Union Local 41, exercising near-total political and economic control over the Martinaise commercial harbor and the surrounding coastal wards of West Revachol. Working in seamless tandem with his twin brother Edgar Claire, Evrart has transformed a fragmented labor union into a powerful geopolitical state-within-a-state capable of challenging multinational corporate conglomerates and the Coalition of Nations alike.\n\nPhysically, Evrart is exceptionally corpulent, suffering from chronic gout and circulatory ailments that confine him to an oversized, custom-built ergonomic executive chair situated inside a retrofitted steel shipping container within the harbor terminal. Despite his physical infirmity and constant sweat, he radiates an aura of immense political intelligence, cheerful benevolence, and chilling Machiavellian cunning. He addresses visitors with exaggerated warmth, offering pleasantries, hot chicory coffee, and comfortable seating while subtly trapping them in intricate webs of patronage, legal blackmail, and political compromise.\n\nEvrart operates as a champion of the Revacholian working class, funding neighborhood youth centers, retirement funds, and soup kitchens through union revenues. However, his methods are ruthlessly pragmatic, employing union enforcers, kickbacks, and strategic smuggling operations through Capeside to expand his dominion. He possesses detailed blueprints for commercial redevelopment and public housing across Martinaise. During the dockworkers strike, Evrart demonstrates brilliant strategic patience, leveraging the union's total control over the cargo gantry cranes to force the Wild Pines Group to negotiate on his terms, determined to transform Martinaise into an autonomous, union-controlled socialist fiefdom.",
+    "keywords": [
+      "Evrart Claire",
+      "Debardeurs Union",
+      "Martinaise",
+      "Union Boss",
+      "Harbor",
+      "Politics",
+      "Revachol"
+    ],
+    "char_count": 1848,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.02 Titus Hardie and Hardie Boys.MD",
+    "title": "Titus Hardie and Hardie Boys",
+    "text": "Titus Hardie and the Hardie Boys constitute an informal, armed labor defense council and community vigilante group operating under the auspices of the Debardeurs Union in Martinaise. In the total absence of a functioning municipal police precinct in the district, this tight-knit brotherhood of dockers, crane mechanics, and warehousemen serves as the de facto law enforcement and peacekeeping authority across the neighborhood, operating from a permanent booth inside the Whirling-in-Rags cafeteria.\n\nTitus Hardie, the undisputed leader of the group, is a broad-shouldered, gravel-voiced dockworker defined by his heavy denim jacket, thick mustache, and unyielding working-class pride. Fiercely protective of Martinaise civilians, Titus commands absolute loyalty from his crew, which includes hardened longshoremen such as Eugene, Alain, Theo, Glen, and the portly radio enthusiast Angus. The Hardie Boys enforce neighborhood order through physical intimidation, resolving domestic disputes, expelling violent drug pushers, and maintaining communal safety while remaining deeply suspicious of outside authorities, foreign corporate mercenaries, and RCM militia detectives.\n\nArmed with heavy wrenches, industrial prybars, and concealed surplus pistols, the group embodies the stubborn communal solidarity of Revachol's proletariat. A portable cassette player frequently hums on their table, filling the cafeteria with gritty rock tunes. When a brutal lynching behind the Whirling threatens to ignite a catastrophic war with corporate mercenaries, the Hardie Boys close ranks, fabricating a coordinated cover story to protect a neighborhood woman from brutal mercenary retribution. Despite their rough demeanor and street-level justice, Titus and his men represent the last line of defense standing between the impoverished residents of Martinaise and violent annihilation.",
+    "keywords": [
+      "Titus Hardie",
+      "Hardie Boys",
+      "Debardeurs Union",
+      "Martinaise",
+      "Vigilantes",
+      "Whirling-in-Rags",
+      "Revachol"
+    ],
+    "char_count": 1872,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.03 Leo the Harmless Dockworker.MD",
+    "title": "Leo the Harmless Dockworker",
+    "text": "Leo is a gentle, simple-minded, and universally beloved municipal dockworker employed by the Debardeurs Union Local 41 in the commercial harbor of Martinaise. Serving as an informal clerk, errand runner, and logistical assistant to Union Boss Evrart Claire, Leo occupies a humble wooden dispatch shack near the harbor container gates, where he distributes tools, sorts keys, and welcomes visitors with relentless, unfeigned warmth.\n\nDressed in a faded yellow worker's boiler suit, oversized rubber boots, and a stained woolen cap, Leo presents a striking contrast to the hardened, suspicious longshoremen who guard the maritime perimeter. He possesses a remarkably innocent, trusting disposition and a childlike enthusiasm for routine clerical tasks. His mind operates with literal-minded simplicity, devoid of political cynicism, malice, or ideological prejudice. While the surrounding district is gripped by bitter labor strikes, mercenary threats, and deep-seated paranoia, Leo remains completely unperturbed, cheerfully sweeping gravel, polishing brass padlocks, and offering kind words to anyone who passes his post. He takes immense pride in organizing keyrings for the Capeside apartment blocks and cataloging spare grease fittings for the gantry cranes.\n\nDespite his intellectual limitations, Leo is deeply cherished and protected by the entire Martinaise community. The dockworkers, union enforcers, and local shopkeepers treat him with fraternal affection, shielding him from the violent realities of the ongoing standoff between the union and Wild Pines. His total inability to tell a convincing lie or comprehend malicious deceit makes him a refreshingly pure, if occasionally frustrating, source of information for investigators navigating the treacherous political intrigues of the harbor.",
+    "keywords": [
+      "Leo",
+      "Dockworker",
+      "Debardeurs Union",
+      "Evrart Claire",
+      "Martinaise",
+      "Harbor",
+      "Revachol"
+    ],
+    "char_count": 1803,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.01 Joyce Messier.MD",
+    "title": "Joyce Messier",
+    "text": "Joyce Messier, born Rejoyce Leyton-Messier, is an aristocratic diplomat, corporate negotiator, and senior plenipotentiary representative of the Wild Pines Group, one of the largest multinational maritime freight and logistics cartels in Elysium. Deployed to Martinaise to resolve the protracted commercial terminal strike initiated by the Debardeurs Union, she conducts her negotiations from the deck of her luxurious motorized yacht, the Frigate Bird, anchored off the coastal boardwalk.\n\nJoyce is characterized by her impeccable aristocratic elegance, tailored navy maritime blazer, silk neckerchief, and refined, cultured diction. Educated in the elite finishing schools of Mundi and possessed of immense personal wealth, she represents the sophisticated, polite face of global capital. Unlike the coarse, violent mercenaries deployed alongside her, Joyce views the world with philosophical detachment and acute historical awareness. She possesses a remarkably profound understanding of the pale, interisolary navigation physics, and the geopolitical mechanisms through which the Moralintern and the Coalition maintain hegemony over the ruined city of Revachol. She smokes fine foreign cigarettes through an ivory holder while observing the grey waves.\n\nDespite her corporate allegiance to Wild Pines, Joyce is neither ruthless nor unfeeling. She harbors a deep, melancholic sorrow regarding the tragic fate of Revachol and openly laments the catastrophic decline of post-revolutionary society. Recognizing the imminent danger posed by the unhinged Krenel mercenaries under Colonel Kortenaer, she actively assists the Revachol Citizens Militia with strategic intelligence, seeking an equitable diplomatic compromise before the labor dispute descends into an uncontrollable bloodbath along the coast.",
+    "keywords": [
+      "Joyce Messier",
+      "Wild Pines",
+      "Martinaise",
+      "Negotiator",
+      "Aristocracy",
+      "Pale",
+      "Revachol"
+    ],
+    "char_count": 1802,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.02 Colonel Kortenaer.MD",
+    "title": "Colonel Kortenaer",
+    "text": "Colonel Raul Kortenaer, known colloquially among his troops as the Red Commander, is the field commander of the private mercenary detachment deployed to Martinaise by the Wild Pines Group to suppress the Debardeurs Union strike. A battle-hardened veteran of brutal colonial brush wars and counter-insurgency operations in the southern isola of Semenine, Kortenaer is an unstable, alcohol-ravaged professional soldier consumed by vengeful fury following the murder of his brother-in-arms, Ellis Lely.\n\nEncased within an imposing suit of Fairweather T-56 ceramic powered body armor, Kortenaer represents the apex of modern private military lethality. His physical body is heavily scarred, his face lined by decades of hard drinking, sleep deprivation, and extreme combat trauma. Following the lynching of Lely behind the Whirling-in-Rags, Kortenaer descends into a state of chronic, heavily armed intoxication, quartering his squad in an armored motor transport while guzzling industrial spirits and plotting a devastating reprisal against the local populace. He violently curses the Coalition authorities and the local militia alike for failing to deliver his brother's killer. His speech is laced with military slang, violent threats, and bitter memories of past colonial massacres.\n\nKortenaer's military doctrine is devoid of ethical constraint, viewing civilian populations as hostile insurgent combatants subject to total kinetic pacification. Bound to his deceased comrade by fierce martial fraternity and shared wartime atrocities, he refuses corporate orders from Wild Pines to stand down. Armed with high-caliber automatic weapons and supported by heavily armored squad mates, Kortenaer marches toward an inevitable, bloody confrontation in the central square of Martinaise, determined to drown the Hardie Boys and anyone standing with them in overwhelming gunfire.",
+    "keywords": [
+      "Raul Kortenaer",
+      "Mercenaries",
+      "Krenel",
+      "Fairweather T-56",
+      "Wild Pines",
+      "Martinaise",
+      "Revachol"
+    ],
+    "char_count": 1872,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.03 Ruud Hoogenstraten and De Pauw.MD",
+    "title": "Ruud Hoogenstraten and De Pauw",
+    "text": "Ruud Hoogenstraten and De Pauw constitute the lethal operational vanguard of the Krenel corporate mercenary detachment deployed under Colonel Raul Kortenaer in Martinaise. As elite combat contractors operating under corporate charter from the Wild Pines Group, these two professional soldiers represent the chilling reality of modern privatized warfare, combining state-of-the-art military technology with ideological fanaticism and psychological depravity.\n\nRuud Hoogenstraten, known as the Gun-Collector, is a notorious, psychopathic sniper and ideological extremist originating from the reactionary fringes of foreign colonial armies. Completely entombed within a matte-black Fairweather T-56 ceramic armor suit with an opaque blast visor, Ruud communicates in guttural, violent outbursts, driven by virulent racial chauvinism and a pathological compulsion to kill. He collects ballistic trophies from his victims and views the impoverished residents of Martinaise as subhuman targets awaiting extermination, demonstrating absolute eagerness to open fire on unarmed crowds.\n\nDe Pauw, by contrast, operates as the squad's cold, tactical radio operator and heavy weapons specialist. Clad in identical powered ceramic armor, De Pauw maintains rigorous military discipline, monitoring Coalition radio frequencies and coordinating fire sectors with mechanical detachment. He carries an arsenal of high-explosive ordnance and military flechette rounds. While less overtly psychotic than Ruud, De Pauw exhibits an utter absence of human empathy, executing lethal orders with corporate efficiency. Together with Kortenaer, this armored duo forms a terrifying kinetic shock unit whose violent collision with the Hardie Boys turns the Martinaise municipal square into a slaughterhouse beneath the coastal sky.",
+    "keywords": [
+      "Ruud Hoogenstraten",
+      "De Pauw",
+      "Mercenaries",
+      "Krenel",
+      "Fairweather T-56",
+      "Martinaise",
+      "Revachol"
+    ],
+    "char_count": 1802,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
+    "title": "Garte the Cafeteria Manager",
+    "text": "Garte serves as the long suffering day and night manager of the Whirling-in-Rags cafeteria and hostel in Martinaise, overseeing daily hospitality operations on behalf of an absentee corporate proprietor. Meticulous, pedantic, and perpetually high strung, he approaches his managerial duties with severe professional anxiety, attempting to maintain bourgeois commercial decorum in an impoverished post industrial district gripped by an indefinite dock strike. His routine consists of balancing ledger accounts, serving mediocre food and alcohol, handling difficult local clientele, and preventing violence between union dockworkers, corporate contractors, and vagrants.\n\nHis patience reaches complete exhaustion following the arrival of the Citizens Militia investigative detachment sent to Martinaise. Prior to the official commencement of the murder inquiry, an arriving RCM officer engaged in a catastrophic, narcotic fueled binge that resulted in immense structural damage across the hostel. Garte was left to document shattered windows, destroyed vintage taxidermy, wrecked furniture, and hundreds of real in unpaid bar tabs. He greets municipal authorities with open hostility and demands for monetary restitution, refusing to yield on administrative protocols or hotel bills regardless of homicide inquiries.\n\nDespite his rigid exterior and obsessive insistence on financial accountability, Garte is an ordinary civilian trapped between terrifying regional powers. He fears the retribution of the Debardeurs Union, distrusts armed corporate mercenaries, and harbors no illusions regarding the institutional efficacy of the precinct militia. His encyclopedic memory regarding hostel guests, patron disputes, and courtyard activities makes him an invaluable source of logistical intelligence. Garte remains an enduring archetype of Revacholian petty bureaucracy, stubbornly demanding payment for broken glassware while historical catastrophes unfold around his front steps.",
+    "keywords": [
+      "Garte",
+      "Whirling-in-Rags",
+      "cafeteria manager",
+      "Martinaise",
+      "hostel",
+      "property damage",
+      "hospitality"
+    ],
+    "char_count": 1977,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
+    "title": "Lena and Morell the Cryptozoologist",
+    "text": "Lena and Morell the Cryptozoologist represent an eccentric yet profoundly dedicated intellectual presence residing temporarily at the Whirling-in-Rags cafeteria in Martinaise. Lena, bound to a wheelchair and bundled in warm woolen blankets by the ground floor hearth, is a woman of immense warmth, patience, and erudition. Possessing an encyclopedic memory of regional folklore, natural history, and forgotten Insulindian legends, she provides thoughtful historical context to anyone willing to listen, offering an oasis of domestic serenity amidst the hostility of the surrounding district. Her physical immobility belies an agile, observant mind attuned to the subtle shifts of local life.\n\nHer husband, Morell, is an obsessive field researcher who has spent decades traversing the remote corners of the Insulindian Isola in search of undiscovered fauna. Accompanied by his surly assistant Gary, Morell spends long, grueling hours inspecting baited pheromone traps placed across the desolate reeds and saline tidal marshes of the western coast. His primary scientific ambition is the discovery of the Insulindian Phasmid, a colossal reed mimicking insect widely dismissed by mainstream Graad and Revacholian academia as an unscientific myth or localized hallucination. Lena quietly financed and encouraged his expeditions, having witnessed the creature during her childhood, a fleeting memory that shaped the trajectory of their shared lives.\n\nTogether, the elderly couple embodies a delicate, romantic devotion to the mysteries of the natural world, standing in stark contrast to the cynical militarism and ideological bitterness gripping Martinaise. While foreign mercenaries and striking dockworkers prepare for violent confrontation, Morell and Lena remain steadfast in their quiet quest, reminding observers that the damp ruins of Revachol harbor wonders beyond economic collapse and historical grievances.",
+    "keywords": [
+      "Lena",
+      "Morell",
+      "cryptozoology",
+      "Insulindian Phasmid",
+      "cryptids",
+      "Whirling-in-Rags",
+      "Martinaise"
+    ],
+    "char_count": 1913,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
+    "title": "Rene Arnoux and Gaston Martin",
+    "text": "Rene Arnoux and Gaston Martin are elderly lifelong companions and ideological adversaries who spend their days playing petanque on the dusty terrain of the artillery crater in southwest Martinaise. Rene is an unyielding veteran of the King's Carabinier regiment, fiercely proud of his military service during the Revachol Commune. Dressed in his worn royalist uniform and polished boots, he carries himself with rigid monarchist discipline despite severe cardiovascular decay and decades of grinding poverty. Bitter and contemptuous of modern Revachol, Rene views the Communards as criminal traitors who destroyed the realm, clinging to an idealized memory of monarchic order and royal honor.\n\nGaston Martin stands as Rene's complete philosophical opposite. A rotund, jovial retired communard fighter, Gaston fought on the revolutionary barricades that Rene sought to crush. Pragmatic, easygoing, and fond of gourmet sandwiches, Gaston harbors no romantic illusions about the Commune or the subsequent Coalition occupation, preferring earthly comforts and peaceful routine over ideological fanaticism. Despite their opposing pasts and incessant verbal sparring over game rules and historical crimes, the two men are bound by profound mutual dependence. Their bond was cemented decades ago by their shared love for the same woman, Jeanne, who chose Rene as her husband while maintaining a close friendship with Gaston.\n\nFor nearly half a century, their daily petanque matches have served as a living monument to the unresolved trauma of the Insulindian civil conflict. Through bitter arguments, shared meals, and carefully measured throws of steel boules, Rene and Gaston enact a daily ritual of reconciliation, proving that human companionship can outlast the violent ideologies that once set the city ablaze.",
+    "keywords": [
+      "Rene Arnoux",
+      "Gaston Martin",
+      "petanque",
+      "royalist",
+      "communard",
+      "crater",
+      "Martinaise"
+    ],
+    "char_count": 1809,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
+    "title": "Cuno and Cunoesse",
+    "text": "Kuuno de Ruyter, universally known as Cuno, and his feral companion Cunoesse are delinquent street youths occupying the alleyways and corrugated shack roofs behind the Whirling-in-Rags in Martinaise. Cuno is a hyperactive, volatile adolescent who masks severe domestic trauma behind a wall of manic, third person aggression, foul mouthed bravado, and relentless speed abuse. Living in squalor within the nearby Capeside apartments with an abusive, drug addicted former boxer father, Cuno survives on petty theft, scavenging, and sheer territorial defiance. He hurls obscenities and stones at passing municipal authorities, claiming absolute ownership over the ruined industrial backlots.\n\nPerched above him on the roof of a discarded shipping shed lurks Cunoesse, a feral young girl whose hostility is even sharper and more venomous than Cuno's manic outbursts. Speaking with a harsh foreign cadence, she constantly goads Cuno into acts of escalating cruelty, suspicion, and paranoia, viewing any approaching adult as an existential threat. When an unidentified corpse is hung from a tree in the hostel courtyard, the two children turn the macabre scene into a grotesque playground, pelting the body with rocks while mocking the incompetence of the investigating militia officers.\n\nBeneath Cuno's abrasive facade lies a remarkably observant and intelligent street survivor. Possessing acute situational awareness of coastal movements, hidden smuggling paths, and union activities, he demonstrates raw talent in industrial spray painting and acoustic design. When treated with firm professional authority rather than violence, Cuno reveals glimpses of vulnerability and a desperate desire for parental guidance, demonstrating the tragic waste of young human potential in the abandoned urban ruins of the Insulindian coastline.",
+    "keywords": [
+      "Cuno",
+      "Cunoesse",
+      "Kuuno de Ruyter",
+      "street youth",
+      "speedfreaks",
+      "Martinaise",
+      "Whirling-in-Rags"
+    ],
+    "char_count": 1825,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
+    "title": "Klaasje Amandou",
+    "text": "Klaasje Amandou, residing under the alias Miss Oranje Disco Dancer in Room 3 of the Whirling-in-Rags, is an elusive corporate fugitive whose presence serves as the catalyst for the murder investigation in Martinaise. Born in the Republic of Oranje, she previously worked as an operative specializing in industrial corporate espionage. After leaking highly sensitive financial intelligence that resulted in the catastrophic ruin of an offshore bank, she fled across the isolas, constantly evading private corporate security forces and contract hitmen. Taking refuge in the lawless post industrial enclave of Martinaise, she rented a modest room upstairs at the Whirling-in-Rags and adopted an unassuming party girl persona to blend into the coastal nightlife.\n\nKlaasje entered into a volatile, drug fueled sexual liaison with Colonel Ellis Kortenaer, the commander of the Krenel private military detachment sent to break the local dock strike. When a high caliber sniper bullet struck Kortenaer through her hostel window, killing him instantly, Klaasje was thrust into mortal danger. Knowing that an official police inquiry into a corporate mercenary commander would expose her real identity to her pursuers, she orchestrated a sophisticated cover up. Enlisting the aid of the local dockworkers union and the Hardie boys, she had Kortenaer's corpse moved to the courtyard tree and staged as a retaliatory lynching.\n\nArmed with extraordinary intelligence, tactical poise, and calculating psychological insight, Klaasje navigates police interrogations through carefully rehearsed vulnerability and deceptive misdirection. She relies on alcohol, tobacco, and prescription narcotics to stave off relentless paranoia, knowing that her survival hinges upon staying one step ahead of both municipal authorities and international corporate assassins.",
+    "keywords": [
+      "Klaasje Amandou",
+      "Miss Oranje",
+      "Whirling-in-Rags",
+      "industrial espionage",
+      "witness",
+      "Room 3",
+      "Martinaise"
+    ],
+    "char_count": 1841,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
+    "title": "The Paledriver",
+    "text": "The Paledriver is an elderly female long haul freight motor carriage operator stranded in the immense logistical traffic jam stretching along the coastal causeway outside the Martinaise harbour. Having spent over four decades transporting heavy industrial goods across interisolary pale corridors between the dispersed landmasses of Elysium, she has endured far more exposure to the entropic un-matter of the pale than standard civilian transport regulations permit. As a direct consequence of this prolonged atmospheric exposure, her mind experiences profound chronological rarefaction and the gradual dissolution of personal identity.\n\nRather than experiencing conventional memory deterioration, the Paledriver suffers from the intrusion of extraneous historical consciousness. In her waking hours, her nervous system perceives sensory echoes, geographical memories, and linguistic fragments from distant centuries and vanished isolas that never belonged to her. She speaks in soft, tranquil, and deeply philosophical cadences, observing the mundane municipal disputes of Martinaise with detached serenity. To her diluted perception, past historical eras and present realities coexist simultaneously, rendering everyday temporal boundaries meaningless.\n\nHer presence outside the commercial gates provides living evidence of the severe neurological hazards inherent to interisolary transit. While ordinary lorry drivers curse the dockworkers strike and the immobilizing gridlock, the Paledriver sits quietly in the cab of her idling heavy vehicle, listening to the static hiss of radio transmitters and contemplating the steady erosion of the material world. She embodies the haunting reality of Elysium's frontier, where human commerce repeatedly traverses the void at the cost of personal memory and mental cohesion.",
+    "keywords": [
+      "The Paledriver",
+      "pale exposure",
+      "lorry driver",
+      "interisolary transit",
+      "pale sickness",
+      "Martinaise"
+    ],
+    "char_count": 1819,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
+    "title": "Plaisance and Annette",
+    "text": "Plaisance and her young daughter Annette operate Crime, Romance and Biographies, a struggling independent commercial bookshop situated across the street from the Whirling-in-Rags in Martinaise. Plaisance is a fiercely conservative, moralistic, and anxious businesswoman who views the surrounding working class neighborhood with profound suspicion. Terrified of economic ruin, vagrancy, and municipal neglect, she manages her modest inventory of pulp fiction, religious commentaries, and regional histories with obsessive frugality. Her acute paranoia is intensified by rumors of a supernatural curse haunting the shuttered Doomed Commercial Area connected to the rear of her shop.\n\nDespite the biting coastal chill and persistent rain, Plaisance forces her daughter Annette to stand outside on the pavement for hours distributing promotional leaflets to uninterested dockworkers and passersby. Annette is a remarkably bright, imaginative, and resilient child who copes with the monotony and cold by reading fantasy adventure books and inventing elaborate tabletop roleplaying scenarios in her head. While her mother obsessively calculates daily revenue and guards the building against suspected trespassers, Annette maintains an innocent curiosity about the eccentric visitors traversing the street.\n\nPlaisance fiercely guards the heavy iron security door leading into the darkened labyrinth of the adjoining commercial building. Having witnessed decades of business failures and bankruptcies within the structure, she is convinced that an active spiritual malevolence destroys any commercial enterprise established on the premises. Her mix of petty bourgeois pride, parental harshness, and superstitious dread illustrates the deep psychological fragility of small business owners trying to survive in a decaying post industrial periphery.",
+    "keywords": [
+      "Plaisance",
+      "Annette",
+      "bookstore",
+      "Doomed Commercial Area",
+      "Martinaise",
+      "curse",
+      "bookseller"
+    ],
+    "char_count": 1839,
+    "done": false
+  },
+  {
+    "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
+    "title": "Iosef Lilianovich Dros the Deserter",
+    "text": "Iosef Lilianovich Dros, known historically as the Deserter, is an eighty year old former political commissar and sniper of the International Red Army who has lived in absolute seclusion for over four decades on the abandoned Sea Fortress island in the Bay of Revachol. Following the collapse of the Revachol Commune under Coalition naval bombardment in '08, Dros abandoned his comrades and retreated to the fortified sea ruins. From his concrete bunker, he has spent forty four years observing the mainland through high magnification sniper optics, watching the gradual restoration of bourgeois commerce and foreign colonial occupation with consuming ideological fury.\n\nDros survived on scavenged tinned rations, coastal fishing, and bitter revolutionary dogmatism, considering himself the sole uncorrupted communard soldier remaining on the Insulindian Isola. His intense isolation was complicated by his nesting proximity to an adult Insulindian Phasmid inhabiting the island's coastal reeds. Prolonged biochemical exposure to the creature's psychotropic pheromones accelerated his mental degeneration, fusing his Marxist political bitterness with obsessive sexual voyeurism directed at the young women of Martinaise, particularly Klaasje Amandou.\n\nDriven by a toxic blend of ideological vengeance, sexual jealousy, and senile dementia, Dros pointed his antique military rifle toward the hostel window and fired the shot that killed mercenary colonel Ellis Kortenaer. His single act of bitter hatred ignited the industrial strike crisis, mercenary standoff, and subsequent bloodbath in Martinaise. When finally apprehended in the dark tunnels of the sea fort, Dros represents the tragic, venomous ghost of a crushed revolution, clutching a rusted rifle while the world he fought for recedes forever into the sea.",
+    "keywords": [
+      "Iosef Lilianovich Dros",
+      "the Deserter",
+      "communard",
+      "Sea Fortress",
+      "sniper",
+      "Insulindian Phasmid",
+      "Martinaise"
+    ],
+    "char_count": 1814,
     "done": false
   }
 ];

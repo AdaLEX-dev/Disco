@@ -27,9 +27,7 @@
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.01 Coal City.MD",
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.02 Old Town.MD",
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.03 Stella Maris and North Coast.MD",
-    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD"
-  ],
-  "pending_files": [
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD",
     "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",
     "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
     "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
@@ -45,12 +43,34 @@
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD"
   ],
-  "total_entries": 40,
-  "uploaded_count": 26,
-  "pending_count": 14,
+  "pending_files": [
+    "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.04 Officer Judit Minot.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.05 Officer Trant Heidelstam.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.06 Chester McLaine and Alice Steine.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.01 Evrart Claire.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.02 Titus Hardie and Hardie Boys.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.03 Leo the Harmless Dockworker.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.01 Joyce Messier.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.02 Colonel Kortenaer.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.03 Ruud Hoogenstraten and De Pauw.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
+  ],
+  "total_entries": 60,
+  "uploaded_count": 40,
+  "pending_count": 20,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
-  "written_count": 40,
+  "written_count": 60,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -91,10 +111,7 @@
     "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
-    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD"
-  ],
-  "unwritten_count": 88,
-  "unwritten_files": [
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
@@ -114,7 +131,10 @@
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
-    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
+  ],
+  "unwritten_count": 68,
+  "unwritten_files": [
     "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
