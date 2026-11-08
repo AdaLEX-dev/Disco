@@ -41,9 +41,7 @@
     "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
-    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD"
-  ],
-  "pending_files": [
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
     "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
@@ -59,15 +57,17 @@
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
-    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
   ],
+  "pending_files": [
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD"
+  ],
   "total_entries": 60,
-  "uploaded_count": 40,
-  "pending_count": 20,
+  "uploaded_count": 59,
+  "pending_count": 1,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
   "written_count": 60,

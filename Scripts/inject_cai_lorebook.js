@@ -662,7 +662,7 @@
       "Revachol"
     ],
     "char_count": 1914,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
@@ -678,7 +678,7 @@
       "Revachol"
     ],
     "char_count": 1919,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
@@ -694,7 +694,7 @@
       "Revachol"
     ],
     "char_count": 1841,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.01 RCM Officers/03.01.04 Officer Judit Minot.MD",
@@ -710,7 +710,7 @@
       "Revachol"
     ],
     "char_count": 1817,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.01 RCM Officers/03.01.05 Officer Trant Heidelstam.MD",
@@ -726,7 +726,7 @@
       "Revachol"
     ],
     "char_count": 1842,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.01 RCM Officers/03.01.06 Chester McLaine and Alice Steine.MD",
@@ -742,7 +742,7 @@
       "Revachol"
     ],
     "char_count": 1806,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.01 Evrart Claire.MD",
@@ -758,7 +758,7 @@
       "Revachol"
     ],
     "char_count": 1848,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.02 Titus Hardie and Hardie Boys.MD",
@@ -774,7 +774,7 @@
       "Revachol"
     ],
     "char_count": 1872,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.03 Leo the Harmless Dockworker.MD",
@@ -790,7 +790,7 @@
       "Revachol"
     ],
     "char_count": 1803,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.01 Joyce Messier.MD",
@@ -806,7 +806,7 @@
       "Revachol"
     ],
     "char_count": 1802,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.02 Colonel Kortenaer.MD",
@@ -822,7 +822,7 @@
       "Revachol"
     ],
     "char_count": 1872,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.03 Ruud Hoogenstraten and De Pauw.MD",
@@ -838,7 +838,7 @@
       "Revachol"
     ],
     "char_count": 1802,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
@@ -854,7 +854,7 @@
       "hospitality"
     ],
     "char_count": 1977,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
@@ -870,7 +870,7 @@
       "Martinaise"
     ],
     "char_count": 1913,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
@@ -886,22 +886,22 @@
       "Martinaise"
     ],
     "char_count": 1809,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
     "title": "Cuno and Cunoesse",
-    "text": "Kuuno de Ruyter, universally known as Cuno, and his feral companion Cunoesse are delinquent street youths occupying the alleyways and corrugated shack roofs behind the Whirling-in-Rags in Martinaise. Cuno is a hyperactive, volatile adolescent who masks severe domestic trauma behind a wall of manic, third person aggression, foul mouthed bravado, and relentless speed abuse. Living in squalor within the nearby Capeside apartments with an abusive, drug addicted former boxer father, Cuno survives on petty theft, scavenging, and sheer territorial defiance. He hurls obscenities and stones at passing municipal authorities, claiming absolute ownership over the ruined industrial backlots.\n\nPerched above him on the roof of a discarded shipping shed lurks Cunoesse, a feral young girl whose hostility is even sharper and more venomous than Cuno's manic outbursts. Speaking with a harsh foreign cadence, she constantly goads Cuno into acts of escalating cruelty, suspicion, and paranoia, viewing any approaching adult as an existential threat. When an unidentified corpse is hung from a tree in the hostel courtyard, the two children turn the macabre scene into a grotesque playground, pelting the body with rocks while mocking the incompetence of the investigating militia officers.\n\nBeneath Cuno's abrasive facade lies a remarkably observant and intelligent street survivor. Possessing acute situational awareness of coastal movements, hidden smuggling paths, and union activities, he demonstrates raw talent in industrial spray painting and acoustic design. When treated with firm professional authority rather than violence, Cuno reveals glimpses of vulnerability and a desperate desire for parental guidance, demonstrating the tragic waste of young human potential in the abandoned urban ruins of the Insulindian coastline.",
+    "text": "Kuuno de Ruyter, universally recognized across the district as Cuno, together with his companion Cunoesse, represents the defiant, unsupervised street youth navigating the industrial decline of Martinaise. Cuno is a hyperactive, fiercely independent adolescent who claims absolute dominion over the corrugated sheds and vacant lots behind the Whirling-in-Rags hostel. Armed with manic third person bravado, rapid vocal delivery, and an unshakeable refusal to defer to municipal authorities, he treats every visiting official with sharp territorial suspicion. Residing in the neglected Capeside apartments with a reclusive former boxer father, Cuno spends his days roaming the coast through street ingenuity, salvage scavenging, and boundless kinetic energy.\n\nPerched above the courtyard on the roof of a rusted storage shed sits Cunoesse, an enigmatic girl speaking in a sharp foreign dialect. Deeply mistrustful of adult authority and protective of their shared hideout, she reinforces Cuno's defiant posture from her elevated vantage point, jeering at municipal representatives. When the Citizens Militia arrives to conduct an investigation in the hostel backyard, the pair mount a campaign of mockery, taunting the detectives from behind chain link fences and challenging official inquiries with relentless cynicism.\n\nBeneath this confrontational exterior lies an extraordinarily perceptive observer. Growing up in the neglected ruins of Martinaise, Cuno possesses encyclopedic knowledge of neighborhood alleyways, hidden harbor gaps, union routines, and coastal rumors. He displays distinct talent in large scale spray painting and an intuitive grasp of acoustic resonance in empty architecture. When approached with steady professional respect and patience rather than condescension, Cuno reveals an underlying desire for mentorship and purpose. His sharp observational instincts make him an unexpectedly capable ally for precinct officers operating on the Insulindian coast.",
     "keywords": [
       "Cuno",
       "Cunoesse",
       "Kuuno de Ruyter",
       "street youth",
-      "speedfreaks",
       "Martinaise",
-      "Whirling-in-Rags"
+      "Whirling-in-Rags",
+      "Capeside"
     ],
-    "char_count": 1825,
+    "char_count": 1980,
     "done": false
   },
   {
@@ -918,7 +918,7 @@
       "Martinaise"
     ],
     "char_count": 1841,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
@@ -933,7 +933,7 @@
       "Martinaise"
     ],
     "char_count": 1819,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
@@ -949,7 +949,7 @@
       "bookseller"
     ],
     "char_count": 1839,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
@@ -965,7 +965,7 @@
       "Martinaise"
     ],
     "char_count": 1814,
-    "done": false
+    "done": true
   }
 ];
   
