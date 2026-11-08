@@ -8,6 +8,7 @@ to the repository's lore database.
 Endpoints:
 - GET  /api/entries   : Returns all entries parsed from Categories/ with upload status
 - POST /api/mark_done : Marks a specific MD file as done in POS/UPLOAD-POSITIONS.json
+- POST /api/reset     : Clears uploaded_files and resets progression tracker to empty
 """
 
 import http.server
@@ -80,7 +81,7 @@ def get_all_entries():
             rel = os.path.relpath(fpath, BASE_DIR)
             try:
                 title, text, keywords = parse_lore_md(fpath)
-            except Exception as e:
+            except Exception:
                 continue
 
             entries.append({
@@ -126,6 +127,7 @@ class LoreRequestHandler(http.server.BaseHTTPRequestHandler):
                 uploaded = set(pos.get("uploaded_files", []))
                 uploaded.add(file_done)
                 pos["uploaded_files"] = sorted(list(uploaded))
+                pos["uploaded_count"] = len(pos["uploaded_files"])
                 save_pos(pos)
                 print(f"[Done] Marked uploaded: {file_done}")
 
@@ -133,19 +135,30 @@ class LoreRequestHandler(http.server.BaseHTTPRequestHandler):
             self.send_header("Content-Type", "application/json")
             self.end_headers()
             self.wfile.write(b'{"status":"ok"}')
+
+        elif self.path == "/api/reset":
+            pos = load_pos()
+            pos["uploaded_files"] = []
+            pos["uploaded_count"] = 0
+            save_pos(pos)
+            print("[Reset] Progression tracker cleared to empty.")
+
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(b'{"status":"reset_ok"}')
+
         else:
             self.send_response(404)
             self.end_headers()
 
     def log_message(self, format, *args):
-        # Quiet standard HTTP access log
         return
 
 def run():
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("127.0.0.1", PORT), LoreRequestHandler) as httpd:
         print(f"Lorebook local bridge listening on http://127.0.0.1:{PORT}")
-        print("Ready for Tampermonkey sync requests...")
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:
