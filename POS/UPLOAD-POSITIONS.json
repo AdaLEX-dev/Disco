@@ -1,0 +1,454 @@
+{
+  "project": "Disco Elysium Lorebook for Character.ai",
+  "version": "1.0.0",
+  "categories": {
+    "00. Canon": {},
+    "01. Location": {
+      "01.01 World": {
+        "file_count": 4,
+        "files": [
+          "01.01.01 The World.MD",
+          "01.01.02 The Isolas.MD",
+          "01.01.03 The Pale.MD",
+          "01.01.04 Known Geographic Divisions.MD"
+        ]
+      },
+      "01.02 Insulinde": {
+        "file_count": 5,
+        "files": [
+          "01.02.01 Insulinde.MD",
+          "01.02.02 Revachol.MD",
+          "01.02.03 Other Insulindian Territories.MD",
+          "01.02.04 Insulindian Islands.MD",
+          "01.02.05 Insulindian Waters.MD"
+        ]
+      },
+      "01.03 Revachol": {
+        "file_count": 7,
+        "files": [
+          "01.03.01 Revachol Overview.MD",
+          "01.03.02 Revachol Geography.MD",
+          "01.03.03 Revachol Districts.MD",
+          "01.03.04 Revachol Architecture.MD",
+          "01.03.05 Revachol Infrastructure.MD",
+          "01.03.06 Revachol Coast.MD",
+          "01.03.07 Revachol Inland Areas.MD"
+        ]
+      },
+      "01.04 Martinaise": {
+        "file_count": 12,
+        "files": [
+          "01.04.01 Martinaise Overview.MD",
+          "01.04.02 Martinaise Geography.MD",
+          "01.04.03 Whirling-in-Rags.MD",
+          "01.04.04 Martinaise Waterfront.MD",
+          "01.04.05 Martinaise Boardwalk.MD",
+          "01.04.06 Martinaise Fishing Village.MD",
+          "01.04.07 Church of the Dolorian.MD",
+          "01.04.08 Martinaise Harbour.MD",
+          "01.04.09 Feld Building.MD",
+          "01.04.10 Doomed Commercial Area.MD",
+          "01.04.11 Land's End.MD",
+          "01.04.12 Other Martinaise Locations.MD"
+        ]
+      },
+      "01.05 Revachol Districts": {
+        "file_count": 9,
+        "files": [
+          "01.05.01 Jamrock.MD",
+          "01.05.02 Coal City.MD",
+          "01.05.03 Old Town.MD",
+          "01.05.04 Terminal.MD",
+          "01.05.05 Central Revachol.MD",
+          "01.05.06 West Revachol.MD",
+          "01.05.07 East Revachol.MD",
+          "01.05.08 South Revachol.MD",
+          "01.05.09 North Revachol.MD"
+        ]
+      },
+      "01.06 Revachol Institutions and Landmarks": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.07 Graad": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.08 Samara": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.09 Seol": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.10 Oranjestad and Sur-la-Clef": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.11 Katla": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.12 Mundi": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.13 Iilmaraan": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.14 Mirova and Semenine": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.15 Other Locations and Isolas": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "02. Item": {
+      "02.01 Weapons and Ordnance": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.02 Clothing and Footwear": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.03 Tools and Equipment": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.04 Consumables and Narcotics": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.05 Books Documents and Printed Matter": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.06 Artifacts and Relics": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.07 Currency and Valuables": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.08 Vehicles and Machinery": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.09 Audio Tapes and Media": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.10 Miscellaneous Items": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "03. Side character": {
+      "03.01 Revachol Citizens and Workers": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.02 Coalition and Foreign Officials": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.03 Moralintern Representatives": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.04 Wild Pines Personnel and Mercenaries": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.05 Dockworkers Union and Hardie Boys": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.06 RCM Officers and Staff": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.07 Political Figures and Militants": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.08 Historical Figures and Kings": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.09 Scientists Academics and Innovators": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.10 Criminals Smugglers and Vagrants": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.11 Other Characters": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "04. Event": {
+      "04.01 Ancient History and Prehistory": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.02 Formation and Discovery of the Isolas": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.03 Perikarnasian and Early Political Eras": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.04 Innocence Era and Dolorian Transition": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.05 Revacholian Monarchy and Suzerainty": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.06 Revolution and Commune of Revachol": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.07 Coalition Intervention and Occupation": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.08 Martinaise Historical Incidents": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.09 Modern Political Events and Crises": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.10 In-Game Case Timeline and Murders": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.11 Future Canonical Events and Great Disappearance": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "05. Faction": {
+      "05.01 Revachol Institutions and Civic Bodies": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.02 Coalition of Nations and Moralintern": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.03 Wild Pines Group": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.04 Debardeurs Union and Labor Councils": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.05 Political Ideologies and Movements": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.06 Historical Military and Revolutionary Factions": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.07 Criminal Syndicates and Informal Gangs": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.08 Religious Orders and Churches": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.09 Megacorporations and Enterprises": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.10 Underground and Fringe Organizations": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "06. System": {
+      "06.01 World Structure and Cosmography": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.02 Pale and Entropics": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.03 Political Systems and Governance": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.04 Legal Judicial and Law Enforcement Systems": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.05 Economy Finance and Currencies": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.06 Technology Radiocomputing and Filament": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.07 Biology Medicine and Pathologies": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.08 Consciousness Thought Cabinet and Skills": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.09 RCM Structure Rank and Protocol": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.10 Language Dialects and Slang": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.11 Physics Matter and Pale Aerostatics": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "07. Culture and Religion": {
+      "07.01 Revacholian Culture and Identity": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.02 Martinaise Culture and Subcultures": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.03 Insulindian Culture and Traditions": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.04 Graadian Culture and Heritage": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.05 Samaran Culture and Traditions": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.06 Seolian Culture and Philosophy": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.07 Katlan Culture and Identity": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.08 Mundian Culture and Cosmopolitanism": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.09 Religion Innocences and Holy Dolorian Church": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.10 Music Radio and Anodic Dance Culture": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.11 Sports Pastimes and Suzerainty Board Game": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.12 Social Practices Class Stratification and Mores": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "08. Species": {
+      "08.01 Humans and Ethnic Groups": {
+        "file_count": 0,
+        "files": []
+      },
+      "08.02 Regional Populations and Demographics": {
+        "file_count": 0,
+        "files": []
+      },
+      "08.03 Biological Classification and Taxonomy": {
+        "file_count": 0,
+        "files": []
+      },
+      "08.04 Genetics Evolution and Pale Exposure": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "09. Creatures": {
+      "09.01 Insulindian Phasmid": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.02 Terrestrial Mammals and Beasts": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.03 Avian Species and Birds": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.04 Marine and Aquatic Life": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.05 Insects Arthropods and Invertebrates": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.06 Domestic and Working Animals": {
+        "file_count": 0,
+        "files": []
+      },
+      "09.07 Cryptids Folklore and Unconfirmed Organisms": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "10. Skills and Psyche": {
+      "10.01 Intellect Attributes and Skills": {
+        "file_count": 0,
+        "files": []
+      },
+      "10.02 Psyche Attributes and Skills": {
+        "file_count": 0,
+        "files": []
+      },
+      "10.03 Physique Attributes and Skills": {
+        "file_count": 0,
+        "files": []
+      },
+      "10.04 Motorics Attributes and Skills": {
+        "file_count": 0,
+        "files": []
+      },
+      "10.05 Thought Cabinet and Ideological Internalizations": {
+        "file_count": 0,
+        "files": []
+      }
+    }
+  },
+  "uploaded_files": []
+}
