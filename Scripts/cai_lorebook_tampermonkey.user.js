@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Character.ai Lorebook Auto-Sync
 // @namespace    https://github.com/AdaLEX-dev/Disco
-// @version      1.3.0
-// @description  Automated lorebook note sync with exact "+ New keyword" button interaction.
+// @version      1.4.0
+// @description  Automated lorebook note sync: Adds all entries sequentially, clicking Update only once when finished.
 // @author       DiscoElysium-Lorebook
 // @match        https://character.ai/lorebooks/*
 // @grant        GM_xmlhttpRequest
@@ -45,9 +45,8 @@
   // Exact UI interaction for Character.ai:
   // 1. Click "+ New keyword" button
   // 2. An input appears -> type keyword
-  // 3. Click the keyword button / submit again (or Enter) to finalize chip
+  // 3. Dispatch Enter / click button to finalize chip
   async function addKeywordToCai(keyword) {
-    // Look for button with "+ New keyword" or "New keyword"
     let newKwBtn = findElementByText('button, div[role="button"], span', 'New keyword')
                 || findElementByText('button, div[role="button"], span', '+ New keyword');
 
@@ -56,18 +55,14 @@
       return false;
     }
 
-    // Step 1: Click the "+ New keyword" button to open the input
     newKwBtn.click();
     await sleep(250);
 
-    // Step 2: Find the newly created or focused input field
     const activeEl = document.activeElement;
     let kwInput = (activeEl && activeEl.tagName === 'INPUT') ? activeEl : null;
 
     if (!kwInput) {
-      // Find input inside or immediately next to the keywords section
       const allInputs = Array.from(document.querySelectorAll('input[type="text"], input:not([type])'));
-      // Filter out Title input (usually has large font or 'Untitled entry' / title placeholder)
       kwInput = allInputs.find(inp => {
         const p = (inp.placeholder || '').toLowerCase();
         const a = (inp.getAttribute('aria-label') || '').toLowerCase();
@@ -80,12 +75,10 @@
       setNativeValue(kwInput, keyword);
       await sleep(150);
 
-      // Dispatch enter
       kwInput.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', code: 'Enter', keyCode: 13, which: 13, bubbles: true }));
       kwInput.dispatchEvent(new KeyboardEvent('keyup', { key: 'Enter', code: 'Enter', keyCode: 13, which: 13, bubbles: true }));
       await sleep(150);
 
-      // Step 3: If input still holds value, click "+ New keyword" or container to commit
       if (kwInput.value !== '') {
         if (newKwBtn && document.body.contains(newKwBtn)) {
           newKwBtn.click();
@@ -97,9 +90,9 @@
     return false;
   }
 
-  // Helper to execute single note submission
-  async function submitNoteEntry(item) {
-    // 0. Click "Add a new entry"
+  // Helper to populate a single entry into the editor form
+  async function populateEntryForm(item) {
+    // 0. Click "Add a new entry" (the + Add a new entry button)
     let addBtn = findElementByText('button, div[role="button"], span', 'Add a new entry') 
               || findElementByText('button, div[role="button"], span', 'Add entry');
 
@@ -108,7 +101,7 @@
       await sleep(700);
     }
 
-    // 1. Title: The title in the screenshot is an input or editable heading ("Untitled entry")
+    // 1. Title: The "Untitled entry" field
     const titleCandidates = Array.from(document.querySelectorAll('input[type="text"], input:not([type]), div[contenteditable="true"]'));
     let titleInput = titleCandidates.find(el => {
       const p = (el.placeholder || '').toLowerCase();
@@ -140,27 +133,28 @@
       await sleep(400);
     }
 
-    // 3. Keywords: Click "+ New keyword", type, and commit for each keyword
+    // 3. Keywords: Add each keyword tag
     if (item.keywords && item.keywords.length > 0) {
-      console.log(`Injecting ${item.keywords.length} keywords for "${item.title}"...`);
       for (const kw of item.keywords) {
         await addKeywordToCai(kw);
-        await sleep(300);
+        await sleep(250);
       }
     }
 
-    await sleep(500);
+    await sleep(400);
+    return true;
+  }
 
-    // 4. Update / Save button (top right of page as seen in screenshot: "Update" with gear icon)
+  // Triggers the top-right Update button once all entries are populated
+  async function clickFinalUpdate() {
     let saveBtn = findElementByText('button, div[role="button"]', 'Update')
                || Array.from(document.querySelectorAll('button')).find(b => (b.innerText || '').includes('Up'));
 
     if (saveBtn) {
+      console.log("Triggering final Update button to save all entries...");
       saveBtn.click();
       await sleep(1500);
       return true;
-    } else {
-      console.warn("Could not find Update button.");
     }
     return false;
   }
@@ -193,7 +187,7 @@
         <span id="cai-sync-status-badge" style="background:#313244; padding:2px 8px; border-radius:6px; font-size:11px; color:#a6adc8;">Idle</span>
       </div>
       <div id="cai-sync-info" style="margin-bottom:12px; font-size:12px; color:#bac2de; line-height:1.4;">
-        Tampermonkey bridge ready.
+        Ready to batch populate entries.
       </div>
       <div style="display:flex; gap:6px; margin-bottom:8px;">
         <button id="cai-sync-start-btn" style="flex:1; background:#a6e3a1; color:#11111b; border:none; border-radius:6px; padding:7px 10px; font-weight:bold; cursor:pointer;">
@@ -226,13 +220,14 @@
 
     let isRunning = false;
 
-    // Reset Progress
+    // Reset Progress Button: Completely clears the local tracker
     resetBtn.onclick = () => {
       GM_xmlhttpRequest({
         method: 'POST',
         url: 'http://127.0.0.1:8765/api/reset',
-        onload: function() {
-          infoText.innerText = 'Progression tracker reset to empty!';
+        onload: function(res) {
+          const r = JSON.parse(res.responseText);
+          infoText.innerText = `Progress cleared! All ${r.total} entries reset to pending.`;
           statusBadge.innerText = 'Reset Done';
           statusBadge.style.background = '#89b4fa';
           statusBadge.style.color = '#11111b';
@@ -286,30 +281,44 @@
           startBtn.style.display = 'none';
           testBtn.style.display = 'none';
           stopBtn.style.display = 'block';
-          statusBadge.innerText = maxCount ? 'Testing...' : 'Syncing...';
+          statusBadge.innerText = maxCount ? 'Testing...' : 'Populating...';
           statusBadge.style.background = maxCount ? '#f9e2af' : '#89b4fa';
           statusBadge.style.color = '#11111b';
+
+          const successfullyAdded = [];
 
           for (let i = 0; i < pending.length; i++) {
             if (!isRunning) break;
             const item = pending[i];
-            infoText.innerText = `[${i + 1}/${pending.length}]:\n"${item.title}"`;
-            progressText.innerText = `${item.keywords.length} keywords: ${item.keywords.join(', ')}`;
+            infoText.innerText = `Adding [${i + 1}/${pending.length}]:\n"${item.title}"`;
+            progressText.innerText = `Keywords: ${item.keywords.join(', ')}`;
 
-            const success = await submitNoteEntry(item);
+            const success = await populateEntryForm(item);
             if (success) {
-              GM_xmlhttpRequest({
-                method: 'POST',
-                url: 'http://127.0.0.1:8765/api/mark_done',
-                data: JSON.stringify({ file: item.file }),
-                headers: { 'Content-Type': 'application/json' }
-              });
+              successfullyAdded.push(item.file);
             }
           }
 
           if (isRunning) {
-            infoText.innerText = maxCount ? 'Test (2 entries) complete!' : 'All sync completed!';
-            statusBadge.innerText = 'Done';
+            // Once all entries are added, trigger the Update button ONCE
+            infoText.innerText = 'All entries populated! Clicking Update to finalize...';
+            statusBadge.innerText = 'Saving...';
+            await sleep(800);
+
+            await clickFinalUpdate();
+
+            // Notify local server of all added entries
+            for (const f of successfullyAdded) {
+              GM_xmlhttpRequest({
+                method: 'POST',
+                url: 'http://127.0.0.1:8765/api/mark_done',
+                data: JSON.stringify({ file: f }),
+                headers: { 'Content-Type': 'application/json' }
+              });
+            }
+
+            infoText.innerText = maxCount ? 'Test (2 entries) saved successfully!' : `Batch complete! Saved ${successfullyAdded.length} entries.`;
+            statusBadge.innerText = 'Completed';
             statusBadge.style.background = '#a6e3a1';
             stopBtn.style.display = 'none';
             startBtn.style.display = 'block';

@@ -8,7 +8,7 @@ to the repository's lore database.
 Endpoints:
 - GET  /api/entries   : Returns all entries parsed from Categories/ with upload status
 - POST /api/mark_done : Marks a specific MD file as done in POS/UPLOAD-POSITIONS.json
-- POST /api/reset     : Clears uploaded_files and resets progression tracker to empty
+- POST /api/reset     : Completely empties uploaded_files and resets counts to 0
 """
 
 import http.server
@@ -60,7 +60,14 @@ def load_pos():
                 return json.load(f)
         except Exception:
             pass
-    return {"project": "Disco Elysium Lorebook", "uploaded_files": []}
+    return {
+        "project": "Disco Elysium Lorebook for Character.ai",
+        "uploaded_files": [],
+        "pending_files": [],
+        "total_entries": 0,
+        "uploaded_count": 0,
+        "pending_count": 0
+    }
 
 def save_pos(data):
     os.makedirs(os.path.dirname(POS_FILE), exist_ok=True)
@@ -137,16 +144,23 @@ class LoreRequestHandler(http.server.BaseHTTPRequestHandler):
             self.wfile.write(b'{"status":"ok"}')
 
         elif self.path == "/api/reset":
-            pos = load_pos()
-            pos["uploaded_files"] = []
-            pos["uploaded_count"] = 0
+            all_entries = get_all_entries()
+            pos = {
+                "project": "Disco Elysium Lorebook for Character.ai",
+                "version": "1.0.0",
+                "uploaded_files": [],
+                "pending_files": [e["file"] for e in all_entries],
+                "total_entries": len(all_entries),
+                "uploaded_count": 0,
+                "pending_count": len(all_entries)
+            }
             save_pos(pos)
-            print("[Reset] Progression tracker cleared to empty.")
+            print(f"[Reset] Reset progression tracker! 0 uploaded, {len(all_entries)} pending.")
 
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.end_headers()
-            self.wfile.write(b'{"status":"reset_ok"}')
+            self.wfile.write(json.dumps({"status": "reset_ok", "total": len(all_entries)}).encode("utf-8"))
 
         else:
             self.send_response(404)
