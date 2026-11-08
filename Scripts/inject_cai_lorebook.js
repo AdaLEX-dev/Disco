@@ -415,6 +415,238 @@
     ],
     "char_count": 1871,
     "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",
+    "title": "Villiers 9mm Pepperbox Pistol",
+    "text": "The Villiers 9mm Pepperbox Pistol is a heavy, mechanically robust sidearm widely utilized across the Insulindian Isola and recognized as the primary standard-issue firearm of the Revachol Citizens Militia. Manufactured by the historic Villiers Armory in Grand-Couron, the weapon features a distinctive multi-barrel rotating cluster rather than a traditional single barrel and reciprocating slide assembly. Engineered to deliver reliable stopping power in damp coastal environments, the pistol is chambered in standard nine-millimeter lead ball cartridges ignited by rimfire percussion caps.\n\nThe construction of the Villiers reflects the utilitarian industrial philosophy of late monarchist and early post-revolutionary manufacturing. The frame is forged from stamped carbon steel finished in a dull manganese phosphate coating designed to resist the corrosive salt air sweeping off the Bay of Revachol. Its solid rotating cylinder mechanism requires manual cocking of an exposed spur hammer before each discharge, producing a loud mechanical click that provides tactile confirmation of chamber alignment. While its hefty iron weight of one point two kilograms increases shooter fatigue, the mass significantly dampens recoil, ensuring steady kinetic follow-through during close-quarters municipal encounters.\n\nWithin the RCM, the Villiers pepperbox is regarded as an indispensable tool of survival in high-risk districts like Jamrock and Capeside. While modern automatic handguns produced in foreign isolas offer higher magazine capacities, the Villiers remains favored by seasoned patrol officers due to its mechanical simplicity, resistance to mud fouling, and ability to fire even after immersion in brackish canal water. Each militia precinct maintains dedicated armory benches where armorers service cylinder timing springs and calibrate trigger linkages, ensuring that the heavy iron weapon continues to enforce sovereign authority across Revachol West.",
+    "keywords": [
+      "Villiers 9mm",
+      "Pepperbox",
+      "RCM",
+      "Handgun",
+      "Firearm",
+      "Revachol",
+      "Grand-Couron"
+    ],
+    "char_count": 1960,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
+    "title": "Kiejl A9 Compression Rifle",
+    "text": "The Kiejl A9 Compression Rifle is a specialized, military-grade sniper and marksmanship weapon engineered for silent long-range target interdiction. Originally developed in Graad during the late Antecentennial War and manufactured in limited numbers by specialized armories, the rifle differs radically from conventional propellant firearms by utilizing a high-pressure pneumatic compression system rather than combustible gunpowder to propel its munitions.\n\nThe weapon is constructed around a heavy fluted barrel machined from hardened vanadium steel, encased within an elongated aerodynamic shroud that integrates multi-stage expansion baffles to suppress pneumatic exhaust. The action is powered by a high-pressure gas reservoir cylinder mounted parallel beneath the barrel, charged using a manual hand pump or pneumatic compressor to over three hundred atmospheres. When fired, a precision magnetic solenoid valve releases a microscopic burst of compressed gas that accelerates a dense, fin-stabilized seven-point-six-two millimeter steel or tungsten dart to supersonic velocities with virtually zero audible muzzle signature or muzzle flash.\n\nThe tactical lethality of the Kiejl A9 is renowned among military historians and forensic ballistics investigators. Firing from concealed positions at ranges exceeding six hundred meters, the rifle delivers flat, laser-straight trajectories unaffected by coastal crosswinds. The absence of gunpowder residue, chemical propellant smoke, or loud acoustic reports renders the origin of fire nearly impossible to locate through standard forensic triangulations. In the history of Revachol, the weapon achieved dark infamy as the clandestine instrument utilized from the derelict Sea Fortress Island to conduct strategic political assassinations across the water in Martinaise.",
+    "keywords": [
+      "Kiejl A9",
+      "Compression Rifle",
+      "Sniper",
+      "Graad",
+      "Sea Fortress Island",
+      "Ballistics",
+      "Martinaise"
+    ],
+    "char_count": 1820,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
+    "title": "Fairweather T-56 Body Armor",
+    "text": "Fairweather T-56 Body Armor is an advanced, military-grade powered exoskeleton and composite personal protection system manufactured by Fairweather Security, an international defense contractor based in Mundi. Representing the pinnacle of modern protective engineering, the suit was designed to provide private mercenary forces and corporate security units with absolute tactical superiority during urban counter-insurgency operations, industrial pacification campaigns, and hostile crowd suppression.\n\nThe armor system comprises an interlocking suite of contoured ceramic breastplates, ballistic composite greaves, articulated gauntlets, and an enclosed reinforced helmet. Each component is fabricated from layered ultra-dense silicon carbide ceramic bonded to a Kevlar weave backing, capable of absorbing direct kinetic impacts from high-caliber rifle rounds, shrapnel detonations, and high-velocity bludgeoning without structural penetration. The suit incorporates an internal pneumatic servo skeleton powered by compact rechargeable micro-accumulator cells, which augments the wearer's physical lifting strength, absorbs kinetic shock from jumping or falling, and dampens physical fatigue during prolonged deployments.\n\nThe interior of the suit features climate-controlled thermal padding and integrated biometric sensor nodes that monitor heart rate, body temperature, and adrenaline levels. Visually, the T-56 presents an intimidating, insectoid silhouette of matte olive-drab or charcoal plates adorned with corporate serial numbers. In Revachol, the armor serves as the unmistakable battle dress of the Krenel corporate mercenaries deployed by the Wild Pines Group to break the Debardeurs Union dock strike in Martinaise, functioning as an imposing symbol of foreign corporate dominance and sovereign impunity.",
+    "keywords": [
+      "Fairweather T-56",
+      "Body Armor",
+      "Exoskeleton",
+      "Mercenaries",
+      "Wild Pines",
+      "Krenel",
+      "Mundi"
+    ],
+    "char_count": 1818,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.04 RCM Heavy Duty Prybar and Baton.MD",
+    "title": "RCM Heavy Duty Prybar and Baton",
+    "text": "The RCM Heavy Duty Prybar and Baton are the foundational mechanical utility and physical enforcement implements carried by patrol officers of the Revachol Citizens Militia. Manufactured under municipal procurement contracts by industrial metalworks in Coal City, these standardized tools reflect the harsh reality of urban policing in a post-revolutionary metropolis where officers frequently operate without motorized backup or specialized breaching equipment.\n\nThe prybar, designated officially as the RCM Utility Lever Model 38, is forged from a single solid bar of high-tensile carbon steel measuring eighty-five centimeters in length. It features a beveled chisel wedge at one extremity and an angled gooseneck claw at the opposing end, finished in a weather-resistant black industrial lacquer. Engineered to withstand tremendous mechanical shear force, the tool is utilized daily by patrolmen to force jammed apartment doors, pry open rusty shipping container latches, unseat frozen manhole covers, and breach barricaded entryways across the neglected wards of Jamrock and Martinaise. Its substantial physical weight also allows it to serve as a formidable defensive club when officers are cornered in dark alleys.\n\nComplementing the prybar is the RCM Standard Service Baton, a sixty-centimeter impact weapon composed of a weighted lead core encased within molded vulcanized neoprene rubber. Designed to deliver disabling blunt force to an assailant's muscular motor points without causing lethal skull fractures, the baton features a textured knurled grip and an adjustable leather wrist lanyard. Carried in heavy leather belt scabbards, these two implements symbolize the daily, grinding physical authority wielded by the militia across the cracked cobblestones and unlit tenement hallways of West Revachol.",
+    "keywords": [
+      "Prybar",
+      "Baton",
+      "RCM",
+      "Police",
+      "Tools",
+      "Weapons",
+      "Jamrock",
+      "Revachol"
+    ],
+    "char_count": 1815,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.02 Technology and Tools/02.02.01 Filament Wire Radiocomputer.MD",
+    "title": "Filament Wire Radiocomputer",
+    "text": "The Filament Wire Radiocomputer is the defining computational and data storage apparatus utilized across the Insulindian Isola and the civilized world of Elysium. Diverging fundamentally from semiconductor electronics, the architecture of the radiocomputer relies on microscopically thin magnetic alloy filament wire tightly coiled around ceramic spools inside sealed vacuum relays. Data is written, retrieved, and processed through inductive electromagnetic pulses, allowing complex numerical calculations, tax registers, and telegraphic logs to be stored permanently without electrical degradation.\n\nThe radiocomputer operates as a hybrid electronic and radio-frequency transceiver system. Processing units situated in municipal offices, international bank branches, and militia precinct stations communicate with centralized computing hubs by transmitting high-frequency radio pulses through the atmosphere or along insulated copper filament cables suspended above city avenues. Operating consoles feature heavy mechanical keyboards, glowing amber cathode-ray display monitors, and clicking magnetic solenoid relays that produce a rhythmic mechanical hum during algorithmic execution. Glass observation windows allow technicians to inspect filament wire spools spinning during read cycles.\n\nIn Revachol, radiocomputers were pioneered by the Feld Electrical company before the Antecentennial War and were extensively deployed throughout the municipal ministries of Grand-Couron. While the Coalition naval bombardment destroyed several major computational routing hubs, surviving filament machines continue to function with remarkable resilience. Militia precincts use compact desktop filament terminals to log arrest records and cross-reference criminal dossiers, while financial institutions rely on magnetic wire memory banks to process international currency transfers across the pale.",
+    "keywords": [
+      "Radiocomputer",
+      "Filament Wire",
+      "Feld Electrical",
+      "Technology",
+      "Computing",
+      "Revachol",
+      "Insulinde"
+    ],
+    "char_count": 1890,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.02 Technology and Tools/02.02.02 FALN Heavy LED Flashlight.MD",
+    "title": "FALN Heavy LED Flashlight",
+    "text": "The FALN Heavy LED Flashlight is a high-performance portable illumination instrument engineered by FALN, the premier athletic and industrial technical equipment corporation based in Oranjestad. Originally developed for deep-sea salvage divers, commercial cavern explorers, and emergency municipal rescue teams, the flashlight has become the gold standard illumination tool utilized by investigative officers of the Revachol Citizens Militia and commercial harbor technicians across West Revachol.\n\nThe body of the flashlight is precision-machined from a solid billet of aerospace-grade anodized aluminum alloy, featuring deep non-slip cross-hatch knurling and fluted cooling fins around the bezel. The forward optical assembly contains a cluster of high-intensity solid-state light-emitting diodes protected behind a tempered mineral glass lens, capable of projecting a piercing white beam exceeding five hundred lumens through dense coastal fog, driving sleet, and dust-choked industrial interiors. The device is fully sealed against moisture, saltwater corrosion, and mechanical shock by thick silicone O-rings, allowing it to withstand total submersion in canal muck or concrete impacts from two meters height.\n\nPower is supplied by an internal rechargeable nickel-cadmium battery pack housed inside the screw-cap barrel, providing up to six hours of continuous high-output illumination. In the perpetual dimness of Martinaise, where municipal streetlights have remained unpowered for over fifty years, the FALN flashlight functions as an indispensable investigative weapon. Detectives rely on its focused, high-contrast beam to inspect blood spatter patterns, examine lock tumbler scratches, and navigate the pitch-black subterranean labyrinths beneath the Doomed Commercial Area and the Feld Building.",
+    "keywords": [
+      "FALN Flashlight",
+      "Flashlight",
+      "FALN",
+      "Tools",
+      "Equipment",
+      "Martinaise",
+      "RCM",
+      "Lighting"
+    ],
+    "char_count": 1806,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.02 Technology and Tools/02.02.03 RCM Blue Ledger and Clipboard.MD",
+    "title": "RCM Blue Ledger and Clipboard",
+    "text": "The RCM Blue Ledger and Clipboard constitute the essential bureaucratic casework documentation system issued to detectives and senior patrol officers of the Revachol Citizens Militia. Originating during the administrative reorganization of the militia following the Coalition intervention of '08, the ledger serves as the official, court-mandated physical repository for all field observations, witness interrogations, evidence manifests, and case progress notes compiled during criminal inquiries.\n\nThe ledger itself is an oblong notebook bound in durable, water-resistant dark blue pebbled leather stamped on the front cover with the brass municipal crest of Revachol and the insignia of the RCM. Inside, the volume contains two hundred numbered pages of heavy, acid-free rag paper printed with fine blue grid lines, designed to accept fountain pen ink and graphite without bleeding or smearing under wet coastal conditions. A thick woven elastic band secures the volume when closed, while an internal gusseted pocket stores folded arrest warrants, carbon-copy receipts, forensic sketches, and crime scene photographic prints.\n\nAccompanying the ledger is a heavy-duty clipboard fabricated from pressed aluminum or rigid vulcanized fiberboard, fitted with a high-tension spring-steel paper clamp. For a militia detective navigating the hostile, divided neighborhoods of Revachol West, the Blue Ledger represents far more than a simple record book; it is a tangible badge of sovereign legal authority, a psychological shield during tense interrogations, and a personal confession journal wherein an officer records their deductions, moral doubts, and casework milestones while attempting to impose order upon urban chaos amidst the relentless coastal rain, peeling wallpaper, and crumbling masonry of West Revachol.",
+    "keywords": [
+      "RCM Blue Ledger",
+      "Ledger",
+      "Clipboard",
+      "RCM",
+      "Police",
+      "Casework",
+      "Revachol",
+      "Documentation"
+    ],
+    "char_count": 1815,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.02 Technology and Tools/02.02.04 Coupris Kineema Motor Carriage.MD",
+    "title": "Coupris Kineema Motor Carriage",
+    "text": "The Coupris Kineema Motor Carriage is an iconic, heavy-duty utility motor vehicle manufactured by the Coupris Automotive Corporation in Grand-Couron, widely recognized as the primary motorized patrol transport of the Revachol Citizens Militia. Designed in the late nineteen-thirties to navigate the rutted, uneven streets and post-war rubble of Greater Revachol, the Kineema combines industrial durability with agile urban mobility, serving as a versatile mobile station for patrol officers across the capital.\n\nThe vehicle is built upon a reinforced steel ladder chassis supporting an angular, welded sheet-metal cab finished in the standard dark blue and cream livery of the municipal militia. It features a unique three-wheeled configuration, with a single heavy front steering wheel controlled by hydraulic floor levers rather than a traditional circular steering wheel, providing an extraordinarily tight turning radius through narrow tenement alleyways. Power is generated by a front-mounted, air-cooled four-cylinder boxer combustion engine that runs on standard commercial kerosene or low-octane motor spirits, producing a characteristic rhythmic clatter that echoes off brick facades blocks before the vehicle comes into view.\n\nThe interior cab accommodates two officers on heavy leather bucket seats, positioned before a dashboard equipped with a vacuum-tube police radio transceiver, emergency siren toggle switches, and a mechanical mileage chronometer. The rear cargo deck houses a locked galvanized steel equipment chest containing spare Villiers munitions, road flares, tow cables, and heavy FALN flashlights. Sturdy and mechanically resilient, the Kineema is capable of plowing through winter slush, mounting granite curbs, and enduring street violence with uncomplaining reliability.",
+    "keywords": [
+      "Coupris Kineema",
+      "Kineema",
+      "Motor Carriage",
+      "RCM",
+      "Vehicle",
+      "Transport",
+      "Revachol"
+    ],
+    "char_count": 1800,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.01 Astra Brand Filterless Cigarettes.MD",
+    "title": "Astra Brand Filterless Cigarettes",
+    "text": "Astra Brand Filterless Cigarettes are the most ubiquitous, economically accessible tobacco product manufactured and consumed throughout the Insulindian Isola. Produced in vast commercial quantities by the Revachol State Tobacco Enterprise and later privatized under Coalition commercial licenses, Astra cigarettes are sold in simple rectangular blue-and-white paper soft packs adorned with a modest eight-pointed star emblem, available at every corner kiosk, tavern bar, and dockside market in the capital.\n\nThe blend consists of coarse, sun-cured dark tobacco leaves harvested in the agrarian provinces of Mundi and Semenine, cut roughly and rolled in thin, unbleached rice paper without a cellulose filter tip. The tobacco is characterized by its exceptionally high nicotine and tar content, emitting a pungent, acrid smoke smelling of burnt peat, dried chicory, and scorched molasses. When ignited by a sulfur friction match, an Astra cigarette burns hot and fast, providing an immediate, head-spinning nicotine rush that suppresses hunger, numbs fatigue, and cuts through the bitter coastal damp of West Revachol.\n\nAcross the social hierarchy of Revachol, Astra cigarettes function as a universal working-class currency and social lubricant. Dockworkers on the Debardeurs Union picket line, night-shift truck drivers on the Jamrock motorway, and weary RCM patrolmen huddled beneath rain-swept awnings constantly share and trade loose sticks from crumpled packs. Discarded Astra cigarette butts with their characteristic brown tobacco ends litter the boardwalks, puddles, and barroom floors of Martinaise, standing as an ever-present aromatic testament to the nervous tension, chemical dependency, and quiet endurance of the city's inhabitants through decades of foreign occupation and industrial decline.",
+    "keywords": [
+      "Astra",
+      "Cigarettes",
+      "Tobacco",
+      "Revachol",
+      "Martinaise",
+      "Working Class",
+      "Vice"
+    ],
+    "char_count": 1808,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.02 Goracy 1 Spirits and Potent Wine.MD",
+    "title": "Goracy 1 Spirits and Potent Wine",
+    "text": "Goracy 1 Spirits and Potent Wine represent the primary high-proof distilled and fermented alcoholic beverages consumed across the working-class wards and coastal waterfronts of Revachol. Manufactured to satisfy the intense demand for cheap, rapid intoxication among manual laborers, sailors, and impoverished retirees, these industrial spirits are available in every tavern, grocery stall, and unlicensed back-alley kiosk throughout Jamrock and Martinaise.\n\nGoracy 1, known colloquially as the Graadian Heater or simply the One, is an industrial-strength grain and root spirit distilled according to traditional Northern Graadian recipes. Bottled in heavy amber glass bottles sealed with stamped tin caps, the clear liquid possesses an alcohol concentration exceeding fifty-five percent by volume. It delivers a harsh, burning sensation in the throat, smelling intensely of raw grain alcohol, fusel oils, and medicinal camphor. A single mouthful induces a swift, numbing warmth across the chest, making it an essential chemical shield against hypothermia for debardeurs working exposed harbor cranes during sub-zero winter gales.\n\nComplementing Goracy 1 is cheap Revacholian Potent Wine, marketed under various local labels including Saint-Sans Red and Commodore Coastal Reserve. Produced from bulk grape must and fortified with industrial spirits to reach eighteen percent alcohol, this thick, dark purple wine stains the teeth and tongue while tasting heavily of fermented sugar, sulfur preservatives, and oak tannins. In the bleak economic climate of the post-bombardment era, these potent libations provide thousands of traumatized citizens with temporary chemical oblivion, fueling barroom brawls, tragic street addiction, and quiet despair along the foggy avenues of the bay on long winter nights.",
+    "keywords": [
+      "Goracy 1",
+      "Potent Wine",
+      "Alcohol",
+      "Spirits",
+      "Revachol",
+      "Martinaise",
+      "Working Class",
+      "Vice"
+    ],
+    "char_count": 1803,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
+    "title": "Pyrholidon and Preptocain",
+    "text": "Pyrholidon and Preptocain are potent synthetic pharmaceutical compounds and high-potency street narcotics widely circulated across the Insulindian Isola. Originating as specialized chemical formulations developed by military laboratories during the Antecentennial War, both substances have migrated into the black market and urban drug trade of Greater Revachol, where they are consumed by individuals seeking cognitive enhancement, sensory escape, or chemical stamina.\n\nPyrholidon is a complex poly-synthetic psychoactive drug distributed in tiny, sealed blue glass ampoules or blister-pack gelatin capsules. Originally synthesized as a radioprotective and pale-retardant compound to shield interisolary airship pilots from the disorienting, memory-eroding effects of deep pale transit, the chemical profoundly alters human neurological perception. Upon ingestion or subcutaneous injection, Pyrholidon heightens the user's sensitivity to abstract symbolism, psychic hunches, and eerie sensory resonance, while producing vivid waking dreams and a profound detachment from physical reality. However, chronic consumption leads to severe neuro-chemical dependency, synaptic degradation, and creeping paranoia.\n\nPreptocain, by contrast, is a powerful synthetic central nervous system stimulant belonging to the speed class of pharmaceuticals. Distributed as a bitter white crystalline powder or pressed white pills, it floods the human body with artificial dopamine and adrenaline, eliminating physical fatigue, sharpening kinetic reaction speed, and inducing aggressive euphoria. Heavily abused by night-shift longshoremen, lorry drivers navigating the motorways, and delinquent youth gangs in Martinaise, Preptocain is notorious for causing violent tremors, cardiac stress, and severe psychological crashes once the chemical burn recedes.",
+    "keywords": [
+      "Pyrholidon",
+      "Preptocain",
+      "Narcotics",
+      "Drugs",
+      "Pharmaceuticals",
+      "Pale",
+      "Revachol",
+      "Vice"
+    ],
+    "char_count": 1836,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
+    "title": "Suzerainty Historical Board Game",
+    "text": "The Suzerainty Historical Board Game is a renowned, deeply complex tabletop strategic game that originated in Revachol during the late nineteenth century and remains a beloved cultural pastime throughout the Insulindian Isola. Created by court cartographers and military theoreticians during the reign of King Frissel III, the game was conceived as both an entertaining aristocratic diversion and an instructional instrument designed to educate young nobles in the arts of imperial statecraft, colonial conquest, and economic exploitation.\n\nThe game is played upon an expansive, multi-fold wooden board beautifully printed with a gridded historical map of Elysium, featuring the known isolas, sea lanes, and pale transit boundaries. Players assume command of competing imperial dynasties, utilizing beautifully carved boxwood or cast pewter miniatures representing royal carabiniers, naval galleons, merchant trading houses, and tax collectors. The gameplay mechanics simulate the grand geopolitical machinations of the Dolorian Century, requiring participants to balance agricultural taxation, colonial settlement expansion, tariff enforcement, and the violent suppression of peasant rebellions across their sovereign territories.\n\nA standard session of Suzerainty can endure for eight to twelve hours, featuring cutthroat diplomatic negotiations, secret alliances, and sudden military betrayals. Despite the violent abolition of the monarchy in the Revolution of '02 and the execution of the royal family, the board game retained immense popularity among all social classes. In modern Revachol, battered, secondhand copies with missing playing pieces and worn cardboard currency are treasured in family parlors, working-class cafes, and pension halls, where players relive the grand, tragic illusions of an imperial golden age that has vanished forever into history.",
+    "keywords": [
+      "Suzerainty",
+      "Board Game",
+      "Strategy",
+      "Monarchy",
+      "Frissel",
+      "Culture",
+      "Revachol",
+      "Pastime"
+    ],
+    "char_count": 1868,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
+    "title": "Sad Surreal Interisolary Tape",
+    "text": "The Sad Surreal Interisolary Tape is an extraordinary cultural and technological artifact embodying the melancholic audio underground of modern Revachol. Encased in a standardized rectangular plastic cassette shell enclosing high-density magnetic filament tape, the recording contains a fragile acoustic composite of ambient musical melodies, distorted radio transmissions, and haunting field recordings broadcast across the vast oceanic expanse of the pale from distant, unseen isolas.\n\nThe recording was mastered using specialized reel-to-reel magnetic tape recorders originally manufactured by Feld Electrical before the devastation of the Antecentennial War. When played through a portable tape machine or radiocomputer audio deck, the tape produces a warm, undulating soundscape characterized by gentle analog tape hiss, flutter distortions, and deep sub-bass frequencies. The melodic compositions feature sorrowful brass horns, synthesized choral hums, and fragmented spoken-word poetry whispered in forgotten dialects, interspersed with the distant crackle of static and the rhythmic, ocean-like breathing of the pale itself.\n\nTo the listeners who circulate these bootleg tapes through the underground music dens and bohemian cafes of West Revachol, the recording is experienced as a profoundly emotional, almost spiritual meditation. In a city physically fractured by naval artillery and spiritually trapped in the wreckage of an aborted revolution, the tape evokes an overwhelming sense of saudade and interisolary loneliness, connecting the listener to the millions of anonymous human souls living beyond the pale. The delicate magnetic particles on the tape ribbon slowly degrade with every playthrough, ensuring that each auditory voyage into its melancholic depths becomes progressively softer, hazier, and more ghostly.",
+    "keywords": [
+      "Sad Surreal Tape",
+      "Music",
+      "Tape",
+      "Radiocomputer",
+      "Pale",
+      "Feld Electrical",
+      "Revachol",
+      "Culture"
+    ],
+    "char_count": 1833,
+    "done": false
+  },
+  {
+    "file": "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
+    "title": "Pre-Revolutionary Frissel Medals",
+    "text": "Pre-Revolutionary Frissel Medals are ornate military and civilian decorations awarded by the royal crown of Revachol during the centuries of the Suzerainty prior to the Revolution of '02. Commissioned by royal decree and produced by master goldsmiths and engravers in Grand-Couron, these medals were bestowed upon imperial carabiniers, naval officers, colonial governors, and civic administrators who demonstrated distinguished service, martial valor, or unwavering loyalty to the Frissel royal dynasty.\n\nThe decorations are crafted from polished brass, gilded bronze, and fine vitreous enamel, suspended from silk moire ribbons dyed in the traditional royal livery colors of cobalt blue, gold, and crimson. Prominent awards include the Order of the Golden Sun, featuring a magnificent multi-pointed sunburst surrounding a raised relief profile of King Guillaume le Lion, and the Cross of Maritime Valor, awarded to marine soldiers who survived naval engagements in the Sea of Insulinde. The reverse of each medal is hand-engraved with the monarch's Latin motto, the recipient's military regiment, and the year of conferral.\n\nFollowing the downfall of the monarchy and the declaration of the Commune, possession of royalist insignia was declared treasonous, and thousands of medals were confiscated, defaced, or melted down for scrap bullion. In the contemporary post-revolutionary era, surviving medals are held as sacred, tragic relics by elderly royalist veterans like Rene Arnoux, who proudly pins his tarnished decorations to his faded carabinier uniform while sitting by the petanque crater in Martinaise. These glittering metallic tokens stand as stubborn, defiant remnants of an aristocratic order drowned in blood and shell fire fifty years ago under the devastating guns of the Coalition fleet.",
+    "keywords": [
+      "Frissel Medals",
+      "Medals",
+      "Monarchy",
+      "Rene Arnoux",
+      "Military",
+      "Carabiniers",
+      "Revachol",
+      "History"
+    ],
+    "char_count": 1804,
+    "done": false
   }
 ];
   
