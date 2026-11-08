@@ -5,66 +5,24 @@
     "00. Canon": {},
     "01. Location": {
       "01.01 World": {
-        "file_count": 4,
-        "files": [
-          "01.01.01 The World.MD",
-          "01.01.02 The Isolas.MD",
-          "01.01.03 The Pale.MD",
-          "01.01.04 Known Geographic Divisions.MD"
-        ]
+        "file_count": 0,
+        "files": []
       },
       "01.02 Insulinde": {
-        "file_count": 5,
-        "files": [
-          "01.02.01 Insulinde.MD",
-          "01.02.02 Revachol.MD",
-          "01.02.03 Other Insulindian Territories.MD",
-          "01.02.04 Insulindian Islands.MD",
-          "01.02.05 Insulindian Waters.MD"
-        ]
+        "file_count": 0,
+        "files": []
       },
       "01.03 Revachol": {
-        "file_count": 7,
-        "files": [
-          "01.03.01 Revachol Overview.MD",
-          "01.03.02 Revachol Geography.MD",
-          "01.03.03 Revachol Districts.MD",
-          "01.03.04 Revachol Architecture.MD",
-          "01.03.05 Revachol Infrastructure.MD",
-          "01.03.06 Revachol Coast.MD",
-          "01.03.07 Revachol Inland Areas.MD"
-        ]
+        "file_count": 0,
+        "files": []
       },
       "01.04 Martinaise": {
-        "file_count": 12,
-        "files": [
-          "01.04.01 Martinaise Overview.MD",
-          "01.04.02 Martinaise Geography.MD",
-          "01.04.03 Whirling-in-Rags.MD",
-          "01.04.04 Martinaise Waterfront.MD",
-          "01.04.05 Martinaise Boardwalk.MD",
-          "01.04.06 Martinaise Fishing Village.MD",
-          "01.04.07 Church of the Dolorian.MD",
-          "01.04.08 Martinaise Harbour.MD",
-          "01.04.09 Feld Building.MD",
-          "01.04.10 Doomed Commercial Area.MD",
-          "01.04.11 Land's End.MD",
-          "01.04.12 Other Martinaise Locations.MD"
-        ]
+        "file_count": 0,
+        "files": []
       },
       "01.05 Revachol Districts": {
-        "file_count": 9,
-        "files": [
-          "01.05.01 Jamrock.MD",
-          "01.05.02 Coal City.MD",
-          "01.05.03 Old Town.MD",
-          "01.05.04 Terminal.MD",
-          "01.05.05 Central Revachol.MD",
-          "01.05.06 West Revachol.MD",
-          "01.05.07 East Revachol.MD",
-          "01.05.08 South Revachol.MD",
-          "01.05.09 North Revachol.MD"
-        ]
+        "file_count": 0,
+        "files": []
       },
       "01.06 Revachol Institutions and Landmarks": {
         "file_count": 0,
