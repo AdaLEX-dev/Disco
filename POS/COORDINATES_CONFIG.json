@@ -1,0 +1,31 @@
+{
+  "description": "Screen coordinates for Character.ai Lorebook note entry. Run scripts/calibrate_positions.py to record exact screen coordinates for your display.",
+  "new_note_button": {
+    "x": 300,
+    "y": 250
+  },
+  "title_input": {
+    "x": 600,
+    "y": 320
+  },
+  "text_input": {
+    "x": 600,
+    "y": 450
+  },
+  "keyword_inputs": [
+    {"x": 600, "y": 620},
+    {"x": 600, "y": 660},
+    {"x": 600, "y": 700},
+    {"x": 600, "y": 740},
+    {"x": 600, "y": 780},
+    {"x": 600, "y": 820},
+    {"x": 600, "y": 860},
+    {"x": 600, "y": 900}
+  ],
+  "save_button": {
+    "x": 850,
+    "y": 960
+  },
+  "delay_between_actions": 0.4,
+  "delay_after_save": 1.2
+}
