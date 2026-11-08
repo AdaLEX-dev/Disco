@@ -1455,7 +1455,7 @@
       "ocean"
     ],
     "char_count": 1850,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
@@ -1469,7 +1469,7 @@
       "isola"
     ],
     "char_count": 1902,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
@@ -1484,7 +1484,7 @@
       "quarantine"
     ],
     "char_count": 1868,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.02 Law and Civic Order/06.02.01 Legal Status of Revachol Administrative Region.MD",
@@ -1499,7 +1499,7 @@
       "Revachol"
     ],
     "char_count": 1895,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.02 Law and Civic Order/06.02.02 RCM Jurisdictional Authority and Protocols.MD",
@@ -1514,7 +1514,7 @@
       "Precinct 41"
     ],
     "char_count": 1936,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.02 Law and Civic Order/06.02.03 Revacholian Currency Real and Centimes.MD",
@@ -1530,7 +1530,7 @@
       "Moralintern"
     ],
     "char_count": 1868,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.01 Radiocomputing and Magnetic Filament Storage.MD",
@@ -1545,7 +1545,7 @@
       "technology"
     ],
     "char_count": 1914,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.02 Kineema Mechanics and Motor Transport.MD",
@@ -1561,7 +1561,7 @@
       "Revachol"
     ],
     "char_count": 1862,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.03 Insulindian Aerostatics and Air Navigation.MD",
@@ -1577,7 +1577,7 @@
       "Bay of Revachol"
     ],
     "char_count": 1804,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
@@ -1593,7 +1593,7 @@
       "Martinaise"
     ],
     "char_count": 1811,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
@@ -1609,7 +1609,7 @@
       "street language"
     ],
     "char_count": 1830,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
@@ -1625,24 +1625,7 @@
       "Revachol"
     ],
     "char_count": 1854,
-    "done": false
-  },
-  {
-    "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
-    "title": "The Twenty Four Skills as Biological Reality",
-    "text": "The Twenty Four Skills represent the complex psychological, neurological, and somatic faculties that govern human perception, cognition, and behavioral action within the world of Elysium. Far from abstract intellectual concepts or simple personality traits, these faculties operate as distinct internal cognitive voices, sensory receptors, and endocrine feedback loops integrated directly into the human nervous system, actively communicating with the conscious mind to interpret the surrounding physical and social environment.\n\nThe human cognitive apparatus is divided across four primary neurological domains: Intellect, Psyche, Physique, and Motorics. Intellect governs deductive reasoning, encyclopedic memory recall, rhetorical debate, and structural visualization through faculties like Logic, Encyclopedia, and Conceptualization. Psyche coordinates emotional resilience, supernatural intuition, and interpersonal dominance through faculties including Volition, Inland Empire, and Authority. Physique regulates bodily stamina, pain suppression, and somatic instinct via Endurance, Physical Instrument, and the visceral premonitions of Shivers. Motorics commands fine manual dexterity, spatial reflexes, and kinetic poise through Reaction Speed, Interfacing, and Savoir Faire.\n\nIn healthy individuals, these faculties operate in harmonious equilibrium, silently guiding decision making and physical movement. However, in individuals suffering from severe psychological trauma, acute chemical intoxication, or intense pale exposure, the internal faculties become hyper-vocal and destabilized, competing for conscious dominance and engaging in internal dialogues that externalize as visceral hunches, involuntary somatic twitches, and auditory manifestations. The twenty-four skills constitute the fundamental biological matrix through which human beings perceive and survive the fractured reality of Revachol.",
-    "keywords": [
-      "Twenty Four Skills",
-      "neurology",
-      "faculties",
-      "Intellect",
-      "Psyche",
-      "Physique",
-      "Motorics",
-      "cognition"
-    ],
-    "char_count": 1914,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
@@ -1658,6 +1641,198 @@
       "Revachol"
     ],
     "char_count": 1869,
+    "done": true
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
+    "title": "Revacholian Identity and Spirit of Le Caillou",
+    "text": "The Revacholian Identity and the Spirit of Le Caillou embody the complex psychological ethos, cultural pride, and profound existential melancholy that define the people of the Insulindian metropolis. Originating from the rocky coastal citadel of Le Caillou, where the first Dolorian settlers established their oceanfront bastions, the term Le Caillou evolved from a simple geographical descriptor into an enduring cultural metaphor for the city itself: an unyielding, weather beaten stone anchored in the southern sea, battered by historical catastrophes yet refusing to be swept away.\n\nThe collective consciousness of Revachol is permanently shaped by the traumatic contrast between lost civilizational grandeur and contemporary colonial humiliation. For centuries, Revachol stood as the undisputed capital of the civilized world, the gilded seat of imperial monarchies, vast naval armadas, and revolutionary socio-political transformations. The violent destruction of the Commune and subsequent decades of foreign Moralist occupation transformed the populace into an impoverished, disenfranchised colonial underclass, cultivating a shared cultural disposition marked by cynical defiance, dark fatalistic humor, and fierce neighborhood loyalty.\n\nRather than succumbing to total despair, Revacholians exhibit an astonishing survivalist vitality. Whether working the freezing container docks of Martinaise, navigating the smog filled industrial alleys of Jamrock, or debating politics over bitter chicory coffee, citizens share an unspoken camaraderie rooted in communal endurance. They view foreign Coalition administrators with polite contempt and approach life with a hardened, ironic stoicism. To be Revacholian is to inhabit a majestic, ruined capital on the edge of the world, acutely aware that history has broken its promises yet stubbornly choosing to endure with defiant style upon the stones of Le Caillou.",
+    "keywords": [
+      "Revacholian identity",
+      "Le Caillou",
+      "fatalism",
+      "culture",
+      "pride",
+      "Insulinde",
+      "history"
+    ],
+    "char_count": 1916,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
+    "title": "Martinaise Working Class Coastal Culture",
+    "text": "The Martinaise Working Class Coastal Culture represents the rugged, salt encrusted communal traditions, labor ethics, and maritime folklore forged along the industrial shoreline of Revachol West. Inhabiting a bleak geographical frontier where the concrete wharves of the commercial harbour meet the freezing waters of the bay, the residents of Martinaise have developed a fiercely autonomous social fabric, shaped by decades of municipal abandonment, grinding poverty, and the physical demands of maritime dockwork.\n\nAt the core of this coastal culture is an unyielding tradition of working class solidarity and mutual aid. Generations of families have earned their livelihoods as debardeurs, crane operators, warehouse stevedores, and coastal net fishermen, braving biting sea winds, freezing rain, and hazardous industrial conditions. When accidents, winter layoffs, or occupational diseases strike the community, the neighborhood rallies through informal union collections, communal soup kitchens, and reciprocal childcare networks. This intense internal loyalty is accompanied by deep, reflexive suspicion toward external authority, particularly foreign corporate shipping directors and municipal militia detectives.\n\nCommunal life centers around key public landmarks: the crowded cafeteria of the Whirling-in-Rags, where dockworkers gather for post-shift pints of dark lager and political arguments, the wind battered coastal boardwalks where elderly veterans roll steel boules, and the weathered shoreline shanties of the fishing village. The culture possesses its own rich maritime superstitions, coastal folk ballads, and dark gallows humor regarding harbor drownings and the unpredictable tides. Tough, resilient, and unapologetically combative, the coastal community of Martinaise preserves an authentic working class identity that defies the foreign economic exploitation dominating the surrounding metropolis.",
+    "keywords": [
+      "Martinaise culture",
+      "working class",
+      "debardeurs",
+      "dockworkers",
+      "solidarity",
+      "Whirling-in-Rags"
+    ],
+    "char_count": 1921,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
+    "title": "Holy Dolorian Faith and Stained Glass Cult",
+    "text": "The Holy Dolorian Faith and Stained Glass Cult constitute the historic devotional traditions, sacred iconography, and spiritual practices centered upon the veneration of Innocence Dolores Dei, whose divine arrival over three centuries ago laid the foundation of modern Insulindian civilization. Established as the spiritual heart of the pre-revolutionary empire, the Dolorian religion is characterized by a luminous, transcendent aesthetic that venerates historical order, divine intervention, and the miraculous corporeal glow associated with the female avatar.\n\nThe central physical focal point of Dolorian devotion is the sacred stained glass window, architectural masterpieces of colored vitreous glass that adorn the sanctuaries of cathedrals and neighborhood chapels across Revachol. These windows depict Dolores Dei with her iconic radiant lungs shining through her ribcage, holding the caravel of discovery, or bestowing the laws of civic virtue upon early settlers. Worshippers believe that natural sunlight filtering through these vibrant stained panes transmutes divine grace into the physical sanctuary, illuminating the prayers of the faithful and shielding the congregation from the entropic darkness of the surrounding pale.\n\nIn contemporary Revachol, the faith has weathered profound secularization, ideological upheaval, and physical devastation. While grand cathedrals in Old Town still host solemn choral liturgies, coastal shrines like the Church of the Dolorian in Martinaise stand semi-abandoned, their pews rotting and stained glass chipped by naval shrapnel. Yet despite this architectural decline, the cult of Dolores Dei endures as a powerful emotional refuge. Working class citizens continue to light tallow candles beneath her glowing likeness, seeking solace, maternal protection, and a flicker of transcendent meaning within a scarred and cynical world.",
+    "keywords": [
+      "Dolorian faith",
+      "stained glass",
+      "Dolores Dei",
+      "religion",
+      "church",
+      "liturgy",
+      "Revachol"
+    ],
+    "char_count": 1883,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
+    "title": "Royalist Nostalgia and Suzerainty Traditions",
+    "text": "Royalist Nostalgia and Suzerainty Traditions encompass the conservative cultural heritage, aristocratic ceremonies, and romanticized historical memory cherished by monarchist sympathizers across Revachol. Clinging passionately to the vanished glory of the Frissel royal dynasty, this cultural subculture looks back upon the pre-revolutionary suzerainty as a golden age of imperial majesty, artistic refinement, and divine order, viewing the overthrow of King Filippe in Year '02 as an unforgivable act of civilizational suicide.\n\nThe practice of royalist tradition is characterized by elaborate formal manners, archaic linguistic phrasing, and the preservation of heirloom artifacts. In fading drawing rooms, private dining clubs, and veteran associations across Le Caillou and Old Town, monarchists gather to conduct nostalgic toasts to the exiled royal line, display tarnished silver medals from the King's Carabinier regiment, and debate eighteenth-century court genealogy. Central to this cultural milieu is the strategic board game of Suzerainty, whose complex imperial maneuvers and colonial conquests are played with obsessive devotion as an allegory for historical statecraft and royal virtue.\n\nThe tragedy of contemporary royalism lies in its profound disconnection from the material realities of modern Revachol. Most surviving monarchists are impoverished aristocrats, elderly military pensioners, or conservative traditionalists living in crumbling manor apartments surrounded by moldering velvet drapes and unpaid heating bills. They harbor deep, aristocratic contempt for both socialist dockworkers and the foreign technocrats of the Moralintern Coalition, viewing modern society as a tasteless wasteland of bourgeois greed. Royalist culture endures as a proud, bittersweet masquerade, mourning a magnificent imperial court that has receded forever into the past.",
+    "keywords": [
+      "Royalists",
+      "suzerainty",
+      "monarchy",
+      "King Frissel",
+      "Carabiniers",
+      "traditions",
+      "nostalgia"
+    ],
+    "char_count": 1877,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.05 Communard Memory and Revolutionary Graffitis.MD",
+    "title": "Communard Memory and Revolutionary Graffitis",
+    "text": "Communard Memory and Revolutionary Graffitis represent the vibrant, defiant visual and ideological presence of the crushed Revachol Commune that remains etched into the physical architecture of the metropolis. Despite forty years of systematic political purge, foreign Coalition occupation, and municipal whitewashing campaigns, the working class districts of Revachol West, Jamrock, and Coal City remain vast, open air palimpsests of revolutionary history, where the dreams of the Year '02 uprising continue to speak through crumbling brick and fading pigment.\n\nThe primary artistic vehicle for this historical memory is the massive, unauthorized political graffiti that adorns tenement facades, industrial silos, and concrete seawalls. Painted by nocturnal partisan collectives, student radicals, and union sympathizers using industrial spray enamel and red lead primer, these murals feature bold stenciled portraits of revolutionary theorist Kras Mazov, interlocking hammer and sickle insignias, and incendiary communard slogans demanding the restoration of the Commune and the expulsion of foreign occupation armies. The paint seeps into the porous, bomb chipped masonry, defying municipal cleanup crews who find that scrubbing the slogans only reveals the bullet craters beneath.\n\nBeyond visual artwork, communard memory is sustained through an oral culture of revolutionary ballads, clandestine reading circles, and private family lore. Older residents quietly pass down accounts of neighborhood defense assemblies, communal kitchens, and heroic barricade defense to younger generations, ensuring that the socialist experiment is remembered as an era of genuine human solidarity rather than violent chaos. The revolutionary graffitis of Revachol stand as indelible scars of hope, reminding every passerby that the yearning for social justice remains dormant beneath the surface of the city.",
+    "keywords": [
+      "Communard memory",
+      "graffiti",
+      "Kras Mazov",
+      "revolution",
+      "murals",
+      "resistance",
+      "Year 02"
+    ],
+    "char_count": 1896,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
+    "title": "Anodic Dance Music and Tape Underground",
+    "text": "Anodic Dance Music and the Tape Underground define the raw, hyper-kinetic electronic counterculture that has exploded from the abandoned industrial ruins and damp basements of Revachol West. Born out of severe economic disenfranchisement, urban neglect, and generational disillusionment, anodic dance music is an uncompromising, high velocity musical genre characterized by punishing synthesized kick drums, distorted basslines, and hypnotic, repetitive vocal samples that drive human bodies into states of ecstatic, collective exhaustion.\n\nThe production and distribution of anodic music operates entirely outside the commercial recording industry. Utilizing salvage equipment, modified radiocomputer frequency modulators, and custom magnetic tape loop decks, underground producers like Andre and Egg Head record tracks in abandoned warehouses and ruined ecclesiastical structures. Music is duplicated onto cheap, second hand magnetic audio cassettes and distributed hand to hand through an informal network of street youths, record stalls, and pirate radio broadcasts. Known colloquially as tape culture, this underground network forms a self-contained creative economy that completely bypasses state censorship and corporate tariffs.\n\nThe epicenter of anodic culture is the illicit rave, held in forgotten industrial spaces where colossal sound arrays blast synthesized frequencies through cracked concrete and ancient vaults. These gatherings represent a visceral form of generational catharsis, where young Revacholians escape the crushing historical weight of the revolution, the despair of poverty, and the existential dread of the encroaching pale through sheer acoustic velocity and physical release. Anodic dance music stands as the defiant, electronic heartbeat of modern Revachol, turning the industrial wreckage of the city into a cathedral of pure sound.",
+    "keywords": [
+      "Anodic music",
+      "tape underground",
+      "electronic",
+      "raves",
+      "youth culture",
+      "Andre",
+      "Egg Head"
+    ],
+    "char_count": 1868,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
+    "title": "Suzerainty Strategic Board Game Culture",
+    "text": "The Suzerainty Strategic Board Game Culture encompasses the rules, tactical philosophies, and historical traditions surrounding Elysium's most celebrated table game of imperial conquest and statecraft. Developed in the royal courts of the Frissel monarchy during the height of the Antecentennial era, Suzerainty was conceived not merely as popular entertainment, but as an intellectual training exercise for aristocratic diplomats, naval admirals, and colonial administrators destined to govern the overseas dominions of the crown.\n\nThe game is played upon a circular lacquered wooden board representing the known isolas, surrounded by an outer ring symbolizing the encroaching pale. Players command asymmetric factions representing colonial empires, merchant syndicates, or native populations, manipulating finely carved pewter miniatures of galleons, infantry brigades, sugarcane plantations, and tax collectors. Victory is achieved through the ruthless extraction of resource tokens, naval blockades, forced labor exploitation, and political intrigue, with players frequently bankrupting or militarily obliterating their opponents in pursuit of total imperial hegemony.\n\nIn modern Revachol, Suzerainty survives as a complex, intensely nostalgic intellectual pastime. While banned by the revolutionary Commune as a sickening glorification of imperial brutality, the game experienced a quiet revival following the Coalition invasion, preserved by elderly royalists, university academics, and avid hobbyists who gather in independent bookshops and private parlors to stage multi-day matches. To play Suzerainty is to participate in an elaborate historical ritual that laid bare the cold, transactional machinery of global empire, where the lives of millions and the fates of distant archipelagos were weighed as disposable pawns on a polished wooden board.",
+    "keywords": [
+      "Suzerainty",
+      "board game",
+      "strategy",
+      "miniatures",
+      "monarchy",
+      "empire",
+      "pastime",
+      "Revachol"
+    ],
+    "char_count": 1856,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.03 Revacholian Working Class Cuisine and Chicory.MD",
+    "title": "Revacholian Working Class Cuisine and Chicory",
+    "text": "Revacholian Working Class Cuisine and the Culture of Chicory define the dietary staples, communal eating habits, and culinary survival strategies that have evolved across the impoverished districts of Revachol. Shaped by maritime geography, harsh coastal winters, and decades of chronic economic scarcity following the destruction of the Commune, the everyday diet of the Insulindian proletariat is characterized by heavy, starch rich ingredients, preserved seafood, and ingenious substitutes designed to maximize caloric endurance on a meager budget.\n\nThe foundational food staple of Revachol West is the ocean itself. Working class meals center around salted cod, pickled coastal herring, fried sprats, and hearty fish stews simmered with cabbage, root turnips, and stale rye bread. In Martinaise, dockworkers and coastal fishermen gather at communal street stalls and hostel lunch counters to consume hot meat pies, boiled potato dumplings, and pickled sausages drenched in sharp vinegar mustard. Fresh meat and imported vegetables remain rare luxuries, replaced by canned emergency rations and preserved foods that can withstand the damp humidity of unheated tenement flats.\n\nNo culinary element is more universally recognized across the city than chicory, the dark, bitter roasted root that serves as the ubiquitous working class substitute for unaffordable imported coffee beans. Brewed into an intensely astringent, jet black infusion over iron stove burners, chicory coffee is consumed by dockers, factory laborers, and militia detectives alike from early dawn to midnight. Sweetened with coarse brown beet sugar or diluted with sweetened condensed milk, chicory provides the essential, warm, bitter fuel that sustains the physical stamina of the Insulindian workforce against the pervasive coastal cold, morning fog, and dampness of the metropolis.",
+    "keywords": [
+      "Revacholian cuisine",
+      "chicory coffee",
+      "food",
+      "dockworkers",
+      "diet",
+      "herring",
+      "Martinaise"
+    ],
+    "char_count": 1857,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
+    "title": "Astra Tobacco Culture and Drinking Rituals",
+    "text": "Astra Tobacco Culture and Drinking Rituals represent the ubiquitous social customs, sensory coping mechanisms, and public rituals of intoxication that permeate daily life across Revachol. In an exhausted post-industrial society marked by generational grief and the psychological shadow of the pale, the shared consumption of cheap commercial tobacco and potent alcoholic spirits operates as an indispensable social lubricant and emotional anesthetic, binding citizens together across neighborhood taverns and windswept street corners.\n\nThe undisputed monarch of Insulindian tobacco is Astra, the legendary brand of filterless cigarettes manufactured in red and gold cardboard packs. Packed with harsh, sun cured colonial tobacco that burns with a pungent, blue gray smoke and an unmistakable aroma of scorched paper and chicory, Astra cigarettes are smoked compulsively by every segment of the populace, from senior union stewards and hardened militia investigators to street youths and impoverished pensioners. Offering an Astra to a stranger is the foundational gesture of Revacholian social etiquette, signaling temporary truce, mutual respect, or transactional solidarity.\n\nDrinking culture is equally central to the civic rhythm of the city. Working class socializing revolves around neighborhood taverns, hostel cafeterias like the Whirling-in-Rags, and illicit street corner gatherings where patrons consume copious quantities of dark Insulindian stout, cheap grain alcohol like Goracy 1, and fiery regional pear brandy. Communal toasts to fallen comrades, drowned sailors, or absent lovers are executed with solemn, dark humor. Alcohol and tobacco form the essential chemical twin pillars of Revacholian survival, providing the fleeting warmth and sensory distraction necessary to endure the cold reality of life on Le Caillou.",
+    "keywords": [
+      "Astra tobacco",
+      "cigarettes",
+      "drinking",
+      "pear brandy",
+      "stout",
+      "Goracy 1",
+      "culture",
+      "Revachol"
+    ],
+    "char_count": 1835,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
+    "title": "Mass Entertainment and Guillaume le Million",
+    "text": "Mass Entertainment and the Legend of Guillaume le Million encapsulate the commercial popular culture, athletic spectacles, and celebrity mythology that provide vital psychological escapism for the citizens of post-war Revachol. Despite the grim realities of foreign military occupation and municipal decay, the Insulindian public maintains an insatiable appetite for sports heroics, sensationalist radiocomputer serials, romance pulp literature, and athletic melodrama, finding fleeting moments of collective pride amidst daily hardship.\n\nAt the pinnacle of Revacholian popular folklore stands Guillaume le Million, the legendary professional cyclist and national hero whose athletic triumphs during the golden era of the Antecentennial velodromes captured the imagination of the entire isola. Celebrated for his dazzling speed, flamboyant theatrical charisma, and multi-million real commercial endorsements, Guillaume symbolized the apex of Revacholian vitality, physical grace, and global prestige. Decades after his passing, his image remains ubiquitous across the city: faded promotional posters, commemorative metal tins, and weathered statues continue to look down upon cobblestone alleys, reminding citizens of a time when Revachol produced heroes rather than ruins.\n\nBeyond athletic nostalgia, modern mass entertainment thrives through popular technology. In crowded tenement flats and corner bodegas, families gather around crackling radiocomputer receivers to listen to live athletic races, theatrical crime dramas, and variety radio concerts broadcast from high powered transmitters in Grand-Couron. Kiosks across Jamrock and Martinaise do brisk business in illustrated cinema magazines and inexpensive adventure novels. Mass culture functions as a collective analgesic, allowing citizens to momentarily transcend the grey dampness of their surroundings through shared spectacles of glamour, competition, and speed.",
+    "keywords": [
+      "Mass entertainment",
+      "Guillaume le Million",
+      "cycling",
+      "radio serials",
+      "popular culture"
+    ],
+    "char_count": 1926,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
+    "title": "Mourning Customs and Insulindian Cemeteries",
+    "text": "Mourning Customs and Insulindian Cemeteries define the solemn funerary rituals, memorial architecture, and collective grieving practices that have taken root across the scarred landscape of Revachol. In a city where hundreds of thousands of lives were extinguished in the violent fires of the Commune and subsequent Coalition naval bombardments, death is not an occasional domestic tragedy, but a pervasive, architectural presence woven into the very fabric of everyday urban existence.\n\nFunerary practices blend historic Dolorian religious traditions with secular working class memorial rites. Bereaved families observe protracted periods of mourning marked by the wearing of black armbands, the lighting of beeswax votive candles in drafty stone chapels, and the erection of spontaneous roadside shrines decorated with dried sea kelp, painted stones, and faded photographs of the deceased. In maritime districts like Martinaise, where the sea claims dockworkers and fishermen each winter, communities conduct solemn harbor vigils, casting wreaths of dried coastal heather into the freezing tides of the bay.\n\nThe cemeteries of Revachol stand as monumental landscapes of communal sorrow. Vast necropolises, such as the historic Cimetiere de la Paix in Old Town and the waterlogged cemetery on the western coastal dunes, are crowded with thousands of moss covered headstones, ornate family crypts, and mass trenches containing the unrecovered victims of Year '08. These sacred burial grounds are visited constantly by surviving relatives, elderly widows, and former comrades who tend to weathered graves with quiet, stubborn devotion. The cemeteries serve as sacred sanctuaries of remembrance where personal loss converges with the collective trauma of a shattered civilization, honoring those who perished while the living struggle on.",
+    "keywords": [
+      "Mourning customs",
+      "cemeteries",
+      "funerary",
+      "grief",
+      "Year 08",
+      "memorials",
+      "Revachol"
+    ],
+    "char_count": 1836,
+    "done": false
+  },
+  {
+    "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
+    "title": "Martinaise Petanque and Coastal Pastimes",
+    "text": "Martinaise Petanque and Coastal Pastimes represent the traditional outdoor leisure games, informal sporting competitions, and quiet contemplative rituals that sustain community life across the windswept coastal periphery of Revachol West. In a post-industrial district lacking formal civic recreation facilities or public funding, local residents have transformed bomb craters, vacant gravel lots, and crumbling coastal boardwalks into vibrant arenas of communal competition and relaxed fellowship.\n\nThe undisputed sovereign of coastal leisure is petanque, the traditional Insulindian game of boules played with heavy, polished steel balls upon rough gravel terrain. The game requires exceptional kinetic touch, tactical geometry, and mental composure as players attempt to roll or lob their boules as close as possible to the small wooden target ball, known as the cochonnet. In southwest Martinaise, the dusty expanse of an artillery crater dating back to the Coalition bombardment serves as the primary municipal boulodrome, where elderly veterans, dockworkers, and municipal pensioners gather daily to stage fiercely contested tournaments accompanied by endless tactical bickering and flask sipping.\n\nBeyond petanque, coastal leisure embraces the stark maritime environment. Local residents spend quiet afternoons angling for flounder and coastal crabs from the rusted iron pilings of abandoned ferry terminals, playing fast-paced dice games upon overturned shipping crates, or simply sitting along the sea wall watching the grey tidal currents of the bay. These simple pastimes provide an essential oasis of calm and dignity amidst the grinding pressures of economic survival, proving that human fellowship, laughter, and playful rivalry can flourish even amidst the damp ruins of an abandoned harbor.",
+    "keywords": [
+      "Petanque",
+      "boules",
+      "crater",
+      "leisure",
+      "Rene Arnoux",
+      "Gaston Martin",
+      "Martinaise",
+      "coastal"
+    ],
+    "char_count": 1806,
     "done": false
   }
 ];

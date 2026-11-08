@@ -91,9 +91,7 @@
     "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
-    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD"
-  ],
-  "pending_files": [
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
@@ -106,15 +104,28 @@
     "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
-    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD"
   ],
-  "total_entries": 104,
-  "uploaded_count": 90,
-  "pending_count": 14,
+  "pending_files": [
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.05 Communard Memory and Revolutionary Graffitis.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.03 Revacholian Working Class Cuisine and Chicory.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD"
+  ],
+  "total_entries": 115,
+  "uploaded_count": 103,
+  "pending_count": 12,
   "max_allowed_entries": 128,
-  "total_planned_entries": 128,
-  "written_count": 104,
+  "total_planned_entries": 127,
+  "written_count": 115,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -218,11 +229,7 @@
     "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
-    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
-    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD"
-  ],
-  "unwritten_count": 24,
-  "unwritten_files": [
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
@@ -234,7 +241,10 @@
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
-    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD"
+  ],
+  "unwritten_count": 12,
+  "unwritten_files": [
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.01 Human Populations of the Insulindian Isola.MD",
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
