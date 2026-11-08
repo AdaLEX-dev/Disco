@@ -1657,7 +1657,7 @@
       "history"
     ],
     "char_count": 1916,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
@@ -1672,7 +1672,7 @@
       "Whirling-in-Rags"
     ],
     "char_count": 1921,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
@@ -1688,12 +1688,12 @@
       "Revachol"
     ],
     "char_count": 1883,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
     "title": "Royalist Nostalgia and Suzerainty Traditions",
-    "text": "Royalist Nostalgia and Suzerainty Traditions encompass the conservative cultural heritage, aristocratic ceremonies, and romanticized historical memory cherished by monarchist sympathizers across Revachol. Clinging passionately to the vanished glory of the Frissel royal dynasty, this cultural subculture looks back upon the pre-revolutionary suzerainty as a golden age of imperial majesty, artistic refinement, and divine order, viewing the overthrow of King Filippe in Year '02 as an unforgivable act of civilizational suicide.\n\nThe practice of royalist tradition is characterized by elaborate formal manners, archaic linguistic phrasing, and the preservation of heirloom artifacts. In fading drawing rooms, private dining clubs, and veteran associations across Le Caillou and Old Town, monarchists gather to conduct nostalgic toasts to the exiled royal line, display tarnished silver medals from the King's Carabinier regiment, and debate eighteenth-century court genealogy. Central to this cultural milieu is the strategic board game of Suzerainty, whose complex imperial maneuvers and colonial conquests are played with obsessive devotion as an allegory for historical statecraft and royal virtue.\n\nThe tragedy of contemporary royalism lies in its profound disconnection from the material realities of modern Revachol. Most surviving monarchists are impoverished aristocrats, elderly military pensioners, or conservative traditionalists living in crumbling manor apartments surrounded by moldering velvet drapes and unpaid heating bills. They harbor deep, aristocratic contempt for both socialist dockworkers and the foreign technocrats of the Moralintern Coalition, viewing modern society as a tasteless wasteland of bourgeois greed. Royalist culture endures as a proud, bittersweet masquerade, mourning a magnificent imperial court that has receded forever into the past.",
+    "text": "Royalist Nostalgia and Suzerainty Traditions encompass the conservative cultural heritage, aristocratic ceremonies, and romanticized historical memory cherished by monarchist sympathizers across Revachol. Clinging passionately to the vanished glory of the Frissel royal dynasty, this cultural subculture looks back upon the pre-revolutionary suzerainty as a golden age of imperial majesty, artistic refinement, and divine order, viewing the overthrow of King Filippe in Year '02 as an unforgivable act of civilizational collapse.\n\nThe practice of royalist tradition is characterized by elaborate formal manners, archaic linguistic phrasing, and the preservation of heirloom artifacts. In fading drawing rooms, private dining clubs, and veteran associations across Le Caillou and Old Town, monarchists gather to conduct nostalgic toasts to the exiled royal line, display tarnished silver medals from the King's Carabinier regiment, and debate eighteenth-century court genealogy. Central to this cultural milieu is the strategic board game of Suzerainty, whose complex imperial maneuvers and colonial conquests are played with obsessive devotion as an allegory for historical statecraft and royal virtue.\n\nThe tragedy of contemporary royalism lies in its profound disconnection from the material realities of modern Revachol. Most surviving monarchists are impoverished aristocrats, elderly military pensioners, or conservative traditionalists living in crumbling manor apartments surrounded by moldering velvet drapes and unpaid heating bills. They harbor deep, aristocratic contempt for both socialist dockworkers and the foreign technocrats of the Moralintern Coalition, viewing modern society as a tasteless wasteland of bourgeois greed. Royalist culture endures as a proud, bittersweet masquerade, mourning a magnificent imperial court that has receded forever into the past.",
     "keywords": [
       "Royalists",
       "suzerainty",
@@ -1703,7 +1703,7 @@
       "traditions",
       "nostalgia"
     ],
-    "char_count": 1877,
+    "char_count": 1878,
     "done": false
   },
   {
@@ -1720,7 +1720,7 @@
       "Year 02"
     ],
     "char_count": 1896,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
@@ -1736,7 +1736,7 @@
       "Egg Head"
     ],
     "char_count": 1868,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
@@ -1753,7 +1753,7 @@
       "Revachol"
     ],
     "char_count": 1856,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.03 Revacholian Working Class Cuisine and Chicory.MD",
@@ -1769,7 +1769,7 @@
       "Martinaise"
     ],
     "char_count": 1857,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
@@ -1786,7 +1786,7 @@
       "Revachol"
     ],
     "char_count": 1835,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
@@ -1800,7 +1800,7 @@
       "popular culture"
     ],
     "char_count": 1926,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
@@ -1816,7 +1816,7 @@
       "Revachol"
     ],
     "char_count": 1836,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
@@ -1833,7 +1833,7 @@
       "coastal"
     ],
     "char_count": 1806,
-    "done": false
+    "done": true
   }
 ];
   

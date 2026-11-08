@@ -104,13 +104,10 @@
     "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
-    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD"
-  ],
-  "pending_files": [
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
-    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.05 Communard Memory and Revolutionary Graffitis.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
@@ -120,9 +117,12 @@
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD"
   ],
+  "pending_files": [
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD"
+  ],
   "total_entries": 115,
-  "uploaded_count": 103,
-  "pending_count": 12,
+  "uploaded_count": 114,
+  "pending_count": 1,
   "max_allowed_entries": 128,
   "total_planned_entries": 127,
   "written_count": 115,
