@@ -135,6 +135,11 @@ class LoreRequestHandler(http.server.BaseHTTPRequestHandler):
                 uploaded.add(file_done)
                 pos["uploaded_files"] = sorted(list(uploaded))
                 pos["uploaded_count"] = len(pos["uploaded_files"])
+                
+                pending = set(pos.get("pending_files", []))
+                pending.discard(file_done)
+                pos["pending_files"] = sorted(list(pending))
+                pos["pending_count"] = len(pos["pending_files"])
                 save_pos(pos)
                 print(f"[Done] Marked uploaded: {file_done}")
 
@@ -145,15 +150,11 @@ class LoreRequestHandler(http.server.BaseHTTPRequestHandler):
 
         elif self.path == "/api/reset":
             all_entries = get_all_entries()
-            pos = {
-                "project": "Disco Elysium Lorebook for Character.ai",
-                "version": "1.0.0",
-                "uploaded_files": [],
-                "pending_files": [e["file"] for e in all_entries],
-                "total_entries": len(all_entries),
-                "uploaded_count": 0,
-                "pending_count": len(all_entries)
-            }
+            pos = load_pos()
+            pos["uploaded_files"] = []
+            pos["uploaded_count"] = 0
+            pos["pending_files"] = [e["file"] for e in all_entries]
+            pos["pending_count"] = len(all_entries)
             save_pos(pos)
             print(f"[Reset] Reset progression tracker! 0 uploaded, {len(all_entries)} pending.")
 
