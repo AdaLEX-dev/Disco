@@ -61,9 +61,7 @@
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
-    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
-  ],
-  "pending_files": [
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
@@ -76,12 +74,14 @@
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
-    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD"
+  ],
+  "pending_files": [
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
   ],
   "total_entries": 74,
-  "uploaded_count": 60,
-  "pending_count": 14,
+  "uploaded_count": 73,
+  "pending_count": 1,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
   "written_count": 74,
