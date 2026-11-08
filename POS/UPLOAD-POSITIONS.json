@@ -386,5 +386,9 @@
       }
     }
   },
-  "uploaded_files": []
+  "uploaded_files": [],
+  "total_entries": 0,
+  "uploaded_count": 0,
+  "pending_count": 0,
+  "pending_files": []
 }
