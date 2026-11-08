@@ -1,0 +1,1272 @@
+Actor ID: 1
+Name: Fysique
+
+Actor ID: 2
+Name: Intellect
+
+Actor ID: 3
+Name: Motorics
+
+Actor ID: 4
+Name: Psyche
+
+Actor ID: 5
+Name: Cuno
+
+Actor ID: 6
+Name: Cunoesse
+
+Actor ID: 7
+Name: Smoker on the Balcony
+
+Actor ID: 8
+Name: Novelty Dicemaker
+
+Actor ID: 9
+Name: Sleeping Dockworker
+
+Actor ID: 10
+Name: Lilienne, the Net Picker
+
+Actor ID: 11
+Name: Racist lorry driver
+
+Actor ID: 12
+Name: Annette
+
+Actor ID: 13
+Name: Acele
+
+Actor ID: 14
+Name: Andre
+
+Actor ID: 15
+Name: Noid
+
+Actor ID: 16
+Name: Egg Head
+
+Actor ID: 17
+Name: Plaisance
+
+Actor ID: 18
+Name: Scab
+
+Actor ID: 19
+Name: Strikebreaker
+
+Actor ID: 20
+Name: Large Scab
+
+Actor ID: 21
+Name: Unemployed Person
+
+Actor ID: 22
+Name: Former Coal Miner
+
+Actor ID: 23
+Name: Scabette
+
+Actor ID: 24
+Name: Boy Strikebreaker
+
+Actor ID: 25
+Name: Banger Scab
+
+Actor ID: 26
+Name: Alphonse the Scab
+
+Actor ID: 27
+Name: Old Scab
+
+Actor ID: 28
+Name: Mother of a Scab
+
+Actor ID: 29
+Name: Right-to-Worker
+
+Actor ID: 30
+Name: Probably a Migrant
+
+Actor ID: 31
+Name: Self-Educated Humanitarian
+
+Actor ID: 32
+Name: Job Market Loser
+
+Actor ID: 33
+Name: Very Hard to Exploit Handicapped Person
+
+Actor ID: 34
+Name: Another Scab
+
+Actor ID: 35
+Name: Sad Scab
+
+Actor ID: 36
+Name: Scab Leader
+
+Actor ID: 37
+Name: Women's Rights
+
+Actor ID: 38
+Name: Measurehead
+
+Actor ID: 39
+Name: Call Me Maana
+
+Actor ID: 40
+Name: Harbour Worker
+
+Actor ID: 41
+Name: Striker
+
+Actor ID: 42
+Name: Lawyerly Guy
+
+Actor ID: 43
+Name: Loader
+
+Actor ID: 44
+Name: Union Man
+
+Actor ID: 45
+Name: Machinist
+
+Actor ID: 46
+Name: Bookkeeper
+
+Actor ID: 47
+Name: Unionista
+
+Actor ID: 48
+Name: Former Sailor
+
+Actor ID: 49
+Name: Union Veteran
+
+Actor ID: 50
+Name: Cleaning Woman
+
+Actor ID: 51
+Name: Measurehead's Babe
+
+Actor ID: 52
+Name: Union Rookie
+
+Actor ID: 53
+Name: Operator
+
+Actor ID: 54
+Name: Mysterious Pair of Eyes
+
+Actor ID: 55
+Name: Clubber Shahi
+
+Actor ID: 56
+Name: Tommy Le Homme
+
+Actor ID: 57
+Name: Ren Arnoux
+
+Actor ID: 58
+Name: Gaston Martin
+
+Actor ID: 59
+Name: Working Class Woman
+
+Actor ID: 60
+Name: Working Class Drunk
+
+Actor ID: 61
+Name: Mack Torson
+
+Actor ID: 62
+Name: Chester McLaine
+
+Actor ID: 63
+Name: Moneyman
+
+Actor ID: 64
+Name: Jules Pidieu
+
+Actor ID: 65
+Name: Alice
+
+Actor ID: 66
+Name: Coupris Kineema
+
+Actor ID: 67
+Name: Sylvie
+
+Actor ID: 68
+Name: Sunday Friend
+
+Actor ID: 69
+Name: The Gardener
+
+Actor ID: 70
+Name: Gorcy Kubek
+
+Actor ID: 71
+Name: Frittte clerk
+
+Actor ID: 72
+Name: Cindy the SKULL
+
+Actor ID: 73
+Name: Video Revachol, 24h
+
+Actor ID: 74
+Name: Onomatopoetic Lorryman
+
+Actor ID: 75
+Name: Siileng
+
+Actor ID: 76
+Name: Game Over
+
+Actor ID: 77
+Name: Paledriver
+
+Actor ID: 78
+Name: Tare Drunk
+
+Actor ID: 79
+Name: Easy Leo
+
+Actor ID: 80
+Name: Bird's Nest Roy
+
+Actor ID: 81
+Name: Tricentennial Electrics
+
+Actor ID: 82
+Name: Ancient Reptilian Brain
+
+Actor ID: 83
+Name: Limbic System
+
+Actor ID: 84
+Name: Spinal Cord
+
+Actor ID: 85
+Name: Man on water lock
+
+Actor ID: 86
+Name: Washerwoman
+
+Actor ID: 87
+Name: Canal Crew
+
+Actor ID: 88
+Name: Gary, the Cryptofascist
+
+Actor ID: 89
+Name: Idiot Doom Spiral
+
+Actor ID: 90
+Name: Kortenaer
+
+Actor ID: 91
+Name: De Paule
+
+Actor ID: 92
+Name: Man with Sunglasses
+
+Actor ID: 93
+Name: Horse-Faced Woman
+
+Actor ID: 94
+Name: Pissft
+
+Actor ID: 95
+Name: Fuck the World
+
+Actor ID: 96
+Name: Cleaning Lady
+
+Actor ID: 97
+Name: A Shadow on the Bed
+
+Actor ID: 98
+Name: Don't Call Abigail
+
+Actor ID: 99
+Name: Rosemary
+
+Actor ID: 100
+Name: The Pigs
+
+Actor ID: 101
+Name: Little Lily
+
+Actor ID: 102
+Name: Working Class Husband
+
+Actor ID: 103
+Name: Titus Hardie
+
+Actor ID: 104
+Name: Fat Angus
+
+Actor ID: 105
+Name: Theo
+
+Actor ID: 106
+Name: Glen
+
+Actor ID: 107
+Name: Shanky
+
+Actor ID: 108
+Name: Eugene
+
+Actor ID: 109
+Name: Alain
+
+Actor ID: 110
+Name: Elizabeth
+
+Actor ID: 111
+Name: Tiago
+
+Actor ID: 112
+Name: East-Insulindian Repeater Station
+
+Actor ID: 113
+Name: Ruud Hoenkloewen
+
+Actor ID: 114
+Name: Mega Rich Light-Bending Guy
+
+Actor ID: 115
+Name: Netpicker's Twins
+
+Actor ID: 116
+Name: Lilienne's Twin
+
+Actor ID: 117
+Name: Real Estate Agent
+
+Actor ID: 118
+Name: Bloated Corpse of a Drunk
+
+Actor ID: 119
+Name: Jamrock Public Library
+
+Actor ID: 120
+Name: Barry the Butcher
+
+Actor ID: 121
+Name: Nix Gottlieb
+
+Actor ID: 122
+Name: MrDeleteMe
+
+Actor ID: 123
+Name: Cuno's Dad
+
+Actor ID: 124
+Name: Mikael Heidelstam
+
+Actor ID: 125
+Name: Lilienne's Other Twin
+
+Actor ID: 126
+Name: Steban, the Student Communist
+
+Actor ID: 127
+Name: Echo Maker
+
+Actor ID: 128
+Name: Coalition Warship Archer
+
+Actor ID: 129
+Name: DJ Mesh
+
+Actor ID: 130
+Name: DJ Flacio
+
+Actor ID: 131
+Name: Woman from Gottwald
+
+Actor ID: 132
+Name: Civilian
+
+Actor ID: 133
+Name: Ceiling Fan
+
+Actor ID: 134
+Name: Mirror
+
+Actor ID: 135
+Name: Candle
+
+Actor ID: 136
+Name: Gun Barrel (4 Bullets)
+
+Actor ID: 137
+Name: Dice d4
+
+Actor ID: 138
+Name: Dice d20
+
+Actor ID: 139
+Name: Blurred Mirror
+
+Actor ID: 140
+Name: Church Doors
+
+Actor ID: 141
+Name: The Greatest Innocence
+
+Actor ID: 142
+Name: From A to Zrieek! A Guide To a Well-Behaved Cockatoo
+
+Actor ID: 143
+Name: Man from Hjelmdall
+
+Actor ID: 144
+Name: Man from Hjelmdall in Hell
+
+Actor ID: 145
+Name: Man from Hjelmdall and the Swamp Beast
+
+Actor ID: 146
+Name: Man from Hjelmdall and the Wild Fire
+
+Actor ID: 147
+Name: Man from Hjelmdall and the Devil Woman
+
+Actor ID: 148
+Name: The "Great Ideas" of Mass Murderers Debunked
+
+Actor ID: 149
+Name: From Synchromesh to TwinClutch: A Beginners Guide to Changing Gears
+
+Actor ID: 150
+Name: Le TipTop Tourne: C'est Suicide, C'est Madness
+
+Actor ID: 151
+Name: Nailing the Cochonnet
+
+Actor ID: 152
+Name: Boule Brothers: The Tale of Ptanque
+
+Actor ID: 153
+Name: Dick Mullen and the Murder in the Orchard
+
+Actor ID: 154
+Name: The Stout Adventures of Dick Mullen
+
+Actor ID: 155
+Name: The Stalwart Investigations of Dick Mullen
+
+Actor ID: 156
+Name: Lord of the Western Plain
+
+Actor ID: 157
+Name: The Perikarnassian
+
+Actor ID: 158
+Name: Happy With the Perikarnassian
+
+Actor ID: 159
+Name: Tractatus Politico-Extraphysicus
+
+Actor ID: 160
+Name: The Relay Out of Death
+
+Actor ID: 161
+Name: Interisolary Love
+
+Actor ID: 162
+Name: How To Repair Eendracht-class Airships: An Instruction Manual
+
+Actor ID: 163
+Name: Most Able-Bodied Detectives: A Top 10
+
+Actor ID: 164
+Name: Isolary Atlas
+
+Actor ID: 165
+Name: Franconigerian Hardbody: Boiadeiro Culture, Use Your Hardbody
+
+Actor ID: 166
+Name: Architectural Peculiarities of Jamrock
+
+Actor ID: 167
+Name: Death on the Disco Floor
+
+Actor ID: 168
+Name: Shortwave: An Operator's Handbook
+
+Actor ID: 169
+Name: Radio Programme of '49
+
+Actor ID: 170
+Name: Off We Go Into the Wild Pale Yonder
+
+Actor ID: 171
+Name: Ardish National Recipes: The Variable Flavours of Lake Trout
+
+Actor ID: 172
+Name: Wholeness, Unity, Balance
+
+Actor ID: 173
+Name: Fifty Savors of Pt
+
+Actor ID: 174
+Name: Raise Your Offspring Properly: A Guidebook
+
+Actor ID: 175
+Name: World Domination Through Concentration
+
+Actor ID: 176
+Name: The Intrepid Life of Dick Mullen
+
+Actor ID: 177
+Name: Tome of Fascist Magic
+
+Actor ID: 178
+Name: Man from Hjelmdall and the Hjelmdall Man
+
+Actor ID: 179
+Name: Greatest Meals From The New
+
+Actor ID: 180
+Name: Hjelmdallermann: the Man from Hjelmdall
+
+Actor ID: 181
+Name: Man from Hjelmdall in the Lost City of the Pygmies
+
+Actor ID: 182
+Name: Man from Hjelmdall in Pellucidar
+
+Actor ID: 183
+Name: Man from Hjelmdall and the Mystery of the Lost Identity
+
+Actor ID: 184
+Name: The Lie Detector
+
+Actor ID: 185
+Name: Primer Book
+
+Actor ID: 186
+Name: High Speed Love: The Tragic True Story of Jacob Irw and Alfie Deletraz
+
+Actor ID: 187
+Name: Un Pays Infernal
+
+Actor ID: 188
+Name: Medicinal Purposes of the Pale
+
+Actor ID: 189
+Name: Suzerainty: The Board Game
+
+Actor ID: 190
+Name: Sixteen Days of Coldest April
+
+Actor ID: 191
+Name: Dick Mullen and the Mistaken Identity
+
+Actor ID: 192
+Name: Codex Urik
+
+Actor ID: 193
+Name: Tourist map of Martinaise
+
+Actor ID: 194
+Name: Stained Glass Window
+
+Actor ID: 195
+Name: Workout Bench
+
+Actor ID: 196
+Name: Tent Flap
+
+Actor ID: 197
+Name: Key On Yellow Keyring
+
+Actor ID: 198
+Name: Shards of Dei
+
+Actor ID: 199
+Name: Payphone
+
+Actor ID: 200
+Name: Torch
+
+Actor ID: 201
+Name: Firefighter's Axe
+
+Actor ID: 202
+Name: Trash Container
+
+Actor ID: 203
+Name: Coin-Operated Viewer
+
+Actor ID: 204
+Name: Broken Window
+
+Actor ID: 205
+Name: Warded Door
+
+Actor ID: 206
+Name: Closed Curtains
+
+Actor ID: 207
+Name: Radio
+
+Actor ID: 208
+Name: Mail Collection Box
+
+Actor ID: 209
+Name: Stone
+
+Actor ID: 210
+Name: Tare Machine
+
+Actor ID: 211
+Name: Plastic Rain Coat
+
+Actor ID: 212
+Name: Pile of Clothes
+
+Actor ID: 213
+Name: Pile of Sunglasses
+
+Actor ID: 214
+Name: Blind Musician's Soulful Shades
+
+Actor ID: 215
+Name: Electronic Doorbell
+
+Actor ID: 216
+Name: Damaged Ledger
+
+Actor ID: 217
+Name: Ledger of Failure and Hatred
+
+Actor ID: 218
+Name: Oblivion Ledger
+
+Actor ID: 219
+Name: Lieutenant's Notebook
+
+Actor ID: 220
+Name: Wirrl
+
+Actor ID: 221
+Name: Sawed-off Street Light
+
+Actor ID: 222
+Name: Canary Cage
+
+Actor ID: 223
+Name: Key, Room 1
+
+Actor ID: 224
+Name: Door, Apartment 28
+
+Actor ID: 225
+Name: Door, Room 3
+
+Actor ID: 226
+Name: Box of Sunglasses
+
+Actor ID: 227
+Name: FALN Sneakers on a Pedestal of Speakers
+
+Actor ID: 228
+Name: Box of Clothes
+
+Actor ID: 229
+Name: Rack of Second-Hand Uniforms
+
+Actor ID: 230
+Name: Central Furnace
+
+Actor ID: 231
+Name: Horrific Necktie
+
+Actor ID: 232
+Name: Breaker Box
+
+Actor ID: 233
+Name: Ice Cream Maker
+
+Actor ID: 234
+Name: Ice Bear Fridge
+
+Actor ID: 235
+Name: Knick-knacks Stand
+
+Actor ID: 236
+Name: Shelf of Boomboxes
+
+Actor ID: 237
+Name: A Hole in the Wall
+
+Actor ID: 238
+Name: Door, Room 1
+
+Actor ID: 239
+Name: Bed
+
+Actor ID: 240
+Name: First Aid Kit
+
+Actor ID: 241
+Name: Shack Door
+
+Actor ID: 242
+Name: ROO A72 Motor Skiff
+
+Actor ID: 243
+Name: Gaston's Sandwich
+
+Actor ID: 244
+Name: Policeman Cloak
+
+Actor ID: 245
+Name: Police Radio
+
+Actor ID: 246
+Name: File Cabinet
+
+Actor ID: 247
+Name: Saint-Batiste Pharmaceutics
+
+Actor ID: 248
+Name: Medicine Cabinet
+
+Actor ID: 249
+Name: The Button
+
+Actor ID: 250
+Name: Electronically Locked Door
+
+Actor ID: 251
+Name: Barbell
+
+Actor ID: 252
+Name: Project Dread Board
+
+Actor ID: 253
+Name: Reeds
+
+Actor ID: 254
+Name: Sewage Run-off Pipe
+
+Actor ID: 255
+Name: Phasmid Trap
+
+Actor ID: 256
+Name: Radiocomputer
+
+Actor ID: 257
+Name: Photo of Klaasje
+
+Actor ID: 258
+Name: Note from Klaasje
+
+Actor ID: 259
+Name: Control Buoy
+
+Actor ID: 260
+Name: Door, Room 2
+
+Actor ID: 261
+Name: Elevator
+
+Actor ID: 262
+Name: Abandoned Lorry
+
+Actor ID: 263
+Name: Fishing Rod
+
+Actor ID: 264
+Name: Bust of Kras Mazov
+
+Actor ID: 265
+Name: Samaran Butter
+
+Actor ID: 266
+Name: Sunken Motor Carriage
+
+Actor ID: 267
+Name: Washbasin
+
+Actor ID: 268
+Name: Eternite Drawbridge
+
+Actor ID: 269
+Name: Mainframe
+
+Actor ID: 270
+Name: Radio Array
+
+Actor ID: 271
+Name: Safety Curtains
+
+Actor ID: 272
+Name: Horseback Monument
+
+Actor ID: 273
+Name: Door, Apartment 20
+
+Actor ID: 274
+Name: Padlocked Door
+
+Actor ID: 275
+Name: Door, Apartment 12
+
+Actor ID: 276
+Name: Shelf of Biographies
+
+Actor ID: 277
+Name: Shelf of Crime Novels
+
+Actor ID: 278
+Name: Shelf of Romance Stories
+
+Actor ID: 279
+Name: Mountain of Board Games
+
+Actor ID: 280
+Name: Display of Paranormal Books
+
+Actor ID: 281
+Name: Map Wall
+
+Actor ID: 282
+Name: Man from Hjelmdall Series
+
+Actor ID: 283
+Name: Fractured Bullet
+
+Actor ID: 284
+Name: Frequency Fireplace
+
+Actor ID: 285
+Name: Working Class Corpse
+
+Actor ID: 286
+Name: Thank You Note
+
+Actor ID: 287
+Name: BADGE: LTN-2JFR DU BOIS
+
+Actor ID: 288
+Name: Clear Window
+
+Actor ID: 289
+Name: Dried Wildflower
+
+Actor ID: 290
+Name: Barred Door
+
+Actor ID: 291
+Name: Colonial Mug Collection
+
+Actor ID: 292
+Name: Stereo 8 Player
+
+Actor ID: 293
+Name: Blue door
+
+Actor ID: 294
+Name: Cafeteria Window
+
+Actor ID: 295
+Name: Footprints in the Dust
+
+Actor ID: 296
+Name: Bathtub
+
+Actor ID: 297
+Name: Southwest Entrance to the Tenements
+
+Actor ID: 298
+Name: Hawthorn Tree
+
+Actor ID: 299
+Name: Ice Bear Fridge with Hanged Man
+
+Actor ID: 300
+Name: Industrial Stove
+
+Actor ID: 301
+Name: Instigator's Tent
+
+Actor ID: 302
+Name: Feld Mural
+
+Actor ID: 303
+Name: Feld Ladder
+
+Actor ID: 304
+Name: Kras Mazov Portrait
+
+Actor ID: 305
+Name: Pale Latitude Compressor
+
+Actor ID: 306
+Name: Door (Unopenable)
+
+Actor ID: 307
+Name: Half-Finished Paperwork
+
+Actor ID: 308
+Name: Klaasje's Note
+
+Actor ID: 309
+Name: Water Bowls
+
+Actor ID: 310
+Name: ONE DAY I WILL RETURN TO YOUR SIDE
+
+Actor ID: 311
+Name: Microgrid Generator
+
+Actor ID: 312
+Name: Hard Spring Mattress
+
+Actor ID: 313
+Name: Spring Mattress
+
+Actor ID: 314
+Name: Reading Materials
+
+Actor ID: 315
+Name: Small Blast Door
+
+Actor ID: 316
+Name: Feld "Insular" Console
+
+Actor ID: 317
+Name: Mattress Nest
+
+Actor ID: 318
+Name: Door
+
+Actor ID: 319
+Name: Beautiful Necktie
+
+Actor ID: 320
+Name: Ruby's Journal
+
+Actor ID: 321
+Name: Cargo Container Door
+
+Actor ID: 322
+Name: Locked Door
+
+Actor ID: 323
+Name: Writing Desk
+
+Actor ID: 324
+Name: Shelf of Paranormal Books
+
+Actor ID: 325
+Name: Door, Basement Apartment
+
+Actor ID: 326
+Name: The Great Doorgunner Megamix
+
+Actor ID: 327
+Name: Coffee Table
+
+Actor ID: 328
+Name: A Note from the Fridge
+
+Actor ID: 329
+Name: Shimmering Wall of Vices
+
+Actor ID: 330
+Name: Photo of Tattoos
+
+Actor ID: 331
+Name: "Smallest Church in Saint-Sans"
+
+Actor ID: 332
+Name: Karaoke Stand
+
+Actor ID: 333
+Name: A Folded Library Card
+
+Actor ID: 334
+Name: Trash Can
+
+Actor ID: 335
+Name: Water Lock Control Panel
+
+Actor ID: 336
+Name: Small Buoy
+
+Actor ID: 337
+Name: Apricot Chewing Gum Wrapper
+
+Actor ID: 338
+Name: Railing
+
+Actor ID: 339
+Name: The Sun
+
+Actor ID: 340
+Name: Boots with Rotting Flesh
+
+Actor ID: 341
+Name: Deluxe Topping Pie
+
+Actor ID: 342
+Name: A Pile of Clothes
+
+Actor ID: 343
+Name: Nightwatchman's Booth
+
+Actor ID: 344
+Name: Filthy Jacket
+
+Actor ID: 345
+Name: Bench
+
+Actor ID: 346
+Name: A Pedestal of Speakers
+
+Actor ID: 347
+Name: Oranjese Passport
+
+Actor ID: 348
+Name: Pile of Eternite
+
+Actor ID: 349
+Name: Crane Control Panel
+
+Actor ID: 350
+Name: Punch Clock/Payphone
+
+Actor ID: 351
+Name: Flashlight
+
+Actor ID: 352
+Name: Drainage Pipe
+
+Actor ID: 353
+Name: White Envelope
+
+Actor ID: 354
+Name: Tutorial Agent
+
+Actor ID: 355
+Name: Backyard Wall
+
+Actor ID: 356
+Name: Set of Tracks
+
+Actor ID: 357
+Name: Scattering of Bullet Holes
+
+Actor ID: 358
+Name: Footprints in the Mud
+
+Actor ID: 359
+Name: Loose Floorboard
+
+Actor ID: 360
+Name: Trap: Boathouses
+
+Actor ID: 361
+Name: Trap: Land's End
+
+Actor ID: 362
+Name: Trap: Canal
+
+Actor ID: 363
+Name: Trap: Morell
+
+Actor ID: 364
+Name: Sandcastle
+
+Actor ID: 365
+Name: Yellow Man Mug
+
+Actor ID: 366
+Name: Graad Factory of Magnets and Miracles U49
+
+Actor ID: 367
+Name: Figure in the dark
+
+Actor ID: 368
+Name: Metal Grille Door
+
+Actor ID: 369
+Name: La Fume, Vol. 1 No. 4
+
+Actor ID: 370
+Name: A Brief Look at Infra-Materialism
+
+Actor ID: 371
+Name: Horseback Antenna
+
+Actor ID: 372
+Name: Office Radio
+
+Actor ID: 373
+Name: Stock Certificate
+
+Actor ID: 374
+Name: BRANCH MARKER
+
+Actor ID: 375
+Name: Dolores Dei
+
+Actor ID: 376
+Name: Evrart Claire
+
+Actor ID: 377
+Name: Garte, the Cafeteria Manager
+
+Actor ID: 378
+Name: Insulindian Phasmid
+
+Actor ID: 379
+Name: Jean Vicquemare
+
+Actor ID: 380
+Name: Joyce Messier
+
+Actor ID: 381
+Name: Judit Minot
+
+Actor ID: 382
+Name: Klaasje (Miss Oranje Disco Dancer)
+
+Actor ID: 383
+Name: Lena, the Cryptozoologist's wife
+
+Actor ID: 384
+Name: Morell, the Cryptozoologist
+
+Actor ID: 385
+Name: Ruby, the Instigator
+
+Actor ID: 386
+Name: Shadow of a Shadow
+
+Actor ID: 387
+Name: Soona, the Programmer
+
+Actor ID: 388
+Name: The Deserter
+
+Actor ID: 389
+Name: The Hanged Man
+
+Actor ID: 390
+Name: Trant Heidelstam
+
+Actor ID: 391
+Name: Ice-swimmer
+
+Actor ID: 392
+Name: Seagull
+
+Actor ID: 393
+Name: Cornelius Gurdi and the Mountain Goats
+
+Actor ID: 394
+Name: Leopard-patterned bodysuit
+
+Actor ID: 395
+Name: Kim Kitsuragi
+
+Actor ID: 396
+Name: You
+
+Actor ID: 397
+Name: Conceptualization
+
+Actor ID: 398
+Name: Logic
+
+Actor ID: 399
+Name: Encyclopedia
+
+Actor ID: 400
+Name: Rhetoric
+
+Actor ID: 401
+Name: Drama
+
+Actor ID: 402
+Name: Visual Calculus
+
+Actor ID: 403
+Name: Empathy
+
+Actor ID: 404
+Name: Inland Empire
+
+Actor ID: 405
+Name: Volition
+
+Actor ID: 406
+Name: Authority
+
+Actor ID: 407
+Name: Suggestion
+
+Actor ID: 408
+Name: Esprit de Corps
+
+Actor ID: 409
+Name: Endurance
+
+Actor ID: 410
+Name: Physical Instrument
+
+Actor ID: 411
+Name: Shivers
+
+Actor ID: 412
+Name: Pain Threshold
+
+Actor ID: 413
+Name: Electrochemistry
+
+Actor ID: 414
+Name: Half Light
+
+Actor ID: 415
+Name: Hand/Eye Coordination
+
+Actor ID: 416
+Name: Reaction Speed
+
+Actor ID: 417
+Name: Savoir Faire
+
+Actor ID: 418
+Name: Interfacing
+
+Actor ID: 419
+Name: Composure
+
+Actor ID: 420
+Name: Perception
+
+Actor ID: 421
+Name: Perception (Smell)
+
+Actor ID: 422
+Name: Perception (Hearing)
+
+Actor ID: 423
+Name: Perception (Taste)
+
+Actor ID: 424
+Name: Perception (Sight)
+

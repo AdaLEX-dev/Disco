@@ -1,0 +1,796 @@
+Task ID: 1
+Conversation ID: 69
+Task Name: Find government-marked heavy fuel oil and return to the wall.
+
+Task ID: 1
+Conversation ID: 75
+Task Name: Find some gloves (optional).
+
+Task ID: 1
+Conversation ID: 77
+Task Name: Find Klaasje so you can question to her.
+
+Task ID: 1
+Conversation ID: 78
+Task Name: Ask the fisherfolk in the village -- maybe their leader knows something?
+
+Task ID: 1
+Conversation ID: 79
+Task Name: Survive the mercenary tribunal.
+
+Task ID: 1
+Conversation ID: 80
+Task Name: Use the Net Picker's skiff on the jetty and go to the island.
+
+Task ID: 1
+Conversation ID: 81
+Task Name: Use Kim's shortwave to run the serial number.
+
+Task ID: 1
+Conversation ID: 87
+Task Name: Check the Whirling trash container -- Sylvie said she threw out documents.
+
+Task ID: 1
+Conversation ID: 91
+Task Name: Buy the spirits from Rosemary.
+
+Task ID: 1
+Conversation ID: 209
+Task Name: Perform a thorough ballistics check of the window.
+
+Task ID: 1
+Conversation ID: 217
+Task Name: Talk to Titus and establish authority in the Hardie boys' eyes.
+
+Task ID: 1
+Conversation ID: 219
+Task Name: Return to the 'Feld' mural and consult the wind if you don't know what to do. Other than that, keep searching the coast.
+
+Task ID: 1
+Conversation ID: 278
+Task Name: A certain Cindy the Skull might know something about the victims armour. Ask her.
+
+Task ID: 1
+Conversation ID: 359
+Task Name: Roam the streets to sniff out some comrades.
+
+Task ID: 1
+Conversation ID: 367
+Task Name: Form a committee of moralists to assign responsibility. Kim might know where to start?
+
+Task ID: 1
+Conversation ID: 373
+Task Name: Find a starving artist and become their patron.
+
+Task ID: 1
+Conversation ID: 389
+Task Name: Ask Cuno (the kid throwing rocks) what he knows.
+
+Task ID: 1
+Conversation ID: 392
+Task Name: Check the trap near the boathouses, west of the Feld building.
+
+Task ID: 1
+Conversation ID: 431
+Task Name: First restock the trap you left empty before (the trick is to remember which one it was).
+
+Task ID: 1
+Conversation ID: 441
+Task Name: Access the harbour and ask for Evrart Claire's help.
+
+Task ID: 1
+Conversation ID: 496
+Task Name: Interrogate the drivers about the smuggling.
+
+Task ID: 1
+Conversation ID: 498
+Task Name: Search for the 'malignant Entity'. Plaisance said she lives inside a chimney -- find a way in.
+
+Task ID: 1
+Conversation ID: 538
+Task Name: Find out the real reason why the trap was empty. Local kids might know.
+
+Task ID: 1
+Conversation ID: 563
+Task Name: First you should find the vehicle the joyrider used in their escapades.
+
+Task ID: 1
+Conversation ID: 593
+Task Name: Get ammonia from the gardener or the Frittte store, it'll make it easier.
+
+Task ID: 1
+Conversation ID: 596
+Task Name: Ask your station for additional funds.
+
+Task ID: 1
+Conversation ID: 623
+Task Name: Ask Cuno if he knows anything about the victim's clothes in the trash.
+
+Task ID: 1
+Conversation ID: 634
+Task Name: Ask around about tattoos' possible meaning.
+
+Task ID: 1
+Conversation ID: 677
+Task Name: Call Sylvie using Kim's shortwave to ask whether she made the call.
+
+Task ID: 1
+Conversation ID: 679
+Task Name: Find a way into the secret passage.
+
+Task ID: 1
+Conversation ID: 682
+Task Name: Get hold of a sad song on tape.
+
+Task ID: 1
+Conversation ID: 687
+Task Name: Listen to the Doorgunner Megamix.
+
+Task ID: 1
+Conversation ID: 689
+Task Name: Return to Klaasje after doing the autopsy, ask her again about the hanged man.
+
+Task ID: 1
+Conversation ID: 693
+Task Name: Titus doesn't believe Ruby shot the hanged man. Present a theory, make him see it's something to consider.
+
+Task ID: 1
+Conversation ID: 779
+Task Name: Find the Children of the Big Sea.
+
+Task ID: 1
+Conversation ID: 791
+Task Name: Get the key to the weasel's door from Maana.
+
+Task ID: 1
+Conversation ID: 792
+Task Name: Find someone to sign the document instead the intended signees.
+
+Task ID: 1
+Conversation ID: 846
+Task Name: Ask the local 'traditionalists' if anyone knows how to turn back time.
+
+Task ID: 1
+Conversation ID: 993
+Task Name: Joyce is rich and willing to answer your questions. Ask one!
+
+Task ID: 1
+Conversation ID: 1014
+Task Name: Look into the spookers in the church.
+
+Task ID: 1
+Conversation ID: 1097
+Task Name: Convince Hardie boys to tell you the whole story.
+
+Task ID: 1
+Conversation ID: 1152
+Task Name: Perform a ballistics analysis on the bullet.
+
+Task ID: 1
+Conversation ID: 1169
+Task Name: Examine the library card you found on the dead body.
+
+Task ID: 1
+Conversation ID: 1170
+Task Name: Examine the library card you found on the dead man.
+
+Task ID: 1
+Conversation ID: 1221
+Task Name: Return to the Hardie boys with more evidence. Try talking to their boss or examining either the tracks on the crime scene or the belt around the victim's neck.
+
+Task ID: 1
+Conversation ID: 1242
+Task Name: Find fuel for the generator and get it running.
+
+Task ID: 1
+Conversation ID: 1243
+Task Name: Wash the dirty jacket.
+
+Task ID: 1
+Conversation ID: 1264
+Task Name: Approach the insect first -- get close to it.
+
+Task ID: 1
+Conversation ID: 1405
+Task Name: Report back to cleaning lady.
+
+Task ID: 1
+Conversation ID: 1417
+Task Name: First go to the Kineema and turn on the lights.
+
+Task ID: 1
+Conversation ID: 1418
+Task Name: Ask around about fridge.
+
+Task ID: 1
+Conversation ID: 1419
+Task Name: Lena wants to know what happened to Morell. He set off south-west, across the canal. Start by going there.
+
+Task ID: 1
+Conversation ID: 1420
+Task Name: Get a map (from the bookstore?) and use it on Klaasje's window.
+
+Task ID: 1
+Conversation ID: 1421
+Task Name: Get speed from Cuno's apartment.
+
+Task ID: 1
+Conversation ID: 1422
+Task Name: Find the giant ice bear fridge in Doomed Commercial Area.
+
+Task ID: 1
+Conversation ID: 1423
+Task Name: Find a tape with a melody for Egg Head.
+
+Task ID: 1
+Conversation ID: 1424
+Task Name: Get boots off victim's feet.
+
+Task ID: 1
+Conversation ID: 1425
+Task Name: Find a way inside the large apartment building in the north.
+
+Task ID: 1
+Conversation ID: 1428
+Task Name: Find any information you can on the gun.
+
+Task ID: 2
+Conversation ID: 69
+Task Name: Use fuel oil to paint the wall.
+
+Task ID: 2
+Conversation ID: 75
+Task Name: Bring chaincutters from Kim's toolbox in the Kineema.
+
+Task ID: 2
+Conversation ID: 77
+Task Name: Get Klaasje's version of events, tactfully.
+
+Task ID: 2
+Conversation ID: 78
+Task Name: The washerwoman is hiding something. Look around, maybe get into her shack somehow?
+
+Task ID: 2
+Conversation ID: 81
+Task Name: Call Alice back in a day for info on the armour's owner.
+
+Task ID: 2
+Conversation ID: 91
+Task Name: Hold onto the spirits and wait for the signal.
+
+Task ID: 2
+Conversation ID: 219
+Task Name: Climb the ladder to the roof -- or find another way into the Feld building.
+
+Task ID: 2
+Conversation ID: 278
+Task Name: Ask the little girl in the fishing village, down the coast, who knows something about the armoured gloves.
+
+Task ID: 2
+Conversation ID: 359
+Task Name: Find the secret passphrase to Steban's meeting.
+
+Task ID: 2
+Conversation ID: 367
+Task Name: Kim says you should keep your eyes peeled for moralists (may take a while).
+
+Task ID: 2
+Conversation ID: 373
+Task Name: Find a buyer for Cindy's art -- someone inconceivably rich.
+
+Task ID: 2
+Conversation ID: 389
+Task Name: Go to the harbour gates, ask the jolly Mesque about the armour.
+
+Task ID: 2
+Conversation ID: 392
+Task Name: Check the trap Morell just set up, in the cryptozoologist camp.
+
+Task ID: 2
+Conversation ID: 431
+Task Name: You've restocked the trap -- now report to Lena in the Whirling.
+
+Task ID: 2
+Conversation ID: 441
+Task Name: Go to Measurehead on the gates and ask him to get the body down.
+
+Task ID: 2
+Conversation ID: 496
+Task Name: Find out who's the lady driver and where's her lorry.
+
+Task ID: 2
+Conversation ID: 498
+Task Name: Ask the Novelty Dicemaker about the bankrupt companies.
+
+Task ID: 2
+Conversation ID: 538
+Task Name: Ask Cuno about the empty trap, then take a look around the yard.
+
+Task ID: 2
+Conversation ID: 563
+Task Name: You found the joyrider's vehicle -- see what's inside to identify his IDENTITY!
+
+Task ID: 2
+Conversation ID: 593
+Task Name: Equip and complete "Volumetric Shit Compressor" thought.
+
+Task ID: 2
+Conversation ID: 596
+Task Name: Try negotiating with cafeteria manager.
+
+Task ID: 2
+Conversation ID: 623
+Task Name: Ask Garte if he knows how the victim's clothes got in the trash.
+
+Task ID: 2
+Conversation ID: 634
+Task Name: Ask another about the tattoos' possible meaning.
+
+Task ID: 2
+Conversation ID: 677
+Task Name: Keep searching for the caller -- despite lacking any obvious leads. (This might take some time)
+
+Task ID: 2
+Conversation ID: 679
+Task Name: Uncover the secrets hidden within.
+
+Task ID: 2
+Conversation ID: 682
+Task Name: Convince Garte to let you sing karaoke.
+
+Task ID: 2
+Conversation ID: 687
+Task Name: Talk to Klaasje about the Doorgunner Megamix.
+
+Task ID: 2
+Conversation ID: 779
+Task Name: Speak to Lilienne's Twins again with Kim present.
+
+Task ID: 2
+Conversation ID: 791
+Task Name: You have the key. The door is behind the greenhouse in the yard. A basement door.
+
+Task ID: 2
+Conversation ID: 792
+Task Name: Put the envelope in the mailbox in the plaza.
+
+Task ID: 2
+Conversation ID: 846
+Task Name: Return to Measurehead once you understand the basics of 'reality'.
+
+Task ID: 2
+Conversation ID: 993
+Task Name: Keep asking Joyce questions about reality -- or return later. She'll be here whenever you need the info.
+
+Task ID: 2
+Conversation ID: 1014
+Task Name: Ask Soona how she feels about the night club idea.
+
+Task ID: 2
+Conversation ID: 1097
+Task Name: Confront Klaasje with the Hardies' story.
+
+Task ID: 2
+Conversation ID: 1152
+Task Name: Perform an advanced analysis, using H/E Coordination.
+
+Task ID: 2
+Conversation ID: 1169
+Task Name: Call the station to hand over the case.
+
+Task ID: 2
+Conversation ID: 1170
+Task Name: Call Jamrock Public Library for information on the library card's owner.
+
+Task ID: 2
+Conversation ID: 1264
+Task Name: Investigate the insect until it's no longer there.
+
+Task ID: 2
+Conversation ID: 1417
+Task Name: Now go stand in front of the Kineema, in the lights.
+
+Task ID: 2
+Conversation ID: 1418
+Task Name: Check out the fridge in the commercial building across from the Whirling.
+
+Task ID: 2
+Conversation ID: 1419
+Task Name: Tell Lena Morell is missing because of the broken water lock.
+
+Task ID: 2
+Conversation ID: 1420
+Task Name: Check Land's End for bullet traces.
+
+Task ID: 2
+Conversation ID: 1421
+Task Name: Take down Cuno's dad (optional).
+
+Task ID: 2
+Conversation ID: 1422
+Task Name: Find the frozen ice cream maker mentioned in the note.
+
+Task ID: 2
+Conversation ID: 1423
+Task Name: Repair the broken bundle of magnetic tape.
+
+Task ID: 2
+Conversation ID: 1424
+Task Name: Wash the boots -- in a kitchen somewhere.
+
+Task ID: 2
+Conversation ID: 1425
+Task Name: Ask around for his apartment number.
+
+Task ID: 2
+Conversation ID: 1428
+Task Name: Keep looking. Maybe someone else knows something.
+
+Task ID: 3
+Conversation ID: 77
+Task Name: Confront the Hardie boys with what Klaasje told you.
+
+Task ID: 3
+Conversation ID: 78
+Task Name: You found a bullet in the washerwoman's shack. Ask her about it.
+
+Task ID: 3
+Conversation ID: 81
+Task Name: Call Alice back in a day for info on the armour.
+
+Task ID: 3
+Conversation ID: 91
+Task Name: Be ready, bratan!
+
+Task ID: 3
+Conversation ID: 219
+Task Name: Enter the building and let Kim in too.
+
+Task ID: 3
+Conversation ID: 278
+Task Name: Ask Little Lily in the fishing village, down the coast, if she knows something about the armoured gloves.
+
+Task ID: 3
+Conversation ID: 359
+Task Name: Find out more about this 'idelogo' Maana mentioned.
+
+Task ID: 3
+Conversation ID: 367
+Task Name: Kim says you should look for the Sunday Friend. The Smoker on the Balcony might know where he is.
+
+Task ID: 3
+Conversation ID: 373
+Task Name: Get yourself a Personal Brand Strategist.
+
+Task ID: 3
+Conversation ID: 389
+Task Name: Cuno lied to you. Return and confront him.
+
+Task ID: 3
+Conversation ID: 392
+Task Name: Check the trap in Land's End, far northeast of the Feld building.
+
+Task ID: 3
+Conversation ID: 431
+Task Name: Lena is hiding something -- ask her what it is.
+
+Task ID: 3
+Conversation ID: 441
+Task Name: Go to the yard and see what Measurehead accomplished.
+
+Task ID: 3
+Conversation ID: 496
+Task Name: Search through the lady driver's lorry cabin near the monument.
+
+Task ID: 3
+Conversation ID: 498
+Task Name: Ask the Novelty Dicemaker about the curse.
+
+Task ID: 3
+Conversation ID: 538
+Task Name: Confront Cuno about the locusts.
+
+Task ID: 3
+Conversation ID: 593
+Task Name: You're in, do a preliminary inspection of its different parts.
+
+Task ID: 3
+Conversation ID: 596
+Task Name: Kim has offered to help -- go to his motor carriage in front of the Whirling.
+
+Task ID: 3
+Conversation ID: 623
+Task Name: Who else has unauthorized access to the Whirling trash? Find this person and you'll know who tampered with the scene. (It may take a while.)
+
+Task ID: 3
+Conversation ID: 682
+Task Name: Get up on the stage in the evening.
+
+Task ID: 3
+Conversation ID: 687
+Task Name: Talk to Titus about the Doorgunner Megamix.
+
+Task ID: 3
+Conversation ID: 779
+Task Name: Call Speedfreaks FM from the lieutenant's Kineema.
+
+Task ID: 3
+Conversation ID: 791
+Task Name: Or you can lie to Evrart that you opened the weasel's door.
+
+Task ID: 3
+Conversation ID: 792
+Task Name: Forge the signatures, but somewhere private, where you feel safe enough to sleep.
+
+Task ID: 3
+Conversation ID: 846
+Task Name: Your quest to figure out 'reality' has failed. Return to Measurehead.
+
+Task ID: 3
+Conversation ID: 1014
+Task Name: Tell Andre about Soona's thoughts on the nightclub.
+
+Task ID: 3
+Conversation ID: 1152
+Task Name: Locate a working firearm that shoots 4.46 ammo.
+
+Task ID: 3
+Conversation ID: 1170
+Task Name: Call the station about the dead body.
+
+Task ID: 3
+Conversation ID: 1264
+Task Name: Phasmid's gone. Check up on the deserter now.
+
+Task ID: 3
+Conversation ID: 1417
+Task Name: Delete this task later, it's only for testing.
+
+Task ID: 3
+Conversation ID: 1418
+Task Name: Plug in the ice bear fridge.
+
+Task ID: 3
+Conversation ID: 1419
+Task Name: You told Lena Morell is missing because of the broken waterlock. She is still worried he hasn't come back -- let Morell know if you see him.
+
+Task ID: 3
+Conversation ID: 1420
+Task Name: Check boardwalk for bullet traces.
+
+Task ID: 3
+Conversation ID: 1421
+Task Name: Report back to Cuno.
+
+Task ID: 3
+Conversation ID: 1422
+Task Name: Get the ice cream maker open (find the right tool or ask Soona for help).
+
+Task ID: 3
+Conversation ID: 1423
+Task Name: Help Egg Head with the beat (this may take a while).
+
+Task ID: 3
+Conversation ID: 1425
+Task Name: Locate the door 28 in the apt building.
+
+Task ID: 4
+Conversation ID: 78
+Task Name: Ruby left the village and went up the coast. Explore the coast for signs.
+
+Task ID: 4
+Conversation ID: 219
+Task Name: Explore the passages below the Feld building.
+
+Task ID: 4
+Conversation ID: 278
+Task Name: Lily said she hid the gloves in the sandcastle behind her house. Go get them!
+
+Task ID: 4
+Conversation ID: 359
+Task Name: Attend Steban's meeting after 22.00 at the Capeside apartments.
+
+Task ID: 4
+Conversation ID: 367
+Task Name: Kim says you should talk with Trant Heidelstam.
+
+Task ID: 4
+Conversation ID: 373
+Task Name: Check out the horseback monument.
+
+Task ID: 4
+Conversation ID: 392
+Task Name: Check the trap near the canal you crossed, southeast of the village.
+
+Task ID: 4
+Conversation ID: 496
+Task Name: Report back to Joyce.
+
+Task ID: 4
+Conversation ID: 498
+Task Name: Report back to Plaisance about your findings.
+
+Task ID: 4
+Conversation ID: 538
+Task Name: Cuno has promised to stop. Report your findings to the cryptozoologists.
+
+Task ID: 4
+Conversation ID: 596
+Task Name: Take spinner hubcaps to local pawnshop, south of the plaza.
+
+Task ID: 4
+Conversation ID: 623
+Task Name: Analyze Gary's composure to find out if he's hiding something more.
+
+Task ID: 4
+Conversation ID: 779
+Task Name: Ask Lilienne's Twins where they were when they heard Speedfreaks FM.
+
+Task ID: 4
+Conversation ID: 791
+Task Name: Let Evrart know you unlocked the door.
+
+Task ID: 4
+Conversation ID: 792
+Task Name: Let Evrart know you mailed the signatures.
+
+Task ID: 4
+Conversation ID: 846
+Task Name: Figure out what's going on with the white-haired lorry driver.
+
+Task ID: 4
+Conversation ID: 1014
+Task Name: Convince Soona to cooperate with the ravers, or evict her.
+
+Task ID: 4
+Conversation ID: 1170
+Task Name: Go to Billie Mjean's apartment to deliver the bad news. It's in the apartment buildings in north Martinaise, apt 20.
+
+Task ID: 4
+Conversation ID: 1418
+Task Name: Get Kim to help you move the body.
+
+Task ID: 4
+Conversation ID: 1420
+Task Name: Check island for bullet traces.
+
+Task ID: 4
+Conversation ID: 1421
+Task Name: Find Cuno a new kilo.
+
+Task ID: 4
+Conversation ID: 1422
+Task Name: Bring the off-site copy back to Soona.
+
+Task ID: 4
+Conversation ID: 1425
+Task Name: Visit apartment 28 some time after 21:00 to see if anyone's home.
+
+Task ID: 5
+Conversation ID: 78
+Task Name: Looking for Ruby brought you to a mural that you somehow think is important. Inspect it thorougly.
+
+Task ID: 5
+Conversation ID: 219
+Task Name: Enter the cavern below the Feld building -- when you're ready. (NOTE! Union and cryptozoology business might end when you do.)
+
+Task ID: 5
+Conversation ID: 359
+Task Name: Join the reading group.
+
+Task ID: 5
+Conversation ID: 367
+Task Name: The Smoker says his Sunday Friend has gone for a stroll along the coast.
+
+Task ID: 5
+Conversation ID: 373
+Task Name: Discuss the re-conceptualization with Idiot Doom Spiral.
+
+Task ID: 5
+Conversation ID: 392
+Task Name: The last trap was empty! Return to Morell in the Whirling with the news.
+
+Task ID: 5
+Conversation ID: 538
+Task Name: Tell Morell that you found the locusts in the shack.
+
+Task ID: 5
+Conversation ID: 596
+Task Name: Return to Garte with spinner cash.
+
+Task ID: 5
+Conversation ID: 779
+Task Name: Put the pieces together at the Feld Mural.
+
+Task ID: 5
+Conversation ID: 846
+Task Name: Face yourself in the mirror -- alone.
+
+Task ID: 5
+Conversation ID: 1014
+Task Name: You promised to help Soona with her project before the ravers can move in.
+
+Task ID: 5
+Conversation ID: 1421
+Task Name: Try opening the door to Cuno's apartment again.
+
+Task ID: 5
+Conversation ID: 1422
+Task Name: Move the water bowls to the right position and report back.
+
+Task ID: 6
+Conversation ID: 219
+Task Name: Ruby's gone -- go to her tent.
+
+Task ID: 6
+Conversation ID: 359
+Task Name: Read 'A Brief Look at Infra-Materialism'.
+
+Task ID: 6
+Conversation ID: 367
+Task Name: Find someone with technical expertise to contact the Coalition.
+
+Task ID: 6
+Conversation ID: 373
+Task Name: Check back on the monument re-conceptualization later.
+
+Task ID: 6
+Conversation ID: 779
+Task Name: Ask the Washerwoman if she's heard the radio lately.
+
+Task ID: 6
+Conversation ID: 1014
+Task Name: Report back to Andre that they can move in.
+
+Task ID: 6
+Conversation ID: 1422
+Task Name: Figure out why Soona couldn't hear anything through her headphones.
+
+Task ID: 7
+Conversation ID: 219
+Task Name: Look through the magazines in Ruby's tent.
+
+Task ID: 7
+Conversation ID: 359
+Task Name: Return to the group for discussion.
+
+Task ID: 7
+Conversation ID: 367
+Task Name: Inspect the antenna at Land's End.
+
+Task ID: 7
+Conversation ID: 779
+Task Name: Ask the Washerwoman about the radio -- with Kim.
+
+Task ID: 7
+Conversation ID: 1014
+Task Name: Visit the nightclub after ravers have moved in.
+
+Task ID: 7
+Conversation ID: 1422
+Task Name: Check up on Soona's project after ravers have moved in.
+
+Task ID: 8
+Conversation ID: 219
+Task Name: You've found Ruby's journal. Read it (see INTERACT tab in your Inventory).
+
+Task ID: 8
+Conversation ID: 367
+Task Name: Come up with a suitable location for a giant antenna.
+
+Task ID: 8
+Conversation ID: 1422
+Task Name: Talk to Egg Head about the AUX cable.
+
+Task ID: 9
+Conversation ID: 367
+Task Name: Find a working transceiver and return to the church.
+
+Task ID: 9
+Conversation ID: 1422
+Task Name: Report back to Soona that she can unmute the speakers.
+
+Task ID: 10
+Conversation ID: 367
+Task Name: Contact Coalition Warship Archer.
+
