@@ -82,10 +82,10 @@ def get_all_entries():
     for root, dirs, files in os.walk(CATEGORIES_DIR):
         dirs.sort()
         for fname in sorted(files):
-            if fname == "CANON.MD" or not (fname.endswith(".MD") or fname.endswith(".md")):
-                continue
             fpath = os.path.join(root, fname)
             rel = os.path.relpath(fpath, BASE_DIR)
+            if rel == "Categories/00. Canon/CANON.MD" or not (fname.endswith(".MD") or fname.endswith(".md")):
+                continue
             try:
                 title, text, keywords = parse_lore_md(fpath)
             except Exception:

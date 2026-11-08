@@ -3,6 +3,22 @@
 (async function() {
   const ENTRIES = [
   {
+    "file": "Categories/Canon.MD",
+    "title": "Canon",
+    "text": "The Canon of Elysium establishes the strict, immutable reality and narrative boundaries governing all interactions, character dialogues, and environmental descriptions within this simulation. The world is exclusively Elysium, centered upon the southern maritime geography of the Insulindian Isola, the Bay of Revachol, and the historical districts of Revachol, including Martinaise, Jamrock, Coal City, Old Town, and Le Caillou. All events unfold in the immediate post-revolutionary era, defined by the aftermath of the failed Commune, the naval bombardment of Year '08, and the ongoing Coalition military occupation.\n\nUnder this canonical reality, all narrative responses, character behaviors, and world details must strictly and exclusively utilize established Elysian concepts. Permissible subjects include the twenty-four internal psychological faculties and voices categorized under Intellect, Psyche, Physique, and Motorics; the civic operations of the Revachol Citizens Militia; the labor struggles of Debardeurs Union Local 41; corporate logistics of the Wild Pines Group; Moralintern occupational technocracy; Frissel royalist traditions; and the encroaching entropic expanse of the pale. Technology is strictly bounded by vacuum-tube radiocomputing, magnetized filament wire, Coupris Kineema motor carriages, and rigid aerostats.\n\nThe narrative engine is strictly forbidden from hallucinating or importing any elements outside this canon. Prohibited topics include modern Earth geography, real-world nation states, contemporary historical figures, digital computing, microprocessors, smartphones, satellite internet, or supernatural fantasy tropes foreign to Elysium. The simulation must never break the fourth wall, reference game rules, dice rolls, or external media. All dialogues must remain relentlessly grounded in the visceral, saline reality of Revachol, preserving absolute fidelity to the established world.",
+    "keywords": [
+      "Canon",
+      "Elysium",
+      "Insulindian Isola",
+      "Revachol",
+      "pale",
+      "simulation boundaries",
+      "narrative rules"
+    ],
+    "char_count": 1927,
+    "done": false
+  },
+  {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "title": "The Insulindian Isola",
     "text": "The Insulindian Isola is a vast oceanic territory situated within the known world of Elysium. Discovered approximately three hundred and eighty years ago during the historical westward voyage initiated by Innocence Dolores Dei, the isola is characterized by its overwhelming proportion of open salt water interrupted by the continental landmass of Le Caillou and numerous surrounding archipelagos. Like all geographic divisions of Elysium, Insulinde is bounded by the pale, a rarefied expanse of non-matter and sensory suspension that separates it from Mundi, Seol, Graad, Samara, Katla, and the southern isolas.\n\nGeographically, the isola is dominated by the massive Sea of Insulinde, a body of cold water subjected to persistent westerly weather systems and maritime squalls. Its primary political, cultural, and demographic center is the metropolis of Revachol, constructed along the northern coast of Le Caillou flanking the wide natural harbor of the Bay of Revachol. The climate of Insulinde is predominantly oceanic and temperate, featuring overcast skies, frequent coastal drizzle, damp winter slush, and short, humid summers.\n\nFollowing its initial colonization under the royal banner of the Suzerainty of Revachol, the isola grew into the premier industrial and financial pivot of global maritime commerce. Millions of settlers, workers, and administrators migrated across the pale from Mundi and Graad, establishing vast rail yards, commercial docks, and naval fortifications. This prosperity was shattered during the Antecentennial War and the subsequent Revolution of '02, which culminated in the Coalition naval bombardment of '08. In the modern era, the Insulindian Isola exists under foreign Coalition military administration, its waters patrolled by foreign warships and its economy dependent on international shipping lines.",
@@ -1975,56 +1991,6 @@
       "Revachol"
     ],
     "char_count": 1806,
-    "done": false
-  },
-  {
-    "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.06 Col Do Ma Ma Daqua Folkloric Cryptid.MD",
-    "title": "Col Do Ma Ma Daqua Folkloric Cryptid",
-    "text": "The Col Do Ma Ma Daqua is a celebrated, elusive folkloric cryptid rooted in the pre-colonial indigenous mythology and oral traditions of the Insulindian Isola. Described in ancient maritime legends as a reclusive, semi-aquatic avian cryptid that dwells deep within the dense reed marshes, mangrove channels, and inaccessible tidal lagoons of the western coastline, the creature occupies a cherished, quasi-mythological place in the cultural imagination of Revacholian naturalists, poets, and cryptid trackers.\n\nAccording to traditional Insulindian folklore, the Col Do Ma Ma Daqua possesses an extraordinary physical morphology, resembling an iridescent coastal waterfowl with shimmering emerald and lapis plumage, elongated webbed talons, and a long slender beak adapted for extracting small mud mollusks from subterranean tidal burrows. Most famously, native legends attribute to the creature an uncanny, haunting acoustic call, described as a multi-tonal, melancholic melody that echoes across the foggy marshlands at twilight, capable of mimicking human speech patterns and sounding remarkably like the mournful cry of a lost soul calling across the fog-shrouded waters.\n\nIn modern Revachol, the creature has been elevated to a primary target of cryptozoological research, pursued with passionate, lifelong devotion by amateur naturalists like Morell the Cryptozoologist and his wheelchair-bound wife Lena. Field naturalists deploy directional microphones, acoustic field phonographs, and specialized reed blinds across the coast in hopes of capturing its elusive vocalizations. While orthodox Graadian academia dismisses the Col Do Ma Ma Daqua as a fanciful folkloric fabrication born of acoustic echoes across coastal fog banks, the legendary bird endures as a poignant symbol of pre-colonial innocence, poetic mystery, and the enduring beauty hidden within the damp marshes of the Insulindian coastline.",
-    "keywords": [
-      "Col Do Ma Ma Daqua",
-      "cryptid",
-      "folklore",
-      "waterfowl",
-      "Morell and Lena",
-      "mythology",
-      "marshes"
-    ],
-    "char_count": 1910,
-    "done": false
-  },
-  {
-    "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.07 The Yekokatha Insulindian Cryptid.MD",
-    "title": "The Yekokatha Insulindian Cryptid",
-    "text": "The Yekokatha is an enigmatic, legendary cryptid originating in the maritime superstitions and wilderness folklore of the Insulindian archipelago. Documented in the field notes of pioneering colonial naturalists and whispered among generational fishing communities along the Bay of Revachol, the Yekokatha is purported to be an elusive, burrowing amphibious predator that inhabits the treacherous saltwater mudflats, submerged limestone sinkholes, and subterranean tidal caves of the outer coastal wetlands.\n\nFolkloric descriptions characterize the Yekokatha as a low slung, heavily armored creature possessing a mottled grey-green hide covered in calcified tubercles that mimic the wet limestone boulders of the coastal shallows. Equipped with paddle shaped digging limbs and powerful sensory whiskers capable of detecting seismic vibrations through coastal mud, the beast is said to spend weeks submerged in tidal silt, emerging only during extreme spring high tides to ambush nocturnal marsh crabs, nesting seabirds, and unwary coastal scavengers. Older fishermen in Martinaise maintain colorful superstitions regarding the creature, claiming that encountering a Yekokatha track in the morning sand foretells sudden maritime misfortune or gear failure.\n\nWithin the cryptozoological community of Revachol, the Yekokatha represents a subject of heated theoretical debate. While skeptics attribute sightings to misplaced sea-bear juveniles or submerged decomposing driftwood, dedicated field investigators like Morell continue to deploy specialized baited traps and acoustic sensors across the western mudflats in the hope of securing physical proof. The Yekokatha stands as an evocative testament to the untamed, mysterious depths of the Insulindian wilderness, reminding urban dwellers that the damp fringes of the isola still harbor secrets that elude the rigid categories of modern science.",
-    "keywords": [
-      "Yekokatha",
-      "cryptid",
-      "mudflats",
-      "predator",
-      "folklore",
-      "Morell",
-      "cryptozoology",
-      "Insulinde"
-    ],
-    "char_count": 1894,
-    "done": false
-  },
-  {
-    "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.08 Martinaise Damp Rot Parasites and Fungi.MD",
-    "title": "Martinaise Damp Rot Parasites and Fungi",
-    "text": "The Martinaise Damp Rot Parasites and Fungi encompass the specialized botanical, parasitic, and micro-fungal organisms that thrive across the waterlogged timbers, decaying masonry, and unventilated architectural spaces of Revachol West. Operating in an environment characterized by perpetual atmospheric moisture, freezing saline sea squalls, and chronic municipal neglect, these insidious fungal decomposers form an inescapable, destructive biological presence that actively accelerates the physical decomposition of the post-industrial coastal district.\n\nForemost among these fungal species is the notorious coastal black dry-rot, a resilient fibrous mycelium that penetrates deep into the grain of soaked spruce timbers, structural bridge pilings, and subfloor joists. Secreting acidic enzymes that break down cellulose, the fungus steadily reduces solid load-bearing beams into brittle, crumbly cubes of dry brown dust, causing sudden floor collapses across abandoned commercial complexes and tenement apartments in Capeside. In basements and stagnant storm drains, parasitic sulfur molds and damp rot lichens coat concrete brickwork in thick, velvety layers of grey-green slime, releasing pungent microscopic spores that saturate the coastal air with the distinctive, sickly sweet stench of structural decay.\n\nBeyond their physical destruction of urban infrastructure, damp rot organisms present serious biological hazards to the human inhabitants of the district. Inhaled continuously by dockworkers, factory laborers, and families living in unheated, moisture damaged tenements, the airborne spores induce chronic fungal bronchitis, skin dermatosis, and severe allergic exhaustion. Martinaise damp rot functions as nature's patient, relentless wrecking crew, steadily converting the concrete, steel, and timber monuments of a ruined empire back into primordial coastal compost.",
-    "keywords": [
-      "Damp rot",
-      "fungi",
-      "parasites",
-      "black mold",
-      "decay",
-      "timber",
-      "basements",
-      "Martinaise"
-    ],
-    "char_count": 1884,
     "done": false
   }
 ];
