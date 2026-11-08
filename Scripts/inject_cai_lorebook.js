@@ -1185,6 +1185,260 @@
       "Revachol"
     ],
     "char_count": 1964,
+    "done": true
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
+    "title": "Revachol Citizens Militia",
+    "text": "The Revachol Citizens Militia stands as the sole functioning municipal peacekeeping and criminal investigative agency operating across the ruined urban sprawl of Revachol. Established in the aftermath of the failed Revachol Commune and the subsequent Coalition invasion, the militia grew out of grassroots neighborhood defense committees, volunteer watch brigades, and demobilized revolutionary veterans who stepped forward to curb the rampant lawlessness that engulfed the shattered city. The occupying Moralintern authorities granted the volunteer organization reluctant recognition, utilizing the militia as an inexpensive domestic buffer to maintain civil peace without committing foreign troops to routine municipal policing.\n\nOperating under severe jurisdictional and material limitations imposed by the Coalition Administrative Region, the RCM is explicitly barred from maintaining heavy military hardware, automatic weaponry, or dedicated aerial assets. Sworn officers navigate an impoverished institutional existence, relying on aging motor carriages, dilapidated precinct stations, and meager municipal stipends. The organization is decentralized across autonomous regional stations, most notably Precinct 41 in Jamrock and Precinct 57 in Couron, each developing distinct institutional cultures ranging from hard bitten detective squads to weary neighborhood beat patrols.\n\nDespite enduring persistent underfunding, chronic bureaucratic neglect, and deep public cynicism from citizens who view them as tools of foreign occupation, the RCM performs an essential, harrowing civic duty. Its investigators and patrolmen confront brutal homicides, organized dockland smuggling, and violent street disputes with pragmatic resolve. Grounded in street level familiarity and moral endurance rather than statutory authority, the RCM remains the fragile, battered thin line preventing the fragmented districts of the Insulindian metropolis from collapsing into total societal dissolution.",
+    "keywords": [
+      "RCM",
+      "Citizens Militia",
+      "Precinct 41",
+      "police",
+      "peacekeeping",
+      "Jamrock",
+      "Revachol West"
+    ],
+    "char_count": 1987,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
+    "title": "Debardeurs Union Local 41",
+    "text": "The Debardeurs Union Local 41 is the immense, militant maritime labor organization that commands total operational control over the Martinaise Commercial Harbour and its surrounding industrial infrastructure. Originally formed as a mutual aid brotherhood among cargo handlers, crane operators, and stevedores during the final decades of the Frissel monarchy, the union evolved into an indispensable economic powerhouse across Revachol West. Governed with autocratic populist mastery by its portly union boss Evrart Claire and his twin brother Edgar, Local 41 operates as a self sufficient shadow municipality, administering local welfare, private healthcare clinics, public works, and territorial security independently of Coalition authority.\n\nThe union derives its extraordinary political power from its complete monopoly over Insulindian maritime logistics. Martinaise serves as the primary deep water portal through which manufactured goods, raw timber, and essential consumer commodities enter the western districts. By mobilizing thousands of disciplined dockworkers to execute general strikes and gate lockouts, the union can instantaneously paralyze commerce across the entire Bay of Revachol, inflicting catastrophic financial losses upon international shipping conglomerates and challenging the political supremacy of the Coalition Administrative Region.\n\nWhile widely revered by the local working class as the sole institutional champion of Insulindian sovereignty against foreign corporate exploitation, Local 41 operates with ruthless pragmatic ambition. The union maintains an extensive network of political patronage, engages in clandestine gray market logistics, and utilizes its loyal dockland council to enforce community conformity. Balancing genuine working class solidarity with calculated territorial expansion, the Debardeurs Union represents the most formidable, organized domestic counterweight to foreign capitalist dominance in post-war Revachol.",
+    "keywords": [
+      "Debardeurs Union",
+      "Local 41",
+      "Evrart Claire",
+      "dockworkers",
+      "Martinaise Harbour",
+      "strike",
+      "labour"
+    ],
+    "char_count": 1973,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
+    "title": "The Hardie Boys Council",
+    "text": "The Hardie Boys Council functions as the informal vigilante peacekeeping corps, strike defense detachment, and neighborhood tribunal of the Debardeurs Union in Martinaise. Headquartered inside the ground floor cafeteria of the Whirling-in-Rags hostel, where they occupy a central dining booth, the council is commanded by senior union shop steward Titus Hardie. Composed of veteran dockworkers, mechanical technicians, and cargo handlers including Alain, Eugene, Theo, Shanky, and the muscular twins Angus and Fat Angus, the group serves as the immediate civilian law of the district in the historic absence of regular Citizens Militia patrols.\n\nThe council arose out of acute communal necessity following the collapse of municipal administration in Revachol West. Rather than permitting neighborhood disputes, theft, and domestic violence to fester unaddressed in an abandoned industrial enclave, the Hardie boys established a rough, localized system of working class justice. They settle tenant conflicts, regulate black market commerce, protect union families from predatory outside criminals, and enforce picket line discipline with heavy fists, baseball bats, and hidden hunting rifles. Their authority is recognized and respected by the local population, who view them as authentic neighbors rather than hostile occupational agents.\n\nBeneath their gruff, combative exterior and frequent posturing over cafeteria beers, the council members are bound by fierce collective loyalty and genuine civic pride. When an international corporate mercenary commander is found murdered in the hostel yard, the Hardie boys close ranks to shield the community from foreign military retaliation, presenting a unified front of defiant solidarity. While their methods are often legally irregular and prone to violent escalation, the council embodies the rugged communal autonomy of the Martinaise dockworkers, standing resolute between defenseless civilians and encroaching corporate violence.",
+    "keywords": [
+      "Hardie Boys",
+      "Titus Hardie",
+      "Whirling-in-Rags",
+      "dockworkers",
+      "strike committee",
+      "vigilantes",
+      "Martinaise"
+    ],
+    "char_count": 1981,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.04 Wild Pines Group.MD",
+    "title": "Wild Pines Group",
+    "text": "The Wild Pines Group is one of the oldest, wealthiest, and most influential trans-isolary maritime conglomerates in the history of Elysium, holding vast commercial monopolies over global shipping, logistical infrastructure, and deep sea freight transit. Tracing its corporate lineage back over three centuries to royal trading charters granted during the early colonial settlement of the Insulindian Isola, the company expanded from a modest timber and spice merchant fleet into a sprawling multinational enterprise with corporate headquarters based in the prosperous western isola of Mundi.\n\nWithin Revachol, Wild Pines owns extensive contractual rights to coastal harbor facilities, deep water piers, and cargo loading terminals, including the strategic facilities of the Martinaise Commercial Harbour. The corporation represents the clean, refined, and institutional face of global merchant capitalism, operating through aristocratic directors, prestigious maritime boards, and polished corporate negotiators like Joyce Messier. Wild Pines champions the unfettered movement of commodities, low corporate tariffs, and stable regional commerce, working in close ideological and financial alignment with the ruling Coalition of Nations.\n\nDespite its outward dedication to diplomatic compromise and polite commercial negotiation, Wild Pines fiercely protects its private property and corporate profit margins. When faced with militant labor strikes that threaten its shipping schedules, the company board does not hesitate to bypass civil legal channels, quietly sub-contracting ruthless private security firms and heavily armored foreign mercenaries to intimidate striking dockworkers. Caught between historical imperial prestige and contemporary labor unrest, Wild Pines embodies the predatory corporate dominion that continues to exploit the post-revolutionary ruins of the Insulindian Isola.",
+    "keywords": [
+      "Wild Pines",
+      "shipping conglomerate",
+      "Joyce Messier",
+      "logistics",
+      "corporate monopoly",
+      "Martinaise"
+    ],
+    "char_count": 1894,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.05 Coalition of Nations and Moralintern.MD",
+    "title": "Coalition of Nations and Moralintern",
+    "text": "The Coalition of Nations, guided ideologically by the doctrine of the Moralist International or Moralintern, is the supreme foreign military and political alliance that exercises sovereign occupational authority over the city of Revachol. Composed of dominant capitalist and moralist world powers centered primarily in the distant isolas of Mundi and Graad, the Coalition intervened militarily in Year '08 to violently extinguish the Revachol Commune, crushing the fledgling socialist republic under offshore naval bombardment and establishing an indefinite foreign protectorate over the Insulindian Isola.\n\nAdministering the territory through the bureaucratic apparatus of the Coalition Administrative Region, the Moralintern operates from fortified administrative compounds, luxury hotel suites, and secure coastal installations across the metropolis. Its political philosophy espouses incremental centrism, administrative rationality, free market commercial access, and the absolute containment of revolutionary radicalism. Under Coalition rule, Revachol is deliberately denied national sovereignty, democratic self government, or autonomous fiscal policy, effectively transforming the historic imperial capital into a deregulated offshore commercial enclave optimized for foreign corporate exploitation.\n\nThe Moralintern exercises its authority through detached diplomatic envoys, foreign financial advisors, and shadowy intelligence networks known casually among locals as the Sunday Friends. While publicly claiming to provide stability, international investment, and gradual reconstruction to a devastated population, the Coalition maintains an uncompromising grip on civic order, quietly prepared to deploy overwhelming military force against any domestic uprising that threatens to disrupt the geopolitical equilibrium of the southern hemisphere.",
+    "keywords": [
+      "Coalition of Nations",
+      "Moralintern",
+      "Moralism",
+      "occupation",
+      "Administrative Region",
+      "Sunday Friends"
+    ],
+    "char_count": 1855,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.06 Coalition Armed Forces and Warships.MD",
+    "title": "Coalition Armed Forces and Warships",
+    "text": "The Coalition Armed Forces and Warships represent the overwhelming, technologically supreme military apparatus that enforces the geopolitical subjugation of Revachol and the Insulindian Isola. Following the naval invasion of Year '08, the Moralintern established a permanent military garrison designed to project devastating kinetic power across the Bay of Revachol. The foundation of this occupying force consists of a heavily armored naval armada stationed in the outer roadsteads, featuring massive ironclad dreadnoughts, coastal bombardment monitors, and automated missile cruisers capable of leveling coastal neighborhoods within minutes of receiving operational orders.\n\nComplementing this naval armada is the Coalition air fleet, spearheaded by the colossal aerostat battle cruiser Archer, which patrols the skies above the Insulindian coastline with silent, menacing permanence. The Coalition maintains specialized motorized infantry garrisons and rapid deployment strike units quartered in secure extraterritorial military zones on Le Caillou and northern coastal bastions. These foreign combat formations are equipped with state of the art compression rifles, motorized infantry carriages, advanced radar radiocomputers, and heavy ballistic armor, far outclassing the obsolete civilian firearms possessed by local citizens or municipal militia officers.\n\nThe primary strategic doctrine of the Coalition military is not everyday civil peacekeeping, but the ruthless preservation of imperial hegemony and the defense of international shipping lanes. Ordinary street crime, gang conflicts, and domestic homicides are deliberately ignored as municipal trivialities beneath imperial notice. However, should urban unrest threaten corporate infrastructure or manifest as organized anti-colonial rebellion, the Coalition military stands ready to unleash catastrophic aerial and naval devastation, serving as the ultimate, unyielding iron fist behind Moralist governance in Revachol.",
+    "keywords": [
+      "Coalition military",
+      "warships",
+      "aerostats",
+      "Archer",
+      "gunboats",
+      "foreign occupation",
+      "Bay of Revachol"
+    ],
+    "char_count": 1984,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.01 Revachol Communards and Historic Party.MD",
+    "title": "Revachol Communards and Historic Party",
+    "text": "The Revachol Communards and the Historic Communist Party embody the enduring revolutionary movement, socialist ideology, and working class legacy that defined the most transformative epoch in Insulindian history. Inspired by the dialectical materialist philosophy of Nilsen and Kras Mazov, the communards organized industrial factory workers, railwaymen, harbor debardeurs, and radical intellectuals into a united revolutionary front that successfully overthrew the Frissel monarchy in Year '02. For six historic years, the Revachol Commune governed the metropolis as an egalitarian, cooperative commonwealth, pioneering universal public education, collective housing, and democratic workplace management.\n\nThe dream of communard liberation was violently extinguished in Year '08 when foreign Coalition armies invaded the isola, slaughtering hundreds of thousands of revolutionary fighters, trade unionists, and civilian sympathizers in catastrophic street battles and post war firing squads. The physical infrastructure of the Commune was systematically dismantled, its literature outlawed, and its iconic party monuments demolished or defaced by occupational authorities. The Historic Party was formally dissolved, its surviving leaders executed or driven into permanent exile across remote coastal islands and subterranean drainage networks.\n\nIn modern Revachol, the spirit of the Communards survives as a profound cultural and ideological undercurrent. Faded red flags, bullet chipped street murals, and revolutionary slogans remain visible upon crumbling brick facades across Jamrock, Coal City, and Martinaise. Aging veterans, disillusioned youth, and radical student collectives preserve Mazovian theory through clandestine reading circles and underground political pamphlets. Though militarily annihilated, the Communards remain the eternal, haunting conscience of Revachol, symbolizing the unfinished struggle for human dignity and working class emancipation.",
+    "keywords": [
+      "Communards",
+      "Historic Party",
+      "Kras Mazov",
+      "revolution",
+      "Year 02",
+      "socialism",
+      "Red Army",
+      "Revachol"
+    ],
+    "char_count": 1968,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.02 Royalist Carabiniers and Monarchists.MD",
+    "title": "Royalist Carabiniers and Monarchists",
+    "text": "The Royalist Carabiniers and Monarchists represent the conservative, reactionary political faction dedicated to preserving the memory, aristocratic hierarchy, and imperial glory of the fallen Frissel royal dynasty. Prior to the revolution of Year '02, the royalist establishment commanded absolute sovereign authority across Revachol, centered at the opulent palatial court on Le Caillou. The military vanguard of monarchic power was the King's Carabinier regiment, an elite military corps renowned for their resplendent blue and gold uniforms, polished cavalry sabers, and fanatical devotion to the divine person of King Frissel.\n\nDuring the outbreak of the Revachol Commune, the Carabiniers fought with unyielding ferocity across the barricades, executing summary executions of captured socialist partisans before being overwhelmed by the armed proletariat and mutinous naval detachments. When foreign Coalition forces invaded the city in '08, surviving royalist elements collaborated eagerly with the foreign invaders, assisting occupation forces in identifying and executing communard leaders in a desperate, ultimately futile bid to restore the monarchic throne. To their bitter disillusionment, the victorious Coalition discarded the royalists, instituting a capitalist administrative protectorate rather than restoring the crown.\n\nIn contemporary Revachol, the monarchist movement is reduced to an aging, impoverished subculture of disenfranchised aristocrats, embittered military veterans, and conservative social clubs. Stripped of ancestral estates and political power, royalists gather in private salons and public parks, bitterly reminiscing over forgotten imperial triumphs while wearing faded medals and tarnished carabinier jackets. Despising both foreign Moralist bureaucrats and working class trade unionists with equal vehemence, the monarchists endure as proud, melancholy ghosts of a magnificent, vanished empire that will never rise again.",
+    "keywords": [
+      "Royalists",
+      "Carabiniers",
+      "King Frissel",
+      "monarchy",
+      "aristocrats",
+      "veterans",
+      "Le Caillou",
+      "Revachol"
+    ],
+    "char_count": 1960,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.03 Revacholian Nationalists.MD",
+    "title": "Revacholian Nationalists",
+    "text": "The Revacholian Nationalists represent a fragmented yet vocal political and cultural faction driven by reactionary grievance, anti-immigrant sentiment, and bitter nostalgia for pre-revolutionary sovereign grandeur. Disillusioned by decades of foreign military occupation, economic disenfranchisement, and cultural erosion under the Coalition Administrative Region, nationalist sympathizers can be found across the working class districts of Revachol West, Jamrock, and Coal City. United primarily by their fierce opposition to foreign control, they view the international Moralintern and its corporate sponsors as predatory colonial conquerors that reduced the imperial capital of Elysium to an impoverished, divided protectorate.\n\nLacking a unified political party, the movement manifests as localized patriotic leagues, veterans fraternal orders, and informal street associations. Their ideology is heavily inflected by revanchist mythology, idealizing an uncorrupted historical Revachol that was betrayed from within and without. Instead of directing their anger toward the foreign corporate monopolies that extract regional wealth, nationalist discourse frequently targets vulnerable immigrant communities, directing venomous rhetoric toward Seolite immigrants, Semenese workers, and Graad political refugees whom they blame for driving down wages, altering local cultural heritage, and introducing urban decay.\n\nProminent figures within the nationalist sphere range from embittered lorry drivers stranded by harbour strikes to eccentric racial theoreticians operating in the docklands. While municipal authorities and the Debardeurs Union view nationalist rhetoric with disdain, the movement taps into deep reservoirs of popular resentment among an impoverished population yearning for lost pride. The Nationalists reflect the tragic pathology of a defeated civilization, attempting to reconstruct an imagined imperial identity from the hollow ruins of military humiliation.",
+    "keywords": [
+      "Nationalists",
+      "Coalition of Patriots",
+      "Gary",
+      "revanchism",
+      "xenophobia",
+      "Revachol West",
+      "politics"
+    ],
+    "char_count": 1979,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.04 Sunday Friends and Bureaucrats.MD",
+    "title": "Sunday Friends and Bureaucrats",
+    "text": "The Sunday Friends and Bureaucrats represent the clandestine, elite technocratic network of foreign diplomats, financial commissioners, and high ranking administrators who manage the political and economic affairs of the Coalition Administrative Region. Deriving their informal moniker from their habitual practice of convening private weekend luncheons in exclusive foreign embassies, luxury hotels, and private maritime yachts anchored in the Bay of Revachol, these foreign functionaries operate the real levers of administrative power across the Insulindian Isola with polite, chilling detachment.\n\nDrawn from the premier diplomatic corps and banking houses of dominant Moralintern nations such as Mundi and Graad, the Sunday Friends are tasked with maintaining regional macroeconomic stability, enforcing foreign debt repayments, and supervising commercial trade deregulations. They view Revachol not as a historic society of living human beings, but as a complex logistical problem and an experimental colonial territory to be rationally administered. Seated in comfortable, air conditioned salons far removed from the stench and poverty of Jamrock, they approve budget reductions, municipal austerity programs, and police allocations over fine wine and delicate pastries.\n\nTheir authority is absolute yet deliberately obscured behind dense layers of international treaties, multilateral councils, and corporate maritime concessions. By ensuring that local municipal institutions remain fragmented and financially dependent upon foreign loans, the Sunday Friends prevent the emergence of genuine democratic sovereignty in Revachol. They embody the smiling, bloodless face of modern global governance, maintaining imperial dominion through legal contracts, economic pressure, and administrative indifference while ordinary citizens bear the crushing burden of post war decay.",
+    "keywords": [
+      "Sunday Friends",
+      "Moralintern",
+      "diplomats",
+      "bureaucrats",
+      "Coalition Administrative Region",
+      "Mundi"
+    ],
+    "char_count": 1879,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.01 Krenel Mercenary Company.MD",
+    "title": "Krenel Mercenary Company",
+    "text": "The Krenel Mercenary Company is a notorious, heavily armed private military contractor originating from the Republic of Graad, renowned across Elysium for its ruthless efficiency, technological sophistication, and brutal operational methods. Composed primarily of combat veterans from vicious colonial pacification campaigns in the eastern isolas, Krenel provides specialized security enforcement, tactical strike capabilities, and industrial counter-insurgency services to multinational corporate cartels seeking to protect private assets beyond the effective reach of international law.\n\nHired secretly by the executive board of the Wild Pines Group to break the paralyzing Debardeurs Union strike in Martinaise, an elite Krenel tactical detachment was deployed under the command of Colonel Ellis Kortenaer, accompanied by his sadistic subordinates Raul de Pauw and the psychotic heavy machine gunner Ruud Hoogenstraten. Equipped with state of the art Fairweather T-56 composite ceramic armor, high velocity compression rifles, and advanced combat stimulants, the mercenaries arrived in the district expecting an easy, violent suppression of defenseless dockworkers, operating with arrogant impunity.\n\nThe covert deployment rapidly disintegrated into a bloody disaster following the sniper assassination of Colonel Kortenaer. Robbed of professional command and consumed by alcohol, grief, and chemical combat psychosis, the surviving mercenaries abandoned all corporate discipline, transforming into an unhinged armed lynch mob bent on collective retribution. Their violent confrontation with Titus Hardie and the union dockworkers resulted in the catastrophic Martinaise mercenary tribunal, exposing the terrifying moral depravity of privatized imperial violence unleashed upon a defenseless civilian population.",
+    "keywords": [
+      "Krenel",
+      "mercenaries",
+      "Kortenaer",
+      "Ruud",
+      "De Pauw",
+      "Fairweather armor",
+      "Graad",
+      "strike breakers"
+    ],
+    "char_count": 1815,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.02 La Puta Madre Criminal Syndicate.MD",
+    "title": "La Puta Madre Criminal Syndicate",
+    "text": "La Puta Madre Criminal Syndicate is the supreme organized crime empire that commands total dominance over the narcotics trade, illegal gambling networks, and underworld economies of Revachol. Commanded by the elusive and terrifying underworld kingpin known simply as La Puta Madre, or the Whore Mother, alongside his lethal enforcer and field lieutenant Jean-Luc, the syndicate operates from the shadows of the southern slums, Boogie Street, and the sprawling tenements of Central Jamrock. Through a lethal combination of systemic bribery, territorial terror, and cold economic calculation, the organization has integrated itself into the deepest fabric of city life.\n\nThe primary engine of the syndicate's immense wealth is its monopolistic control over the importation and distribution of synthetic narcotics, most notably high grade preptocain and dangerous hallucinogenic stimulants like pyrholidon. Utilizing corrupt dockworkers, specialized maritime couriers, and clandestine coastal drop points across the Insulindian Isola, the cartel moves vast quantities of illicit chemicals through the metropolis. Neighborhood street gangs, local pushers, and small-time smugglers are forced to pay heavy tributary cuts or face gruesome execution by the syndicate's hitmen.\n\nThe reach of La Puta Madre extends far beyond street corners, maintaining corrupt financial relationships with municipal authorities and compromising officers within the Revachol Citizens Militia. By controlling key informants, fabricating criminal intelligence, and selectively eliminating rival syndicates, the cartel maintains a perverse state of organized equilibrium across the slums. La Puta Madre represents the ultimate parasitical entity of post-war Revachol, thriving on the despair of an impoverished population and converting urban misery into vast personal fortunes.",
+    "keywords": [
+      "La Puta Madre",
+      "crime syndicate",
+      "Jean-Luc",
+      "narcotics",
+      "preptocain",
+      "Jamrock",
+      "underworld"
+    ],
+    "char_count": 1850,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
+    "title": "Capeside Drug Smuggling Ring",
+    "text": "The Capeside Drug Smuggling Ring is the clandestine maritime logistics network responsible for moving contraband, synthetic narcotics, and untaxed commercial goods through the coastal waterways of Revachol West. Operating out of the dilapidated wooden shacks, collapsed piers, and tidal sea caves of the Capeside waterfront adjacent to Martinaise, this loose association of rogue boatmen, corrupt dockers, and black market couriers thrives in the legal vacuum left by the absence of regular municipal police patrols and foreign coast guard cutters.\n\nThe smuggling ring relies on specialized localized methods to bypass regional trade tariffs and customs inspections. Utilizing shallow draft skiffs, modified motor carriages with secret chassis compartments, and waterproof cargo bundles anchored beneath tidal kelp beds, the smugglers transport illegal preptocain, bootleg alcohol, and foreign consumer electronics directly into the district. The ring maintains vital symbiotic links with corrupt crane operators inside the Martinaise Commercial Harbour, who quietly offload untracked shipping containers under the cover of night during chaotic shift changes.\n\nWhile nominally independent, the Capeside operators exist in a precarious, dangerous equilibrium between the Debardeurs Union and the overarching reach of the La Puta Madre syndicate. They pay regular protection bribes to union enforcers to maintain access to coastal docks while evading violent extortion by southern cartel distributors.\n\nServing as the primary subterranean conduit for the illicit narcotics, untaxed tobacco, and gray market commodities that circulate through local hostels, dance halls, and harbor taverns, the Capeside ring exemplifies the desperate survivalist ingenuity and pervasive illegality defining maritime life along the Insulindian coastline.",
+    "keywords": [
+      "Capeside smugglers",
+      "narcotics",
+      "maritime contraband",
+      "skiffs",
+      "black market",
+      "Martinaise canal"
+    ],
+    "char_count": 1834,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
+    "title": "The Forgotten Red Army Guerrillas",
+    "text": "The Forgotten Red Army Guerrillas represent the mythical, phantom remnants of the International Red Army who refused to lay down their arms following the catastrophic collapse of the Revachol Commune in Year '08. When foreign Coalition naval armadas landed on the shores of Insulinde and crushed the revolutionary defenses, scattered detachments of communard soldiers, political commissars, and partisan snipers retreated into the vast subterranean labyrinth beneath the metropolis, vanishing into abandoned storm drains, ancient brick catacombs, and fortified sea bastions across the bay.\n\nCut off from central command and surrounded by hostile occupational forces, these isolated fighters waged a lonely, forgotten war of survival across decades of complete isolation. Surviving on scavenged tinned emergency rations, coastal fishing, and rainwater condensation, they maintained their military equipment in the damp darkness, fiercely preserving revolutionary dogma while the world above transformed into a capitalist protectorate. The most tragic historical manifestation of this forgotten partisan resistance was political commissar Iosef Lilianovich Dros, who spent over forty-four years in the subterranean concrete bunkers of the Sea Fortress island, observing the mainland of Martinaise through high magnification sniper optics.\n\nIn the folklore of Jamrock and Martinaise, the forgotten guerrillas achieved legendary status among working class youths and radical students, who whisper tales of phantom Red Army battalions lurking in the deep metro tunnels, waiting for the historic moment to strike back against Coalition occupiers. Though physically reduced to broken, senile survivors and rusted rifle barrels, the memory of these underground fighters endures as an unyielding testament to the fanaticism and tragic endurance of Revachol's revolutionary generation.",
+    "keywords": [
+      "Red Army guerrillas",
+      "communards",
+      "partisans",
+      "Sea Fortress",
+      "underground bunkers",
+      "Iosef Dros"
+    ],
+    "char_count": 1875,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
+    "title": "Martinaise Youth Gangs and Speedfreaks",
+    "text": "The Martinaise Youth Gangs and Speedfreaks embody the defiant, chaotic countercultural subcultures that have colonized the vacant architectural ruins and abandoned industrial complexes of Revachol West. Composed of disenfranchised young adults, street survivalists, rogue mechanics, and underground electronic musicians, these loose collectives reject both the paternalistic authority of the Debardeurs Union and the compromised legitimacy of the Citizens Militia, creating their own feral social order within the decaying spaces left behind by economic collapse.\n\nThe most prominent vanguard of this movement is the anodic dance music collective, centered around figures like Andre, Noid, and the kinetic hyperactive producer Egg Head. Seeking to construct a high powered sound sanctuary, they occupy cavernous industrial ruins like the abandoned Church of the Dolorian, mounting massive speaker arrays, custom tape loop decks, and acoustic processors to blast hypnotic, high velocity synthesized rhythms. Allied with them are urban graffiti crews and motor enthusiasts who treat the broken causeways and concrete walls of the district as their personal canvas, competing in illegal motor carriage sprints and tagging massive artistic murals across the cityscape.\n\nUnited by their mutual obsession with kinetic velocity, industrial noise, and absolute communal freedom, these youth groups carve out vibrant spaces of hedonistic joy amidst pervasive urban despair. They view the political grievances of the past and the ideological battles of their elders with detached cynicism, choosing instead to live entirely in the immediate, pulsating present. The youth gangs represent the raw, creative vitality of Revachol's newest generation, determined to dance, build, and survive upon the rubble of an empire that offered them no future.",
+    "keywords": [
+      "Youth gangs",
+      "speedfreaks",
+      "anodic dance",
+      "Andre",
+      "Egg Head",
+      "Church of the Dolorian",
+      "Martinaise"
+    ],
+    "char_count": 1834,
+    "done": false
+  },
+  {
+    "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
+    "title": "Holy Dolorian Congregation of Revachol",
+    "text": "The Holy Dolorian Congregation of Revachol is the historic spiritual institution and religious establishment dedicated to the veneration of Innocence Dolores Dei, whose divine arrival over three centuries ago founded modern Insulindian civilization. Established as the supreme moral and religious authority during the royalist era, the church constructed monumental stone basilicas, elaborate stained glass cathedral domes, and monastic welfare institutions across the capital, embedding Dolorian theology, heraldry, and saintly iconography into the deepest cultural architecture of Revachol.\n\nFollowing the revolutionary overthrow of the monarchy and the subsequent secularization instituted by the Commune, the power of the church suffered catastrophic decline. During the Coalition bombardment of Year '08, numerous historic church structures were severely damaged or reduced to rubble by naval artillery fire. In contemporary Revachol, the congregation exists as a melancholy shadow of its former imperial glory, presiding over crumbling sanctuaries with dwindling, elderly congregations and struggling to maintain its vast architectural holdings in impoverished districts like Martinaise.\n\nDespite its diminished political authority, the Dolorian faith retains a quiet, resilient hold over the spiritual imagination of many ordinary citizens. In times of acute personal grief, industrial disaster, or fear of the encroaching pale, residents continue to light votive candles before tarnished stained glass portraits of Dolores Dei, seeking solace in her radiant countenance. Preserving ancient religious liturgies, sacred choral music, and historic colonial records, the congregation endures as a solemn, dignified relic of divine hope amidst the post-industrial exhaustion of the Insulindian Isola.",
+    "keywords": [
+      "Holy Dolorian Church",
+      "Dolores Dei",
+      "congregation",
+      "stained glass",
+      "faith",
+      "religion",
+      "Revachol"
+    ],
+    "char_count": 1803,
     "done": false
   }
 ];

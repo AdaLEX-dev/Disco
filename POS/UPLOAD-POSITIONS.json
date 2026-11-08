@@ -74,17 +74,33 @@
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
-    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD"
-  ],
-  "pending_files": [
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
   ],
-  "total_entries": 74,
-  "uploaded_count": 73,
-  "pending_count": 1,
+  "pending_files": [
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.04 Wild Pines Group.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.05 Coalition of Nations and Moralintern.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.06 Coalition Armed Forces and Warships.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.01 Revachol Communards and Historic Party.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.02 Royalist Carabiniers and Monarchists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.03 Revacholian Nationalists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.04 Sunday Friends and Bureaucrats.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.01 Krenel Mercenary Company.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.02 La Puta Madre Criminal Syndicate.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD"
+  ],
+  "total_entries": 90,
+  "uploaded_count": 74,
+  "pending_count": 16,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
-  "written_count": 74,
+  "written_count": 90,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -159,10 +175,7 @@
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
-    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
-  ],
-  "unwritten_count": 54,
-  "unwritten_files": [
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
@@ -178,7 +191,10 @@
     "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
-    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD"
+  ],
+  "unwritten_count": 38,
+  "unwritten_files": [
     "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
