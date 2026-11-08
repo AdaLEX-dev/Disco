@@ -902,7 +902,7 @@
       "local scout"
     ],
     "char_count": 1966,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
@@ -966,6 +966,225 @@
     ],
     "char_count": 1814,
     "done": true
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
+    "title": "Dolores Dei Arrival in Insulinde",
+    "text": "The arrival of Innocence Dolores Dei in the Insulindian Isola over three centuries ago marked the foundational moment of modern colonial history in the southern hemisphere of Elysium. Leading a massive naval fleet of caravels across the pale corridors from the isola of Mundi, Dolores Dei landed on the rocky shores of what would become the Bay of Revachol. Her arrival transformed an unsettled archipelago inhabited only by dense marine fauna, ancient kelp forests, and nomadic coastal tribes into the central colonial jewel of western expansion. She established the initial fortified harbor settlement at Le Caillou, which later evolved into the sprawling imperial metropolis of Revachol.\n\nDolores Dei oversaw the implementation of advanced civic architecture, agricultural drainage systems, and administrative bureaucracies across the newly claimed territory. Her divine authority, characterized by miraculous political foresight and the iconic luminescent lungs visible through her thoracic cavity, inspired absolute devotion among the early settlers and religious missionaries. Under her direction, vast networks of limestone roads, deep water docks, and fortified bastions were constructed, laying the physical groundwork for urban expansion across the estuary of the Esperance River.\n\nThe Dolorian settlement of Insulinde was celebrated as an era of transcendent enlightenment and economic flourishing. However, it also introduced rigid caste stratification, bureaucratic centralization, and systemic resource extraction that tied the destiny of Revachol to distant continental interests. Memorialized in stained glass windows, civic monuments, and devotional frescoes throughout the city, the arrival of Dolores Dei remains the sacred genesis point of Revacholian civilization, casting a profound ideological shadow that continues to shape regional politics, theology, and historical memory centuries later.",
+    "keywords": [
+      "Dolores Dei",
+      "Insulindian Isola",
+      "Bay of Revachol",
+      "colonization",
+      "Innocence",
+      "Le Caillou",
+      "history"
+    ],
+    "char_count": 1915,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
+    "title": "Suzerainty of the Frissel Monarchy",
+    "text": "The Suzerainty of the Frissel Monarchy established Revachol as the wealthiest and most decadent sovereign empire in the known world, dominating maritime trade across the Insulindian Isola for over two centuries. Commencing with the coronation of King Frissel I, the royalist dynasty consolidated absolute political authority, aristocratic patronage, and colonial resource extraction from its magnificent court at the Palais de l'Esperance on Le Caillou. The suzerainty commanded a formidable naval armada, using gunboat diplomacy and commercial monopolies to dominate merchant corridors and extract immense tributary wealth from surrounding archipelagos.\n\nUnder subsequent monarchs, the crown devolved into extravagant opulence, financial recklessness, and systemic moral indifference toward the impoverished working classes. The reign of King Filippe III, historically remembered as Filippe the Opulent or the Cocaine King, epitomized this aristocratic decline. While royal courtiers indulged in continuous palace balls, botanical extravagances, and chemical hedonism, the industrial districts of Revachol West, Jamrock, and Martinaise suffered from catastrophic overcrowding, deadly cholera outbreaks, and violent labor exploitation.\n\nThe crown maintained order through the King's Carabinier regiment, a ruthless royalist gendarmerie that crushed urban unrest with cavalry charges and summary imprisonment. This extreme social polarization, coupled with the ruinous economic drain of foreign military adventures, eroded the traditional loyalty of the urban proletariat. By the close of the century, the Frissel monarchy had transformed into a hollow, despised feudal relic. The gilded corruption of the royal court directly catalyzed the revolutionary explosion of the Revachol Commune, terminating centuries of divine monarchic rule.",
+    "keywords": [
+      "Frissel monarchy",
+      "suzerainty",
+      "King Filippe",
+      "royalists",
+      "Le Caillou",
+      "empire",
+      "Revachol history"
+    ],
+    "char_count": 1836,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
+    "title": "The Antecentennial War",
+    "text": "The Antecentennial War was a devastating interisolary conflict that raged across multiple landmasses in the decades preceding the turn of the century, profoundly altering the geopolitical balance of Elysium. Driven by commercial rivalry, territorial expansion, and imperial prestige between rival coalitions of monarchist powers and emerging corporate monopolies, the war demanded total industrial and human mobilization. Revachol, as the preeminent naval and economic power of the Insulindian Isola, committed hundreds of thousands of conscripted colonial subjects, merchant vessels, and immense industrial resources to distant combat theaters.\n\nThe prolonged conflict inflicted catastrophic economic strain upon the civilian population of Revachol. Naval blockades disrupted interisolary supply lines, leading to severe food shortages, hyperinflation, and the widespread rationing of coal and essential medicines across the capital. Working class neighborhoods in Jamrock, Coal City, and Martinaise were ravaged by malnutrition and industrial accidents as factories worked continuously to produce artillery shells, naval armaments, and military transport equipment for distant battlefields.\n\nRather than securing imperial glory, the Antecentennial War thoroughly delegitimized the ruling Frissel dynasty. Thousands of wounded and disillusioned conscripts returned to Insulinde only to find mass unemployment, ruined families, and callous aristocratic indifference. The harrowing experience of industrialized warfare shattered traditional deference to monarchic authority, fostering revolutionary solidarity among frontline soldiers and maritime dockworkers. The organizational networks forged during anti war strikes and veterans mutual aid leagues created the ideological and logistical foundation for the revolutionary upheaval that toppled the crown.",
+    "keywords": [
+      "Antecentennial War",
+      "world war",
+      "military mobilization",
+      "economic collapse",
+      "conscription",
+      "Revachol"
+    ],
+    "char_count": 1855,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.04 The Revachol Commune Revolution.MD",
+    "title": "The Revachol Commune Revolution",
+    "text": "The Revachol Commune Revolution of Year '02 was a monumental socio-political upheaval that shattered centuries of monarchic rule and established the first democratic socialist commonwealth in Insulindian history. Triggered by general strikes among the debardeurs of the commercial harbour, widespread bread riots, and mutinies within the imperial naval garrison, the revolution rapidly transformed the streets of Revachol into an armed theater of popular liberation. Red Army detachments, composed of armed industrial workers, student intellectuals, and radicalized soldiers, stormed the royal palaces and dispersed the royalist carabiniers.\n\nUnder the revolutionary leadership of the Commune, the city was reorganized into autonomous neighborhood committees, workplace collectives, and popular assemblies. The Commune abolished aristocratic land titles, instituted universal public education, seized commercial shipping monopolies, and converted lavish private estates into civic centers and cooperative housing. Martinaise and Jamrock became vibrant hubs of egalitarian experimentation, where communard assemblies debated political philosophy, worker self-management, and anti-imperialist defense amidst fervent revolutionary optimism.\n\nFor six historic years, the Commune persevered despite severe foreign economic embargoes, naval blockades, and internal sabotage organized by royalist loyalists. Communard brigades constructed barricades, transformed textile mills into munitions workshops, and fostered a radical revival of working class art, political poetry, and community solidarity. The Commune represented a visionary attempt to dismantle colonial exploitation and realize true social equality, leaving an indelible imprint upon Revacholian identity that endured long after its physical destruction.",
+    "keywords": [
+      "Revachol Commune",
+      "Year 02",
+      "revolution",
+      "Red Army",
+      "communards",
+      "socialist uprising",
+      "Martinaise"
+    ],
+    "char_count": 1810,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.05 The Coalition Naval Bombardment of Year 08.MD",
+    "title": "The Coalition Naval Bombardment of Year 08",
+    "text": "The Coalition Naval Bombardment of Year '08 marked the catastrophic military intervention that violently extinguished the Revachol Commune and initiated decades of foreign colonial occupation. Alarmed by the spread of revolutionary socialism in the Insulindian Isola, a reactionary alliance of foreign capitalist powers, known as the Moralist Coalition, dispatched a massive naval battle fleet consisting of ironclad dreadnoughts and combat aerostats to crush the popular uprising. Commencing in the spring of '08, Coalition warships encircled the Bay of Revachol and subjected the defenseless coastal districts to weeks of continuous offshore artillery shelling.\n\nHeavy high explosive naval ordnance decimated the architectural fabric of Revachol West. Martinaise, Grand-Couron, and Old Town absorbed the brunt of the bombardment, suffering the destruction of coastal docks, municipal bridges, and historic Dolorian stone structures. Millions of bricks collapsed into the streets, burying thousands of civilian families and Red Army defenders beneath mountainous ruins. Dense clouds of black pulverized soot obscured the sun over the estuary, creating a nightmarish landscape of flame, falling rubble, and deafening concussive shockwaves.\n\nFollowing the offshore barrage, Coalition landing brigades composed of foreign infantry, naval marines, and motorized gun carriages stormed the shattered shoreline to execute relentless mop up operations against the remaining pockets of communard resistance. The bombardment broke the military cohesion of the Commune, leaving the coastal districts shattered, depopulated, and permanently scarred. The physical ruins and shrapnel-pocked facades visible throughout modern Martinaise remain raw, unhealed monuments to the overwhelming industrial violence unleashed by the Coalition armada.",
+    "keywords": [
+      "Coalition bombardment",
+      "Year 08",
+      "naval shelling",
+      "Moralist Coalition",
+      "Martinaise ruins",
+      "Commune"
+    ],
+    "char_count": 1828,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.06 Post-Commune Executions and Wall of Martyrs.MD",
+    "title": "Post-Commune Executions and Wall of Martyrs",
+    "text": "The aftermath of the crushed Revachol Commune in Year '08 was marked by systematic military terror, mass executions, and sweeping political purges conducted by victorious Coalition occupation forces and returning royalist officers. Determined to eradicate every trace of revolutionary ideology from the Insulindian population, military tribunals initiated summary trials that processed hundreds of captured communard soldiers, union organizers, Red Army commissars, and suspected civilian sympathizers each day. Neighborhood by neighborhood, suspected revolutionaries were rounded up and condemned without legal representation.\n\nExecution squads operated continuously across the ruins of Revachol West. In Martinaise, the northern perimeter wall of the Feld Building served as a primary execution site, where thousands of communard fighters, textile workers, and local students were lined up and shot by firing squads before being cast into unmarked coastal trenches. The bullet pocked red bricks of the structure, stained with grease and powder burns, earned the somber designation of the Wall of Martyrs, becoming a silent memorial to the annihilated revolutionary generation.\n\nThe purges effectively wiped out the political and cultural vanguard of Revachol's working class. Surviving family members were subjected to forced labor, civic disenfranchisement, and relentless police surveillance under the newly established Coalition Administrative Region. The trauma of the massacres cast an enduring pall of grief, fear, and unspoken resentment over the working class districts of Jamrock, Coal City, and Martinaise, instilling a profound generational memory of communal martyrdom that modern municipal authorities, foreign corporate overseers, and occupying military garrisons have never completely extinguished.",
+    "keywords": [
+      "Wall of Martyrs",
+      "Feld Building",
+      "executions",
+      "communard purge",
+      "Coalition terror",
+      "Martinaise"
+    ],
+    "char_count": 1815,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.01 Historical Eras/04.01.07 Formation of the Revachol Citizens Militia.MD",
+    "title": "Formation of the Revachol Citizens Militia",
+    "text": "The formation of the Revachol Citizens Militia emerged from the smoldering vacuum of civic order following the collapse of the Commune and the establishment of Coalition military occupation. With traditional municipal police forces dissolved and foreign occupation garrisons refusing to police ordinary civilian crimes, the streets of Revachol devolved into lawless chaos dominated by armed gangs, organized criminal syndicates, and vigilante retribution. In response, neighborhood defense councils, demobilized veterans, and volunteer safety brigades organized grassroots peacekeeping networks to restore basic safety.\n\nRecognizing their inability to pacify the sprawling metropolis through military force alone, Coalition occupation administrators reluctantly granted de facto recognition to these volunteer brigades, officially chartering them as the Revachol Citizens Militia. Operating under severe legal, logistical, and budgetary constraints, the RCM was explicitly prohibited from maintaining heavy military armaments, automatic weapons, armored fighting vehicles, or air support, ensuring that the volunteer force remained strictly subservient to foreign imperial authority. Precints were established throughout the urban districts, including Precinct 41 in Jamrock and Precinct 57 in Couron.\n\nDespite chronic underfunding, dilapidated precinct houses, and moral compromise, the RCM evolved into a complex, resilient institution. Its sworn officers navigate an impossible jurisdictional tightrope between corrupt local dock unions, predatory corporate mercenaries, hostile street youth, and contemptuous foreign authorities. Possessing no formal constitutional mandate yet serving as the sole functioning buffer between total social collapse and communal survival, the RCM embodies the tragic, enduring resilience of post-war Revachol.",
+    "keywords": [
+      "RCM",
+      "Citizens Militia",
+      "police formation",
+      "Precinct 41",
+      "postwar order",
+      "peacekeeping",
+      "Revachol"
+    ],
+    "char_count": 1844,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.01 The Martinaise Dockworkers Strike of 51.MD",
+    "title": "The Martinaise Dockworkers Strike of 51",
+    "text": "The Martinaise Dockworkers Strike of '51 is a massive, protracted labor conflict that paralyzed the maritime commerce of Revachol West and precipitated an acute political crisis across the Insulindian Isola. Organized by the powerful Debardeurs Union under the authoritarian leadership of Evrart Claire, thousands of coastal dockworkers walked off their jobs and sealed the entrance gates to the Martinaise Commercial Harbour. The union demanded comprehensive worker self management of the terminal, substantial wage increases, and the transfer of corporate harbour equity into a communal workers fund, challenging the foreign corporate monopoly held by the Wild Pines logistics conglomerate.\n\nThe strike brought industrial cargo transit across the estuary to a complete standstill. Heavy freight lorries carrying timber, steel, and manufactured goods backed up for kilometers along the regional causeways, immobilizing drivers and stranding millions of real worth of interisolary freight. The union established an impenetrable picket line outside the harbour gates, guarded by burly dockworkers and the vigilante enforcers known as the Hardie boys, who barred corporate scabs and municipal authorities from entering the terminal grounds.\n\nIn response, the Wild Pines board of directors dispatched corporate negotiator Joyce Messier to Martinaise aboard her luxury sloop to negotiate a settlement, while secretly authorizing the deployment of Krenel private military contractors to intimidate union leaders. The confrontation between union militancy and corporate mercenary firepower turned Martinaise into an explosive powder keg. Far exceeding a standard industrial wage dispute, the strike represented a profound challenge to post-war capitalist hegemony, demonstrating the enduring revolutionary defiance latent within the Insulindian proletariat.",
+    "keywords": [
+      "Martinaise strike",
+      "Debardeurs Union",
+      "Evrart Claire",
+      "Wild Pines",
+      "dockworkers",
+      "lockout",
+      "Revachol"
+    ],
+    "char_count": 1851,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.02 The Lynching Behind the Whirling.MD",
+    "title": "The Lynching Behind the Whirling",
+    "text": "The Lynching Behind the Whirling refers to the macabre discovery and public display of a murdered man hung from an ancient tree in the hostel courtyard behind the Whirling-in-Rags in Martinaise. The deceased was Colonel Ellis Kortenaer, a ruthless commander of the Krenel private security detachment secretly hired by corporate interests to break the dockworkers strike. Hung by a heavy industrial cargo strap, the corpse remained suspended in the freezing coastal air for over a week, decomposing in plain view of cafeteria patrons, neighborhood youths, and local dockworkers who treated the horrific spectacle with mocking indifference.\n\nThe public hanging was widely assumed to be an act of collective vigilante justice perpetrated by the Debardeurs Union in retaliation for alleged crimes committed by corporate mercenaries. Titus Hardie and his street council openly claimed organizational credit for the lynching, boasting to arriving Citizens Militia detectives that the strike committee executed the foreigner to defend local honor. However, forensic analysis of the corpse subsequently revealed that the hanging was an elaborate post-mortem staging orchestrated to conceal the true cause of death: a single high caliber sniper round that passed through his mouth.\n\nThe spectacle of the hanging triggered a cascading municipal crisis. The desecrated body brought the Krenel mercenary company to the brink of mutinous bloodlust, escalated tensions between the union and corporate overseers, and forced the RCM to dispatch an investigative team from Precinct 41 and Precinct 57 into hostile territory. The staged execution stood as the central mystery of the Martinaise crisis, concealing complex layers of espionage, romantic obsession, and historical vengeance behind a facade of crude working class retribution.",
+    "keywords": [
+      "The Hanged Man",
+      "Whirling courtyard",
+      "Ellis Kortenaer",
+      "Titus Hardie",
+      "staged lynching",
+      "murder",
+      "Martinaise"
+    ],
+    "char_count": 1820,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
+    "title": "The Sinking of the Motor Carriage into the Ice",
+    "text": "The sinking of the RCM precinct motor carriage into the tidal ice of the Martinaise canal stands as one of the most absurd and humiliating logistical disasters in the modern operational history of the Citizens Militia. During an catastrophic, three day psychological breakdown that preceded the arrival of his investigative partner, the lead detective assigned to the Martinaise homicide commandeered the Precinct 41 Coupris Kineema motor carriage. Fueled by vast quantities of narcotics and industrial alcohol, he recklessly drove the high performance municipal vehicle onto the frozen coastal mudflats and fractured sea ice of the bay.\n\nAs the seasonal tide returned and rising spring temperatures weakened the frozen crust of the canal, the heavy iron carriage fractured the ice sheet and became hopelessly wedged in the saline mud. Abandoned by its intoxicated driver, the Kineema was slowly engulfed by incoming coastal waters, submerging the engine block, radio communication gear, and passenger compartment. The detective was left wandering the district on foot, suffering from total amnesia and possessing no memory of what had occurred to the expensive precinct property.\n\nThe submerged vehicle contained essential police equipment, including the officer's official RCM badge, case ledger, and confidential documentation. Recovering the waterlogged carriage required waiting for low tide, calculating complex coastal hydrographic cycles, securing local municipal mechanics, and physically winching the heavy machine from the freezing coastal silt. The sight of the submerged patrol carriage half buried in tidal ice served as an indelible, darkly comedic symbol of institutional decay, capturing the chaotic dysfunction, personal tragedy, and psychological frailty of the municipal peacekeeping forces deployed to the fringes of Revachol.",
+    "keywords": [
+      "Kineema sinking",
+      "canal ice",
+      "Coupris Kineema",
+      "motor carriage",
+      "Precinct 41",
+      "tidal ice",
+      "Martinaise"
+    ],
+    "char_count": 1847,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
+    "title": "The Church Dance Club Incident",
+    "text": "The Church Dance Club Incident encompasses the unauthorized cultural occupation and acoustic transformation of the historic Church of the Dolorian in southern Martinaise by a vanguard collective of anodic dance music enthusiasts. Led by the visionary youth producer Andre alongside Egg Head and their companions, the group sought to establish a high powered anodic music nightclub inside the cavernous, rotting sanctuary. Their ambition required mounting heavy speaker arrays, generator equipment, and electronic sound processors within the sacred architecture, defying traditional religious taboos and municipal zoning regulations.\n\nThe occupation intersected directly with cutting-edge academic radiocomputing research. Programmer Soona Luukanen-Kilde, working within the darkened nave of the church, was conducting rigorous acoustic measurements of a localized micro pale anomaly residing in the precise geometric center of the dome. This anomaly, manifested as a two millimeter point of total acoustic nothingness, absorbed all ambient sound waves and represented a microscopic tear in the fabric of physical reality. The sonic experiments of the dance collective, utilizing colossal bass frequencies, inadvertently threatened to expand the entropic rift.\n\nThrough the intervention of the RCM investigative detachment, the conflicting interests were brilliantly synthesized. By engineering a custom tape loop that resonated at the exact complementary frequency of the spatial void, the musicians were able to safely anchor the anodic dance system without destabilizing the spatial anomaly. The event transformed a decaying monument of imperial Dolorian faith into the pulsating cultural cradle of Insulindian hard core anodic techno, demonstrating how grassroots youth culture reclaims and revitalizes the shattered architectural ruins of Revachol.",
+    "keywords": [
+      "Church of the Dolorian",
+      "anodic dance club",
+      "Andre",
+      "Egg Head",
+      "micro pale anomaly",
+      "Soona",
+      "Martinaise"
+    ],
+    "char_count": 1852,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
+    "title": "The Martinaise Mercenary Tribunal",
+    "text": "The Martinaise Mercenary Tribunal was the violent, climactic confrontation that erupted in the snow dusted square outside the Whirling-in-Rags, pitting armed corporate mercenaries against the union dockworkers council. Consumed by grief, alcohol, and combat stimulants following the murder of their commander, the surviving Krenel private contractors, led by the brutal veteran Kortenaer and the psychotic gunner Ruud Hoogenstraten, donned heavy Fairweather ceramic body armor and marched into the district center to execute an unsanctioned military tribunal against Titus Hardie and his men.\n\nConfronted with imminent slaughter, Titus Hardie, his loyal enforcers, and local cafeteria workers stood their ground armed with hunting rifles, pistols, and blunt instruments. The RCM investigative detachment, consisting of Lieutenant Kim Kitsuragi and his partner, bravely stepped into the freezing square between the two heavily armed factions in a desperate effort to mediate the dispute and prevent a massacre. When negotiations collapsed under Kortenaer's unhinged fury, the square disintegrated into a ferocious, close quarters firefight.\n\nHigh velocity automatic rifle bursts and heavy pistol rounds tore across the cobblestone plaza, shattering hostel windows and ripping through masonry and flesh alike. Despite their superior training, military firearms, and heavy ceramic armor, the mercenaries suffered devastating casualties as the union dockworkers fought back with desperate, cornered ferocity. The bloody encounter resulted in multiple deaths on both sides, severe gunshot wounds to the investigating militia officers, and the permanent destruction of civic peace in Martinaise. The tribunal represented the ultimate culmination of post war tension, where corporate violence and working class resistance inevitably bathed the streets of Revachol in blood.",
+    "keywords": [
+      "Mercenary Tribunal",
+      "Krenel",
+      "Titus Hardie",
+      "Kim Kitsuragi",
+      "Whirling shootout",
+      "Fairweather armor",
+      "Martinaise"
+    ],
+    "char_count": 1866,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
+    "title": "Sighting of the Insulindian Phasmid",
+    "text": "The physical sighting of the Insulindian Phasmid on the desolate tidal reeds of the Sea Fortress island stands as one of the most miraculous and transformative events in the natural history of the southern hemisphere. For decades, the existence of this colossal, reed mimicking insect was dismissed by orthodox academia in Graad and Revachol as a folkloric absurdity, a harmless myth sustained only by eccentric cryptozoologists like Morell and his dedicated wife Lena. Its confirmed manifestation proved that the ancient biodiversity of the Insulindian Isola had survived centuries of war and pollution.\n\nMeasuring over two meters in height with an extraordinary exoskeleton perfectly mimicking dried aquatic reeds, the Phasmid concealed itself using natural camouflage and the secretion of psychotropic, perception altering pheromones. These biochemical compounds clouded human sensory apparatus, causing observers to overlook its presence or dismiss sightings as optical illusions. When an RCM detective encountered the creature in the island marshlands following the apprehension of the fugitive sniper, the insect emerged from the coastal flora to engage in a profound moment of silent, empathetic communion with the human observer.\n\nThe majestic creature revealed an ancient, profoundly gentle intelligence, speaking telepathically into the detective's receptive nervous system. It expressed quiet sorrow over the self-destructive violence of human civilization, the tragic legacy of the revolution, and the creeping expansion of the pale, while marveling at the unique capacity of human consciousness to observe and appreciate the fragile beauty of existence. The encounter validated the lifelong devotion of Morell and Lena, offering an transcendent revelation of grace and wonder amidst the bleak cynicism and decayed ruins of Revachol.",
+    "keywords": [
+      "Insulindian Phasmid",
+      "cryptid sighting",
+      "Morell and Lena",
+      "Sea Fortress",
+      "reed marsh",
+      "cryptozoology"
+    ],
+    "char_count": 1845,
+    "done": false
+  },
+  {
+    "file": "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
+    "title": "The Era of the Great Disappearance",
+    "text": "The Era of the Great Disappearance defines the overarching existential, cosmological, and philosophical crisis confronting the civilization of Elysium and the Insulindian Isola. Far from an ordinary historical epoch, this era is characterized by the accelerating encroachment of the pale, the vast, formless expanse of entropic un-matter that separates the habitable isolas. Scientific measurements conducted by trans-isolary radiocomputer observatories reveal that the perimeter of the pale is expanding inward, steadily consuming physical geography, matter, and electromagnetic data at an exponential rate.\n\nThe pale is understood not merely as physical empty space, but as rarefied, entropic nothingness saturated with the decaying fragments of human memory, language, and historical consciousness. As the outer atmospheric boundaries of the Insulindian Isola erode, coastal communities experience creeping sensory rarefaction, localized spatial anomalies, temporal disorientation, and increasing incidences of acute pale sickness among trans-isolary freight operators. Philosophers, moralist scholars, and scientists debate whether the expansion of the pale is a natural cosmic cycle or a catastrophic byproduct of human civilization itself, generated by the accumulation of historical trauma and industrial violence.\n\nIn Revachol, where the physical scars of imperial glory and revolutionary destruction remain raw and perpetually exposed, the Great Disappearance casts a profound existential pall over everyday life. Across Jamrock and Martinaise, citizens navigate an uncertain historical existence on a crumbling archipelago of meaning, acutely aware that the social structures of society, the collective memories of the revolution, and the very ground beneath their feet are slowly fading into the silent, non-linear abyss that encircles the world.",
+    "keywords": [
+      "Great Disappearance",
+      "the pale",
+      "entropic expansion",
+      "spatial rarefaction",
+      "Insulinde",
+      "cosmological crisis"
+    ],
+    "char_count": 1857,
+    "done": false
   }
 ];
   

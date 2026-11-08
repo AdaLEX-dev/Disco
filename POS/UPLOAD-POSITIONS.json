@@ -57,20 +57,34 @@
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
   ],
   "pending_files": [
-    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD"
+    "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.04 The Revachol Commune Revolution.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.05 The Coalition Naval Bombardment of Year 08.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.06 Post-Commune Executions and Wall of Martyrs.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.07 Formation of the Revachol Citizens Militia.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.01 The Martinaise Dockworkers Strike of 51.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.02 The Lynching Behind the Whirling.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
   ],
-  "total_entries": 60,
-  "uploaded_count": 59,
-  "pending_count": 1,
+  "total_entries": 74,
+  "uploaded_count": 60,
+  "pending_count": 14,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
-  "written_count": 60,
+  "written_count": 74,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -131,10 +145,7 @@
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
     "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
-    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD"
-  ],
-  "unwritten_count": 68,
-  "unwritten_files": [
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
     "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
@@ -148,7 +159,10 @@
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
-    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
+  ],
+  "unwritten_count": 54,
+  "unwritten_files": [
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
