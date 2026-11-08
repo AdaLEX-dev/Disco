@@ -16,7 +16,7 @@
       "Pale"
     ],
     "char_count": 1842,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -32,7 +32,7 @@
       "Coalition"
     ],
     "char_count": 1936,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.03 The Esperance River.MD",
@@ -48,7 +48,7 @@
       "Waterway"
     ],
     "char_count": 1836,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.04 Le Caillou.MD",
@@ -64,7 +64,7 @@
       "Dolores Dei"
     ],
     "char_count": 1819,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.05 Sea of Insulinde.MD",
@@ -80,7 +80,7 @@
       "Ocean"
     ],
     "char_count": 1821,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.06 Osona and Surrounding Reefs.MD",
@@ -96,7 +96,7 @@
       "Maritime"
     ],
     "char_count": 1816,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.07 The Sea Fortress Island.MD",
@@ -112,7 +112,7 @@
       "Bastion"
     ],
     "char_count": 1824,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.01 Martinaise District.MD",
@@ -128,7 +128,7 @@
       "Harbour"
     ],
     "char_count": 1831,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.02 The Whirling-in-Rags.MD",
@@ -144,7 +144,7 @@
       "Le Caillou"
     ],
     "char_count": 1827,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.03 The Martinaise Coastal Boardwalk.MD",
@@ -159,7 +159,7 @@
       "Coast"
     ],
     "char_count": 1841,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.04 The Martinaise Fishing Village.MD",
@@ -175,7 +175,7 @@
       "Fishermen"
     ],
     "char_count": 1856,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.05 The Church of the Dolorian.MD",
@@ -191,7 +191,7 @@
       "Revachol"
     ],
     "char_count": 1851,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.06 The Martinaise Commercial Harbour.MD",
@@ -206,7 +206,7 @@
       "Revachol"
     ],
     "char_count": 1810,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.07 The Feld Building.MD",
@@ -222,7 +222,7 @@
       "Le Caillou"
     ],
     "char_count": 1841,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.08 The Doomed Commercial Area.MD",
@@ -238,7 +238,7 @@
       "Curse"
     ],
     "char_count": 1832,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.09 Land's End and Martinaise Canal.MD",
@@ -254,7 +254,7 @@
       "Coast"
     ],
     "char_count": 1864,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.10 The Capeside Apartments.MD",
@@ -270,7 +270,7 @@
       "Canal"
     ],
     "char_count": 1807,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Martinaise/01.02.11 The Martinaise Boulodrome Crater.MD",
@@ -286,7 +286,7 @@
       "Revachol"
     ],
     "char_count": 1830,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Jamrock/01.03.01 Jamrock District.MD",
@@ -302,7 +302,7 @@
       "District"
     ],
     "char_count": 1906,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Jamrock/01.03.02 RCM Precinct 41 Headquarters.MD",
@@ -318,7 +318,7 @@
       "Police"
     ],
     "char_count": 1867,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Jamrock/01.03.03 Central Jamrock and Motorway.MD",
@@ -334,7 +334,7 @@
       "Infrastructure"
     ],
     "char_count": 1905,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Jamrock/01.03.04 Couron and Grand-Couron.MD",
@@ -350,7 +350,7 @@
       "Le Caillou"
     ],
     "char_count": 1885,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.04 Other Revachol Districts/01.04.01 Coal City.MD",
@@ -366,7 +366,7 @@
       "Working Class"
     ],
     "char_count": 1852,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.04 Other Revachol Districts/01.04.02 Old Town.MD",
@@ -382,7 +382,7 @@
       "Historic"
     ],
     "char_count": 1824,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.04 Other Revachol Districts/01.04.03 Stella Maris and North Coast.MD",
@@ -398,7 +398,7 @@
       "Port"
     ],
     "char_count": 1813,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD",
@@ -414,7 +414,7 @@
       "Subculture"
     ],
     "char_count": 1871,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",

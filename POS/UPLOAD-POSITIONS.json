@@ -1,8 +1,7 @@
 {
   "project": "Disco Elysium Lorebook for Character.ai",
   "version": "1.0.0",
-  "uploaded_files": [],
-  "pending_files": [
+  "uploaded_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.03 The Esperance River.MD",
@@ -28,7 +27,9 @@
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.01 Coal City.MD",
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.02 Old Town.MD",
     "Categories/01. Location/01.04 Other Revachol Districts/01.04.03 Stella Maris and North Coast.MD",
-    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD"
+  ],
+  "pending_files": [
     "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",
     "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
     "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
@@ -45,8 +46,8 @@
     "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD"
   ],
   "total_entries": 40,
-  "uploaded_count": 0,
-  "pending_count": 40,
+  "uploaded_count": 26,
+  "pending_count": 14,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
   "written_count": 40,
