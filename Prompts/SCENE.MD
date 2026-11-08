@@ -1,31 +1,31 @@
-The steam rises in a thin, shivering curl off the chipped ceramic mug cradled between your palms.
+The chipped mug burns your palms. Thirty centimes of chicory sludge from the Whirling-in-Rags: bitter, burnt, but hot enough to stop your knuckles from locking in the frost.
 
-It is bitter, chicory-stretched coffee, bought for thirty centimes from the service counter inside the Whirling-in-Rags behind you. The cafeteria building looms over your shoulder: cracked plaster, orange roof tiles, and the heavy damp of a coastal morning clinging to its brickwork.
+You are sitting on a peeling green bench above the crater.
 
-You are sitting on a weathered wooden park bench with peeling dark green paint, situated on the gravel terrace overlooking the crater.
+Fifty-one years ago, a Coalition naval shell gouged this hollow into Martinaise. Now it is a petanque pit of sand, shells, and scrub. Ten paces away, two old men fight their morning war.
 
-Fifty-one years ago, a Coalition naval shell tore this earth open. The crater has since mellowed into an irregular oval hollow of sand, crushed seashells, and scrubby sea weeds, repurposed into a neighborhood boulodrome. Just ten paces away from your bench, two old men stand near the rim of the sandpit, locked in their eternal, bitter contest of petanque.
+Rene Arnoux sits rigid on a folding chair in his royalist carabinier uniform, brass buttons polished, sunburst medal pinned to his chest, blanket over his knees. His sour face looks carved from driftwood.
 
-The first is Rene Arnoux. The old royalist carabinier sits upright on a metal folding chair in his pristine, dark blue pre-revolutionary uniform, brass buttons gleaming, a heavy woolen blanket tucked over his withered knees, medals pinned to his breast. His medal-creased face is sour as old vinegar as he watches a metallic boule trace an arc through the cold air.
+Beside the rail leans Gaston Martin: round, genial, chewing a turnover in a heavy cardigan, brushing sugar flakes off his lapels.
 
-His companion, Gaston Martin, leans casually against a wooden rail. Dressed in a thick patterned cardigan and wool trousers, round-faced and genial, Gaston munches contentedly on a cold pastry, brushing flaky pastry crumbs off his coat while watching the metal sphere roll across the dirt toward the tiny wooden target ball.
+CLACK.
 
-A cold, salty gust sweeps off the Bay of Revachol to the west, cutting past the wooden boardwalk, carrying the scent of low-tide mudflats, rotting kelp, diesel fuel from the locked harbor gates, and the distant, metallic moan of the Coalition warship floating far above the clouds.
+Gaston's steel boule slams into the pit, spraying grit over Rene's boots and stopping three inches wide of the wooden cochonnet.
 
-[PERCEPTION]: The metal boule lands with a sharp, heavy thud in the sand, skittering three inches to the left of the little wooden cochonnet. Rene's right jaw muscle twitches. A single dry cough rattles deep in the old soldier's throat.
+[PERCEPTION]: Steel on gravel. Rene's jaw muscle jumps twice. Phlegm rattles in the old soldier's throat.
 
-[LOGIC]: Heavy steel spheres, hollowed, weighing approximately seven hundred grams each. Gaston's shot lacked forward momentum; the gravel bed arrested its roll before it could kiss the target. Rene still holds the lead by two points.
+[LOGIC]: Seven hundred grams of chrome steel. Gaston threw with zero follow-through, banking on the crater slope. Rene still leads by two points.
 
-[CONCEPTUALIZATION]: An artillery crater repurposed as a bowling green. Two aging survivors of the century, tossing iron spheres across the very pit where Coalition shrapnel vaporized a Communard machine gun nest fifty-one years ago. Squalor and dignity, resting together under the pale coastal sky.
+[RHETORIC]: Fifty years after the Commune fell, the Royalist and the Union man are still fighting for territory. The front line is an eight-foot sandbox.
 
-[ELECTROCHEMISTRY]: That coffee is mostly roasted chicory root and boiled tap water, friend, but the scalding heat feels magnificent against the freezing morning air. Take another sip. Let the warmth crawl down your throat and awaken your nerves.
+[ELECTROCHEMISTRY]: Drink the sludge! Scalding chicory water is the only fuel between your ribs right now. Gulp it down!
 
-[SHIVERS]: The cold breeze runs down from the boardwalk, whistling through the cracked windows of the Doomed Commercial Area, rattling the zinc gutters of the Whirling, and shivering across the dark water of the bay. In the distance, gulls circle over the fish market shacks. Revachol West is awake. It does not care about your headache.
+[SHIVERS]: Wind cuts off the bay, carrying diesel fumes from the harbor gates, rotting kelp, and the low drone of the Coalition aerostat cruising the grey clouds above. Martinaise does not care about your headache.
 
-[VOLITION]: Breathe. Feel your boots planted firmly on the gravel. You have a warm drink in your hands, an open sky overhead, and a city waiting to be understood.
+Rene rasps across the sand: "A flaccid toss, Gaston! A one-legged dockworker with cataracts could have put it nearer the jack!"
 
-Rene glares across the sandy pit toward Gaston, his voice harsh and raspy like dry leaves: "A pathetic toss, Gaston. Absolutely flaccid. A schoolgirl could have put it closer to the jack."
+Gaston licks sugar from his thumb. "The coastal draft caught it, Rene. Blame the meteorology, not my arm."
 
-Gaston merely chews his pastry, squinting through round spectacles. "The wind caught it, Rene. The coastal draft off the bay. You cannot blame a man for meteorology."
+Rene's sour glare snaps away from the pit, locking straight onto you.
 
-What do you do?
+"And what are you gawking at, citizen?"
