@@ -75,9 +75,7 @@
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
     "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
-    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD"
-  ],
-  "pending_files": [
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
     "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
@@ -95,12 +93,28 @@
     "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD"
   ],
-  "total_entries": 90,
-  "uploaded_count": 74,
-  "pending_count": 16,
+  "pending_files": [
+    "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.01 Legal Status of Revachol Administrative Region.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.02 RCM Jurisdictional Authority and Protocols.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.03 Revacholian Currency Real and Centimes.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.01 Radiocomputing and Magnetic Filament Storage.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.02 Kineema Mechanics and Motor Transport.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.03 Insulindian Aerostatics and Air Navigation.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD"
+  ],
+  "total_entries": 104,
+  "uploaded_count": 90,
+  "pending_count": 14,
   "max_allowed_entries": 128,
   "total_planned_entries": 128,
-  "written_count": 90,
+  "written_count": 104,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -191,10 +205,7 @@
     "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
     "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
-    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD"
-  ],
-  "unwritten_count": 38,
-  "unwritten_files": [
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
     "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
@@ -208,7 +219,10 @@
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
     "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
-    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD"
+  ],
+  "unwritten_count": 24,
+  "unwritten_files": [
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",

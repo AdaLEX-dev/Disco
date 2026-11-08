@@ -1201,7 +1201,7 @@
       "Revachol West"
     ],
     "char_count": 1987,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
@@ -1217,7 +1217,7 @@
       "labour"
     ],
     "char_count": 1973,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
@@ -1233,7 +1233,7 @@
       "Martinaise"
     ],
     "char_count": 1981,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.04 Wild Pines Group.MD",
@@ -1248,7 +1248,7 @@
       "Martinaise"
     ],
     "char_count": 1894,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.05 Coalition of Nations and Moralintern.MD",
@@ -1263,7 +1263,7 @@
       "Sunday Friends"
     ],
     "char_count": 1855,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.01 Civic and Corporate/05.01.06 Coalition Armed Forces and Warships.MD",
@@ -1279,7 +1279,7 @@
       "Bay of Revachol"
     ],
     "char_count": 1984,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.01 Revachol Communards and Historic Party.MD",
@@ -1296,7 +1296,7 @@
       "Revachol"
     ],
     "char_count": 1968,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.02 Royalist Carabiniers and Monarchists.MD",
@@ -1313,7 +1313,7 @@
       "Revachol"
     ],
     "char_count": 1960,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.03 Revacholian Nationalists.MD",
@@ -1329,7 +1329,7 @@
       "politics"
     ],
     "char_count": 1979,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.02 Political and Ideological/05.02.04 Sunday Friends and Bureaucrats.MD",
@@ -1344,7 +1344,7 @@
       "Mundi"
     ],
     "char_count": 1879,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.01 Krenel Mercenary Company.MD",
@@ -1361,7 +1361,7 @@
       "strike breakers"
     ],
     "char_count": 1815,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.02 La Puta Madre Criminal Syndicate.MD",
@@ -1377,7 +1377,7 @@
       "underworld"
     ],
     "char_count": 1850,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
@@ -1392,7 +1392,7 @@
       "Martinaise canal"
     ],
     "char_count": 1834,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
@@ -1407,7 +1407,7 @@
       "Iosef Dros"
     ],
     "char_count": 1875,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
@@ -1423,7 +1423,7 @@
       "Martinaise"
     ],
     "char_count": 1834,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
@@ -1439,6 +1439,225 @@
       "Revachol"
     ],
     "char_count": 1803,
+    "done": true
+  },
+  {
+    "file": "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
+    "title": "Insulindian Oceanic Geography and Climate",
+    "text": "The Insulindian Oceanic Geography and Climate encompasses the complex marine topology, coastal weather dynamics, and seasonal atmospheric systems defining the southern maritime world of Elysium. Situated across a sprawling archipelago surrounded by cold, nutrient rich saline seas, the Insulindian Isola is geographically anchored by the vast Bay of Revachol and the winding estuary of the Esperance River. The regional coastline is characterized by jagged limestone headlands, treacherous shallow reef systems, extensive tidal mudflats, and desolate coastal salt marshes that transition into deep oceanic basins toward the outer reaches of the isola.\n\nThe prevailing climate is cold maritime temperate, dominated by persistent low pressure fronts moving across the southern ocean. Revachol experiences perpetual atmospheric moisture, manifesting as relentless coastal drizzle, dense marine fog banks, and biting sea squalls that coat concrete buildings, rusted industrial cranes, and cobblestone streets in a perpetual layer of saline dampness. Winters are harsh, protracted, and sleet ridden, bringing seasonal freezes that form treacherous pack ice across canals and coastal mudflats, while summers remain short, overcast, and brisk.\n\nThe marine ecosystem is defined by immense kelp forests, migratory cold water seabirds, and rich schools of fish that have sustained human settlements for centuries. However, regional hydrology is intensely sensitive to seasonal tidal shifts. High spring tides regularly flood low lying coastal districts like Martinaise, submerging shanty boardwalks and drowning abandoned commercial basements. The oceanic environment forms an inescapable physical reality in Insulinde, shaping the austere architecture, melancholy disposition, and maritime resilience of the people who inhabit the windswept shores of the bay.",
+    "keywords": [
+      "Insulindian geography",
+      "Bay of Revachol",
+      "climate",
+      "maritime",
+      "Esperance River",
+      "tides",
+      "ocean"
+    ],
+    "char_count": 1850,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
+    "title": "Pale Borderlands of the Insulindian Isola",
+    "text": "The Pale Borderlands of the Insulindian Isola mark the physical and dimensional threshold where the breathable atmosphere, liquid oceans, and terrestrial geography of the southern hemisphere dissolve into the boundless expanse of the pale. Rather than a distinct geographical coastline or sudden physical abyss, the borderland is an insidious zone of gradual atmospheric rarefaction and entropic transition. As human observers travel outward across the maritime perimeter, the fundamental physical properties of the material world steadily disintegrate, giving way to an elastic suspension of matter where sensory perception and spatial dimensions break down.\n\nWithin this transitional perimeter, the natural environment undergoes alarming alterations. Ambient color desaturates into a monochromatic gray haze, ocean waves lose kinetic momentum and acoustic resonance, and electromagnetic communications succumb to dense bursts of static hiss. Time itself ceases to function in a reliable linear fashion, with navigational instruments, radiocomputer compasses, and mechanical chronometers experiencing severe anomalous drift. Human travelers entering the outer perimeter report sensory disorientation, auditory echoes of distant centuries, and profound spatial confusion as terrestrial coordinates lose mathematical coherence.\n\nRecent atmospheric measurements confirm that the outer borderlands are experiencing significant physical thickening, compressing the habitable zone of the isola and rendering trans-isolary voyages exceptionally hazardous. Specialized coastal watchtowers and telegraph observatories continuously monitor the fluctuating perimeter, recording subtle shifts in the density of the encroaching un-matter. The borderlands serve as a perpetual reminder that the Insulindian Isola is a finite island of physical reality floating amidst an encroaching ocean of entropic non-existence.",
+    "keywords": [
+      "Pale borderlands",
+      "entropic un-matter",
+      "spatial rarefaction",
+      "Insulindian perimeter",
+      "isola"
+    ],
+    "char_count": 1902,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
+    "title": "Pale Sickness and Entropic Amnesia",
+    "text": "Pale Sickness, medically recognized as Entropic Sensory Rarefaction or Chronic Interisolary Neuro-Dissociation, is a severe physiological and cognitive pathology resulting from prolonged exposure to the entropic un-matter of the pale. Most commonly afflicting long distance aerostat crewmen, freight drivers, and marine navigators who repeatedly traverse trans-isolary corridors, the condition is caused by the gradual saturation of the human central nervous system with the formless, memory dense static inherent to the void between the isolas.\n\nThe clinical onset of pale sickness begins with persistent sensory dissociation, severe sleep disturbances, and acute temporal disorientation. As physical exposure accumulates, the patient suffers from progressive entropic amnesia, wherein personal biographical memories, linguistic vocabulary, and emotional attachments steadily erode. In advanced stages, this memory loss is accompanied by the terrifying intrusion of foreign consciousness, a phenomenon known as historical bleed through. The afflicted individual begins to perceive vivid sensory recollections, forgotten languages, and traumatic memories belonging to long dead individuals from distant centuries and vanished isolas.\n\nMedical treatment for pale sickness remains limited and palliative. Sufferers rely on potent pharmaceutical neuro-stimulants, most notably pyrholidon, to artificially stimulate synaptic cohesion and suppress intrusive historical echoes. Severe cases necessitate indefinite quarantine, complete sensory isolation, and the continuous playback of synchronized magnetic tape loops to anchor the mind to terrestrial reality. Pale sickness represents the tragic biological cost of trans-isolary commerce, demonstrating that human consciousness cannot repeatedly traverse the entropic void without losing its grounding in personal identity.",
+    "keywords": [
+      "Pale sickness",
+      "entropic amnesia",
+      "pyrholidon",
+      "sensory rarefaction",
+      "memory loss",
+      "quarantine"
+    ],
+    "char_count": 1868,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.02 Law and Civic Order/06.02.01 Legal Status of Revachol Administrative Region.MD",
+    "title": "Legal Status of Revachol Administrative Region",
+    "text": "The Legal Status of the Revachol Administrative Region defines the complex, non-sovereign constitutional framework under which the metropolis has been governed since the violent destruction of the Revachol Commune in Year '08. Following the military conquest of the Insulindian Isola, the victorious Moralist Coalition declined to restore the historic Frissel monarchy or recognize an autonomous civilian republic. Instead, the foreign powers promulgated the Coalition Administrative Charter, designating Revachol as a special extraterritorial protectorate directly subordinate to international occupational oversight.\n\nUnder this legal framework, Revachol is deliberately denied the instruments of modern statehood. The city possesses no sovereign constitution, no elected municipal parliament, and no civilian mayor with statutory executive power. Sovereign authority is vested entirely in the Coalition Council of Regional Commissioners, a body of foreign technocrats and diplomats who administer territorial commerce, taxation, and police licensing from fortified administrative enclaves. The territory operates as a deregulated free trade zone where multinational shipping cartels and financial conglomerates enjoy total immunity from local corporate taxation and labor regulations.\n\nThis imperial structure has created an acute jurisdictional vacuum across the metropolis. While Coalition courts aggressively protect international maritime property, contract rights, and military installations, they completely abdicate responsibility for everyday civilian civil law and neighborhood protection. As a consequence, domestic order is precariously contested between the underfunded Revachol Citizens Militia, militant trade syndicates like the Debardeurs Union, and organized criminal syndicates, leaving the civilian populace trapped in a stateless limbo of institutional disenfranchisement.",
+    "keywords": [
+      "Administrative Region",
+      "Coalition charter",
+      "sovereignty",
+      "Moralintern protectorate",
+      "law",
+      "Revachol"
+    ],
+    "char_count": 1895,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.02 Law and Civic Order/06.02.02 RCM Jurisdictional Authority and Protocols.MD",
+    "title": "RCM Jurisdictional Authority and Protocols",
+    "text": "The RCM Jurisdictional Authority and Protocols represent the pragmatic, often contradictory operating procedures governing the Revachol Citizens Militia as it enforces domestic peace across an occupied metropolis. Established by volunteer civilian brigades following the post-war collapse of municipal order, the RCM operates under a fragile occupational charter granted by the Coalition of Nations. This charter grants sworn militia officers legal authority to investigate homicides, apprehend violent felons, and regulate municipal street safety, while strictly denying them the status, legal immunities, and sovereign protections of a formal state police department.\n\nTo ensure the militia never develops the capacity to challenge foreign occupational garrisons, Coalition protocols impose severe operational constraints. RCM officers are explicitly forbidden from possessing military grade automatic weaponry, heavy tactical body armor, motorized gun carriages, or dedicated air support. Field operations rely heavily on decentralized precinct stations, standard issue service batons, civilian grade handguns, and the Coupris Kineema patrol carriage. Case investigations are formally recorded using the blue ledger system, a standardized paper documentation clipboard that tracks suspect testimonies, forensic evidence, and criminal charges.\n\nIn the neglected peripheral districts where formal civic institutions have ceased to function, RCM protocols mutate into a rough, survivalist doctrine of street negotiation and moral exhaustion. Officers must navigate a complex jurisdictional tightrope, securing informal permissions from militant labor syndicates and avoiding confrontations with foreign military police. Deprived of sovereign backing and institutional resources, the RCM sustains civic order through personal grit, psychological endurance, and an unwritten code of pragmatic compromise on the broken streets of Revachol.",
+    "keywords": [
+      "RCM protocols",
+      "Citizens Militia",
+      "jurisdiction",
+      "blue ledger",
+      "policing",
+      "Precinct 41"
+    ],
+    "char_count": 1936,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.02 Law and Civic Order/06.02.03 Revacholian Currency Real and Centimes.MD",
+    "title": "Revacholian Currency Real and Centimes",
+    "text": "The Revacholian Real and its fractional centimes constitute the official monetary and transactional medium circulating throughout the city of Revachol and the surrounding Insulindian Isola. Divided into one hundred centimes per real, the currency is the modern economic descendant of the pre-revolutionary royalist livre and the short lived communard labor credit. Following the monetary stabilization decrees enforced by the Moralintern in the aftermath of the Coalition invasion, the real was restructured as a fiat currency pegged directly to foreign reserve baskets managed by the central banking institutions of Mundi and Graad.\n\nPhysical currency circulates in the form of mass produced paper banknotes and stamped metal coinage. Paper notes feature sober moralist motifs, historic Dolorian architectural facades, and allegorical engravings of industry and commerce, while copper, nickel, and bronze coins circulate in denominations of ten, twenty, and fifty centimes. Due to decades of chronic deindustrialization, high municipal unemployment, and predatory foreign import tariffs, cash liquidity remains severely restricted across the working class districts of Jamrock, Coal City, and Martinaise, where ordinary citizens struggle to secure basic foodstuffs, tobacco, and medicines.\n\nIn impoverished peripheral enclaves, the scarcity of physical currency has given rise to robust informal micro-economies. Empty glass bottles and tare recyclables operate as common street level currencies, exchanged at automated return machines for small quantities of centimes to purchase alcohol or pay hostel tariffs. The stark contrast between the desperate coin counting of local dockworkers and the multi-thousand real bank transfers executed by foreign shipping executives highlights the deep economic stratification enforced by the post-war monetary order of Revachol.",
+    "keywords": [
+      "Revacholian real",
+      "centimes",
+      "currency",
+      "monetary system",
+      "tare bottles",
+      "economy",
+      "Moralintern"
+    ],
+    "char_count": 1868,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.01 Radiocomputing and Magnetic Filament Storage.MD",
+    "title": "Radiocomputing and Magnetic Filament Storage",
+    "text": "Radiocomputing and Magnetic Filament Storage represent the distinctive, electro-acoustic information processing and telecommunications technologies that power computational infrastructure across Elysium. Rather than relying on silicon microchips or solid state digital architecture, the computational systems of Revachol operate through the complex manipulation of radio frequencies, vacuum cathode tubes, and ultra-fine magnetic wire filaments. Calculations, logistical databases, and binary logic functions are processed as acoustic signal modulations transmitted across localized radio transceiver grids.\n\nData storage is executed through magnetic filament memory spools, intricate mechanical cassettes housing thousands of meters of magnetized metallic wire. Information is encoded onto the moving wire as microscopic electromagnetic audio pulses, read and written by precision acoustic magnetic heads. While mechanically reliable and capable of withstanding physical vibration, filament systems require bulky winding reels, motor drives, and specialized radiocomputer consoles to parse data. Large scale institutions, such as the Wild Pines Group, the Coalition Administrative Region, and municipal meteorological bureaus, house massive wall sized radiocomputers to manage global shipping and weather models.\n\nIn recent years, specialized scientific programmers and radiocomputer hobbyists have pushed the technology into experimental acoustic realms. High frequency radiocomputers are utilized to analyze acoustic resonance anomalies, map atmospheric pale density, and compile complex soundscapes. However, the reliance of radiocomputing on electromagnetic signal propagation renders the technology acutely vulnerable to atmospheric interference and pale static, creating frequent data corruption and transmission lag that mirror the fragile, fragmented nature of communications across the Insulindian Isola.",
+    "keywords": [
+      "Radiocomputing",
+      "magnetic filament",
+      "storage",
+      "data processing",
+      "cathode tubes",
+      "technology"
+    ],
+    "char_count": 1914,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.02 Kineema Mechanics and Motor Transport.MD",
+    "title": "Kineema Mechanics and Motor Transport",
+    "text": "Kineema Mechanics and Motor Transport represent the engineering principles, vehicle designs, and operational infrastructure governing wheeled automotive locomotion across the urban sprawl of Revachol. Evolving from heavy, coal fired steam tractors of the early industrial era into sophisticated internal combustion and compression engine vehicles, modern motor transport is dominated by the Coupris Kineema, a renowned four wheeled patrol carriage and civilian passenger vehicle manufactured by the historic Coupris automotive firm.\n\nThe mechanical architecture of the Kineema is optimized for durability, high velocity transit, and rugged performance across damaged municipal road networks. Featuring a rear mounted multi-cylinder compression engine fueled by refined petrochemicals, the machine utilizes an independent pneumatic suspension system and high ground clearance to navigate bomb craters, fractured cobblestones, and coastal mudflats. The driver controls the carriage through manual steering levers, mechanical pedal linkages, and a complex dashboard cluster housing oil pressure gauges, engine temperature dials, and a specialized radiocomputer communications receiver.\n\nAutomotive transport across Revachol operates under severe infrastructural distress. The vast elevated motorways and suspension bridges that connect Jamrock, Couron, and Revachol West suffer from decades of unmaintained decay, resulting in structural closures and treacherous driving conditions. During periods of civic unrest or maritime strikes, major coastal causeways become choked with immobilized freight lorries, creating massive traffic gridlocks that stretch for miles. Despite the constant hazard of mechanical breakdowns and fuel scarcity, the Kineema remains an enduring symbol of mechanical autonomy, personal velocity, and municipal authority in post-war Revachol.",
+    "keywords": [
+      "Coupris Kineema",
+      "motor carriage",
+      "automotive",
+      "mechanics",
+      "compression engine",
+      "transport",
+      "Revachol"
+    ],
+    "char_count": 1862,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.03 Insulindian Aerostatics and Air Navigation.MD",
+    "title": "Insulindian Aerostatics and Air Navigation",
+    "text": "Insulindian Aerostatics and Air Navigation define the principles of lighter than air aviation, dirigible engineering, and aerial transit across the skies of the southern archipelago. Because the rugged maritime geography of the Insulindian Isola is characterized by treacherous reefs, winding estuaries, and crumbling road networks, aerial navigation via powered aerostats and rigid airships has historically served as an indispensable medium for long distance transport, military surveillance, and emergency civilian communication between isolated coastal provinces.\n\nElysian aerostats utilize compartmentalized structural envelopes filled with buoyant lifting gases, encased in treated multi-layer canvas and reinforced aluminum framing. Propulsion is delivered through steerable engine gondolas housing multi-blade directional propellers powered by compression motors or heavy fuel oil. Navigation across the archipelago demands extraordinary piloting skill due to the volatile coastal meteorology of the Bay of Revachol, where sudden squalls, dense sea fog banks, and unpredictable thermal shifts rising from the estuary threaten the stability of civilian dirigibles.\n\nThe airspace above modern Revachol is completely dominated by the crushing military presence of the Moralintern Coalition. Heavy airships, most prominently the colossal aerostat battle cruiser Archer, maintain permanent aerial patrols over the harbor and industrial districts, projecting devastating kinetic deterrence through belly mounted artillery batteries and automated spotlights. Mooring masts and dirigible hangars in Grand-Couron and Old Town handle remaining commercial airfreight, while private aerostats remain luxury transports restricted exclusively to high ranking corporate executives and foreign diplomatic envoys.",
+    "keywords": [
+      "Aerostatics",
+      "airships",
+      "dirigibles",
+      "Archer",
+      "air navigation",
+      "Moralintern",
+      "Bay of Revachol"
+    ],
+    "char_count": 1804,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
+    "title": "Revachol Subterranean Brick Sewers and Ruins",
+    "text": "The Subterranean Brick Sewers and Ruins of Revachol constitute a colossal, multi-tiered underground labyrinth extending beneath the foundations of the metropolis for hundreds of square kilometers. Constructed across three centuries of imperial and revolutionary history, this vast subterranean network encompasses pre-revolutionary royalist storm drains, Dolorian brick aqueducts, abandoned subterranean railway corridors, and flooded municipal flood diversion conduits that discharge urban runoff into the Bay of Revachol.\n\nThe architectural construction of the sewer system reflects the historical evolution of the city itself. Deep beneath Jamrock and Couron lie ancient Dolorian masonry tunnels lined with glazed refractory bricks, vaulted limestone arches, and ornate iron sluice gates, while the newer perimeter sectors beneath Martinaise and the industrial harbor feature heavy concrete drainage conduits and rusted steel overflow grates. Decades of naval bombardments, collapsing tenement foundations, and municipal neglect have transformed large sections of the underground into hazardous, partially submerged ruins choked with toxic silt and collapsing masonry.\n\nThis dark subterranean frontier functions as a shadow city operating entirely outside the reach of municipal authority. The dry upper galleries and abandoned utility vaults serve as clandestine conduits for Capeside smugglers, underground reading clubs, and homeless vagrants seeking shelter from the freezing coastal sleet. Deep within the lowest, flooded tunnels survive mythical holdouts and hidden caches of communard military equipment left behind from the revolution. The subterranean ruins stand as the silent, buried subconscious of Revachol, where the forgotten physical debris of past eras slowly decays beneath the modern city.",
+    "keywords": [
+      "Sewers",
+      "brick ruins",
+      "catacombs",
+      "subterranean",
+      "drainage tunnels",
+      "Jamrock",
+      "Martinaise"
+    ],
+    "char_count": 1811,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
+    "title": "Revacholian Vernacular Slang and Dialects",
+    "text": "The Revacholian Vernacular Slang and Dialects represent the colorful, polyglot linguistic tapestry that has evolved among the working class populations across the districts of Revachol. While standard municipal French forms the historical foundation of regional speech, centuries of global maritime commerce, colonial labor migrations, and foreign military occupations have infused the local dialect with an intricate lexicon of borrowed words from Graad, Oranje, Seolite, and Semenese tongues, producing a distinct, rapid-fire urban argot known colloquially as Revacholian street vernacular.\n\nThe dialect is characterized by rhythmic elisions, dark ironies, and specialized idiomatic vocabulary that reflects the cynical, survivalist mindset of the populace. Common everyday speech is saturated with unique local terms: police officers are referred to with varying degrees of hostility as flics, can-openers, or law dogs, while dockworkers and heavy laborers are universally recognized as debardeurs. Everyday currency transactions rely on slang terms like tare and coin, while psychological breakdown and cognitive burnout are described through evocative phrases such as being pale-ridden or losing one's footing in the world.\n\nLinguistic boundaries closely mirror the acute class divisions and geographic fragmentation of the metropolis. The aristocratic descendants and foreign corporate functionaries residing on Le Caillou speak a formal, polished Dolorian cadence, viewing the coarse, rapid banter of the western docklands with aristocratic distaste. Conversely, among the dockworkers of Martinaise and the youth collectives in Jamrock, mastery of local slang operates as an essential badge of community belonging and neighborhood solidarity, serving as a linguistic shield against outside authority and foreign occupation.",
+    "keywords": [
+      "Revacholian slang",
+      "dialects",
+      "vernacular",
+      "debardeur",
+      "flic",
+      "linguistics",
+      "street language"
+    ],
+    "char_count": 1830,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
+    "title": "Insulindian Pharmacology and Street Chemistry",
+    "text": "Insulindian Pharmacology and Street Chemistry encompass the extensive medicinal science, synthetic stimulants, and pharmaceutical culture that permeate every layer of society across Revachol. In an impoverished urban environment marked by generational trauma, chronic deindustrialization, and the existential dread of the encroaching pale, chemical consumption operates not merely as recreation, but as an essential somatic coping mechanism for millions of struggling citizens seeking psychological relief, physical endurance, or emotional numbness.\n\nThe pharmaceutical landscape is divided between legally manufactured medical preparations and illicit street chemicals synthesized in clandestine basement laboratories across Revachol West. Prescription medications include standard analgesic powders, magnesium compounds, and cardiovascular stabilizers like nosaphed, heavily prescribed to elderly factory veterans and wounded militia officers. In contrast, the underworld narcotics economy, dominated by criminal cartels like La Puta Madre, distributes potent synthetic stimulants including preptocain, an amphetamine compound that suppresses physical fatigue, and pyrholidon, a powerful neuro-active substance that stimulates synaptic cohesion.\n\nPyrholidon holds particular medical and cultural significance due to its ability to temporarily mitigate the symptoms of pale exposure, clearing sensory fog and sharpening cognitive faculties at the cost of severe neurological dependency. The widespread reliance upon chemical chemistry extends across all demographics, from fatigued dockworkers laboring on night shifts to RCM detectives surviving multi-day homicide investigations. Pharmacology stands as an indispensable biological reality in Insulinde, mediating the fragile relationship between fragile human physiology and a harsh, exhausting world.",
+    "keywords": [
+      "Pharmacology",
+      "pyrholidon",
+      "preptocain",
+      "street chemistry",
+      "narcotics",
+      "medicine",
+      "Revachol"
+    ],
+    "char_count": 1854,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
+    "title": "The Twenty Four Skills as Biological Reality",
+    "text": "The Twenty Four Skills represent the complex psychological, neurological, and somatic faculties that govern human perception, cognition, and behavioral action within the world of Elysium. Far from abstract intellectual concepts or simple personality traits, these faculties operate as distinct internal cognitive voices, sensory receptors, and endocrine feedback loops integrated directly into the human nervous system, actively communicating with the conscious mind to interpret the surrounding physical and social environment.\n\nThe human cognitive apparatus is divided across four primary neurological domains: Intellect, Psyche, Physique, and Motorics. Intellect governs deductive reasoning, encyclopedic memory recall, rhetorical debate, and structural visualization through faculties like Logic, Encyclopedia, and Conceptualization. Psyche coordinates emotional resilience, supernatural intuition, and interpersonal dominance through faculties including Volition, Inland Empire, and Authority. Physique regulates bodily stamina, pain suppression, and somatic instinct via Endurance, Physical Instrument, and the visceral premonitions of Shivers. Motorics commands fine manual dexterity, spatial reflexes, and kinetic poise through Reaction Speed, Interfacing, and Savoir Faire.\n\nIn healthy individuals, these faculties operate in harmonious equilibrium, silently guiding decision making and physical movement. However, in individuals suffering from severe psychological trauma, acute chemical intoxication, or intense pale exposure, the internal faculties become hyper-vocal and destabilized, competing for conscious dominance and engaging in internal dialogues that externalize as visceral hunches, involuntary somatic twitches, and auditory manifestations. The twenty-four skills constitute the fundamental biological matrix through which human beings perceive and survive the fractured reality of Revachol.",
+    "keywords": [
+      "Twenty Four Skills",
+      "neurology",
+      "faculties",
+      "Intellect",
+      "Psyche",
+      "Physique",
+      "Motorics",
+      "cognition"
+    ],
+    "char_count": 1914,
+    "done": false
+  },
+  {
+    "file": "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
+    "title": "The Innocence Succession Doctrine in Revachol",
+    "text": "The Innocence Succession Doctrine constitutes the supreme theological, philosophical, and historiographical framework that has structured civilizational thought across Elysium for centuries. According to this profound doctrinal belief, human history does not progress in a random or purely material fashion, but is periodically guided and elevated by the physical emergence of an Innocence, a living historical avatar endowed with infallible political foresight, transcendent charisma, and divine transformative authority over human society.\n\nAn Innocence is recognized by miraculous somatic signs, most iconically exemplified by Innocence Dolores Dei, whose lungs shone with a brilliant interior luminescence through her chest wall, and by their singular capacity to fundamentally alter the course of science, jurisprudence, and historical reality. The decree of a reigning Innocence is held to possess absolute moral and legal validity, superseding all existing constitutions, national boundaries, and sovereign crowns. Historic eras are officially dated according to the reign of each recognized Innocence, whose divine interventions established modern linguistics, naval exploration, and international moralist governance.\n\nIn modern Revachol, the doctrine faces a profound civilizational crisis. Over two centuries have elapsed since the martyrdom of Dolores Dei, and no new Innocence has appeared to assume global succession. This prolonged absence, referred to by theologians as the Great Interregnum, has engendered deep spiritual despair across the Insulindian Isola, coinciding with the violent destruction of the monarchy, the failure of the Commune, and the physical thickening of the pale. Scholars and ordinary citizens openly debate whether the succession has permanently ended, leaving humanity abandoned to face the slow dissolution of the world alone.",
+    "keywords": [
+      "Innocence succession",
+      "Dolores Dei",
+      "theology",
+      "doctrine",
+      "divine avatar",
+      "Moralintern",
+      "Revachol"
+    ],
+    "char_count": 1869,
     "done": false
   }
 ];
