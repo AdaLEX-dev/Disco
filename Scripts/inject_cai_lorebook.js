@@ -16,7 +16,7 @@
       "narrative rules"
     ],
     "char_count": 1927,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
@@ -1864,7 +1864,7 @@
       "Revachol"
     ],
     "char_count": 1858,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
@@ -1880,7 +1880,7 @@
       "Revachol"
     ],
     "char_count": 1897,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
@@ -1896,7 +1896,7 @@
       "ethnicity"
     ],
     "char_count": 1949,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/08. Species/08.01 Insulindian Demographics/08.01.04 Physiological Impact of Insulindian Pale Proximity.MD",
@@ -1912,7 +1912,7 @@
       "Insulinde"
     ],
     "char_count": 1844,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.01 Insulindian Phasmid.MD",
@@ -1927,7 +1927,7 @@
       "Morell and Lena"
     ],
     "char_count": 1935,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.02 Insulindian Coastal Gulls and Seabirds.MD",
@@ -1943,7 +1943,7 @@
       "Martinaise"
     ],
     "char_count": 1810,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.03 Insulindian Sea-Bears and Marine Beasts.MD",
@@ -1959,7 +1959,7 @@
       "Insulinde"
     ],
     "char_count": 1817,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.04 Coastal Crustaceans and Kelp Feeders.MD",
@@ -1975,7 +1975,7 @@
       "Martinaise"
     ],
     "char_count": 1842,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.05 Jamrock Urban Stray Dogs and Vermin.MD",
@@ -1991,7 +1991,7 @@
       "Revachol"
     ],
     "char_count": 1806,
-    "done": false
+    "done": true
   }
 ];
   

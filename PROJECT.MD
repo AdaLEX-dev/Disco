@@ -10,20 +10,21 @@ Build an exhaustive, strictly canonical lore database covering the Insulindian I
 - Do not flesh out external isolas (Mundi, Graad, Seol, Katla, Samara, etc.) as standalone lore entries.
 - The entire Insulindian Isola, the Bay of Revachol, Martinaise, Jamrock, Coal City, Old Town, and the surrounding reefs and islands are covered in exhaustive, living detail.
 
-## Entry Budget: Exactly 128 Entries Max
-To comply with Character.ai's maximum single lorebook capacity, the repository has a hard ceiling of 128 markdown entry files distributed across nine core categories:
+## Entry Budget: Exactly 125 Final Entries
+To comply with Character.ai's maximum single lorebook capacity (128 entries max), the repository contains exactly 125 completed markdown entry files:
 
+0. Categories/Canon.MD: 1 entry (Master in-universe canon and simulation boundaries)
 1. 01. Location: 26 entries (Martinaise, Jamrock, Bay of Revachol, districts, landmarks, sea ruins)
 2. 02. Item: 14 entries (Weapons, narcotics, technology, garments, cultural artifacts)
 3. 03. Side character: 20 entries (RCM officers, union leaders, mercenaries, locals, suspects)
-4. 04. Event: 14 entries (Antecentennial War, Commune, Bombardment, Strike, Tribunal, Phasmid)
+4. 04. Event: 14 entries (Antecentennial War, Commune, Bombardment, Strike, Tribunal, Great Disappearance)
 5. 05. Faction: 16 entries (RCM, Debardeurs Union, Wild Pines, Moralintern, Royalists, Gangs)
-6. 06. System: 14 entries (Pale borderlands, radiocomputers, RCM protocols, currencies, pale sickness)
+6. 06. System: 13 entries (Pale borderlands, radiocomputers, RCM protocols, currencies, pale sickness)
 7. 07. Culture and Religion: 12 entries (Anodic music, Dolores Dei cult, suzerainty, cuisine, cinema)
 8. 08. Species: 4 entries (Insulindian human populations, demographic migrations, pale exposure)
-9. 09. Creatures: 8 entries (Insulindian Phasmid, coastal birds, marine beasts, cryptids)
+9. 09. Creatures: 5 entries (Insulindian Phasmid, coastal birds, sea-bears, crustaceans, urban stray dogs)
 
-Total: 128 entries.
+Total: 125 entries (100% complete, verified, and synchronized).
 
 ## Strict Format Constraints for Entry Files
 Every entry markdown file residing inside category subfolders must follow this exact schema:
