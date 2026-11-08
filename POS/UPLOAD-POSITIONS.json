@@ -115,17 +115,29 @@
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
-    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD"
-  ],
-  "pending_files": [
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
     "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD"
   ],
-  "total_entries": 115,
-  "uploaded_count": 114,
-  "pending_count": 1,
+  "pending_files": [
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.01 Human Populations of the Insulindian Isola.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.04 Physiological Impact of Insulindian Pale Proximity.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.01 Insulindian Phasmid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.02 Insulindian Coastal Gulls and Seabirds.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.03 Insulindian Sea-Bears and Marine Beasts.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.04 Coastal Crustaceans and Kelp Feeders.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.05 Jamrock Urban Stray Dogs and Vermin.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.06 Col Do Ma Ma Daqua Folkloric Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.07 The Yekokatha Insulindian Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.08 Martinaise Damp Rot Parasites and Fungi.MD"
+  ],
+  "total_entries": 127,
+  "uploaded_count": 115,
+  "pending_count": 12,
   "max_allowed_entries": 128,
   "total_planned_entries": 127,
-  "written_count": 115,
+  "written_count": 127,
   "written_files": [
     "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
     "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
@@ -241,10 +253,7 @@
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
     "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
-    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD"
-  ],
-  "unwritten_count": 12,
-  "unwritten_files": [
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.01 Human Populations of the Insulindian Isola.MD",
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
     "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
@@ -257,5 +266,7 @@
     "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.06 Col Do Ma Ma Daqua Folkloric Cryptid.MD",
     "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.07 The Yekokatha Insulindian Cryptid.MD",
     "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.08 Martinaise Damp Rot Parasites and Fungi.MD"
-  ]
+  ],
+  "unwritten_count": 0,
+  "unwritten_files": []
 }
