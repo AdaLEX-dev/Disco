@@ -386,11 +386,7 @@
       }
     }
   },
-  "uploaded_files": [],
-  "total_entries": 47,
-  "uploaded_count": 0,
-  "pending_count": 47,
-  "pending_files": [
+  "uploaded_files": [
     "Categories/01. Location/01.01 World/01.01.01 The World.MD",
     "Categories/01. Location/01.01 World/01.01.02 The Isolas.MD",
     "Categories/01. Location/01.01 World/01.01.03 The Pale.MD",
@@ -400,7 +396,12 @@
     "Categories/01. Location/01.02 Insulinde/01.02.03 Other Insulindian Territories.MD",
     "Categories/01. Location/01.02 Insulinde/01.02.04 Insulindian Islands.MD",
     "Categories/01. Location/01.02 Insulinde/01.02.05 Insulindian Waters.MD",
-    "Categories/01. Location/01.03 Revachol/01.03.01 Revachol Overview.MD",
+    "Categories/01. Location/01.03 Revachol/01.03.01 Revachol Overview.MD"
+  ],
+  "total_entries": 47,
+  "uploaded_count": 10,
+  "pending_count": 37,
+  "pending_files": [
     "Categories/01. Location/01.03 Revachol/01.03.02 Revachol Geography.MD",
     "Categories/01. Location/01.03 Revachol/01.03.03 Revachol Districts.MD",
     "Categories/01. Location/01.03 Revachol/01.03.04 Revachol Architecture.MD",

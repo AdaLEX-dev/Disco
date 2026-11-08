@@ -17,7 +17,7 @@
       "aerostatics"
     ],
     "char_count": 1976,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 World/01.01.02 The Isolas.MD",
@@ -34,7 +34,7 @@
       "insulinde"
     ],
     "char_count": 1902,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 World/01.01.03 The Pale.MD",
@@ -51,7 +51,7 @@
       "memory"
     ],
     "char_count": 1842,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.01 World/01.01.04 Known Geographic Divisions.MD",
@@ -68,7 +68,7 @@
       "graad"
     ],
     "char_count": 1823,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Insulinde/01.02.01 Insulinde.MD",
@@ -85,7 +85,7 @@
       "caillou"
     ],
     "char_count": 1870,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Insulinde/01.02.02 Revachol.MD",
@@ -102,7 +102,7 @@
       "esperance"
     ],
     "char_count": 1939,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Insulinde/01.02.03 Other Insulindian Territories.MD",
@@ -119,7 +119,7 @@
       "islands"
     ],
     "char_count": 1828,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Insulinde/01.02.04 Insulindian Islands.MD",
@@ -136,7 +136,7 @@
       "maritime"
     ],
     "char_count": 1862,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.02 Insulinde/01.02.05 Insulindian Waters.MD",
@@ -153,7 +153,7 @@
       "esperance"
     ],
     "char_count": 1935,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Revachol/01.03.01 Revachol Overview.MD",
@@ -170,7 +170,7 @@
       "rcm"
     ],
     "char_count": 1889,
-    "done": false
+    "done": true
   },
   {
     "file": "Categories/01. Location/01.03 Revachol/01.03.02 Revachol Geography.MD",

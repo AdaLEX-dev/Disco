@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Character.ai Lorebook Auto-Sync
 // @namespace    https://github.com/AdaLEX-dev/Disco
-// @version      1.0.0
-// @description  Automated, robust lorebook note sync directly inside Character.ai using a clean floating UI.
+// @version      1.1.0
+// @description  Automated, robust lorebook note sync directly inside Character.ai with robust keyword entry.
 // @author       DiscoElysium-Lorebook
 // @match        https://character.ai/lorebooks/*
 // @grant        GM_xmlhttpRequest
@@ -16,7 +16,6 @@
 (function() {
   'use strict';
 
-  // --- Helpers ---
   function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
@@ -35,14 +34,53 @@
   function setNativeValue(element, value) {
     const lastValue = element.value;
     element.value = value;
-    const event = new Event('input', { bubbles: true });
-    const changeEvent = new Event('change', { bubbles: true });
     const tracker = element._valueTracker;
     if (tracker) {
       tracker.setValue(lastValue);
     }
-    element.dispatchEvent(event);
-    element.dispatchEvent(changeEvent);
+    element.dispatchEvent(new Event('input', { bubbles: true }));
+    element.dispatchEvent(new Event('change', { bubbles: true }));
+  }
+
+  // Robustly commits a keyword tag to React/C.ai chip inputs
+  async function insertKeywordTag(inputElement, keyword) {
+    inputElement.focus();
+    await sleep(50);
+
+    // 1. Dispatch clipboard/paste event simulation or direct input
+    setNativeValue(inputElement, keyword);
+    await sleep(100);
+
+    // 2. Dispatch sequence of keyboard events that trigger tag creation (Enter, Tab, Comma)
+    const keyConfigs = [
+      { key: 'Enter', code: 'Enter', keyCode: 13, which: 13 },
+      { key: ',', code: 'Comma', keyCode: 188, which: 188 },
+      { key: 'Tab', code: 'Tab', keyCode: 9, which: 9 }
+    ];
+
+    for (const conf of keyConfigs) {
+      inputElement.dispatchEvent(new KeyboardEvent('keydown', { ...conf, bubbles: true, cancelable: true }));
+      inputElement.dispatchEvent(new KeyboardEvent('keypress', { ...conf, bubbles: true, cancelable: true }));
+      inputElement.dispatchEvent(new KeyboardEvent('keyup', { ...conf, bubbles: true, cancelable: true }));
+      await sleep(80);
+      // Check if input was cleared (indicating tag was successfully created)
+      if (inputElement.value === '') {
+        break;
+      }
+    }
+
+    // 3. Check for any explicit "Add" button right next to the keyword input
+    const parentContainer = inputElement.closest('div, form, section') || inputElement.parentElement;
+    if (parentContainer) {
+      const addKeywordBtn = Array.from(parentContainer.querySelectorAll('button, span[role="button"]')).find(b => {
+        const txt = (b.innerText || b.textContent || '').trim().toLowerCase();
+        return txt === 'add' || txt === '+' || txt.includes('add keyword');
+      });
+      if (addKeywordBtn) {
+        addKeywordBtn.click();
+        await sleep(100);
+      }
+    }
   }
 
   // --- UI Floating Panel ---
@@ -109,7 +147,6 @@
       statusBadge.innerText = 'Connecting...';
       infoText.innerText = 'Fetching pending entries from local repository...';
 
-      // Query local repo server running on port 8765
       GM_xmlhttpRequest({
         method: 'GET',
         url: 'http://127.0.0.1:8765/api/entries',
@@ -155,61 +192,83 @@
 
             if (addBtn) {
               addBtn.click();
-              await sleep(600);
+              await sleep(700);
             }
 
             // Step 1: Set Title
-            const inputs = Array.from(document.querySelectorAll('input[type="text"], input:not([type])'));
-            const titleInput = inputs.find(inp => {
+            const allInputs = Array.from(document.querySelectorAll('input[type="text"], input:not([type])'));
+            const titleInput = allInputs.find(inp => {
               const p = (inp.placeholder || '').toLowerCase();
               const a = (inp.getAttribute('aria-label') || '').toLowerCase();
-              return p.includes('title') || a.includes('title') || inp.name.includes('title');
-            }) || inputs[0];
+              return p.includes('title') || a.includes('title') || (inp.name && inp.name.includes('title'));
+            }) || allInputs[0];
 
             if (titleInput) {
               setNativeValue(titleInput, item.title);
-              await sleep(250);
+              await sleep(300);
             }
 
             // Step 2: Set Content
-            const textareas = Array.from(document.querySelectorAll('textarea'));
-            const contentTextarea = textareas.find(ta => {
+            const allTextareas = Array.from(document.querySelectorAll('textarea'));
+            const contentTextarea = allTextareas.find(ta => {
               const p = (ta.placeholder || '').toLowerCase();
               const a = (ta.getAttribute('aria-label') || '').toLowerCase();
               return p.includes('content') || p.includes('text') || a.includes('content');
-            }) || textareas[0];
+            }) || allTextareas[0];
 
             if (contentTextarea) {
               setNativeValue(contentTextarea, item.text);
-              await sleep(350);
+              await sleep(400);
             }
 
-            // Step 3: Set Keywords
-            const keywordInput = inputs.find(inp => {
+            // Step 3: Find and Insert Keywords
+            // Find keyword input: either explicit placeholder/aria, or input near a "Keywords" label
+            const currentInputs = Array.from(document.querySelectorAll('input[type="text"], input:not([type])'));
+            let keywordInput = currentInputs.find(inp => {
+              if (inp === titleInput) return false;
               const p = (inp.placeholder || '').toLowerCase();
               const a = (inp.getAttribute('aria-label') || '').toLowerCase();
-              return p.includes('keyword') || a.includes('keyword');
+              const n = (inp.name || '').toLowerCase();
+              const id = (inp.id || '').toLowerCase();
+              return p.includes('keyword') || a.includes('keyword') || n.includes('keyword') || id.includes('keyword');
             });
 
-            if (keywordInput && item.keywords && item.keywords.length > 0) {
-              for (const kw of item.keywords) {
-                keywordInput.focus();
-                setNativeValue(keywordInput, kw);
-                await sleep(100);
-                keywordInput.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', code: 'Enter', keyCode: 13, which: 13, bubbles: true }));
-                keywordInput.dispatchEvent(new KeyboardEvent('keyup', { key: 'Enter', code: 'Enter', keyCode: 13, which: 13, bubbles: true }));
-                await sleep(150);
+            // If not found by attributes, search by parent/label association
+            if (!keywordInput) {
+              const kwLabel = findElementByText('label, div, span, p', 'Keyword') || findElementByText('label, div, span, p', 'Keywords');
+              if (kwLabel) {
+                const container = kwLabel.closest('div, section') || kwLabel.parentElement;
+                if (container) {
+                  keywordInput = container.querySelector('input');
+                }
               }
             }
 
-            // Step 4: Click Update / Save
+            // Fallback: any text input that is not the title input
+            if (!keywordInput) {
+              keywordInput = currentInputs.find(inp => inp !== titleInput);
+            }
+
+            if (keywordInput && item.keywords && item.keywords.length > 0) {
+              console.log(`Adding ${item.keywords.length} keywords to field:`, keywordInput);
+              for (const kw of item.keywords) {
+                await insertKeywordTag(keywordInput, kw);
+                await sleep(250);
+              }
+            } else {
+              console.warn("Could not find keyword input element on page!");
+            }
+
+            await sleep(500);
+
+            // Step 4: Click Update / Save button
             let saveBtn = findElementByText('button, div[role="button"]', 'Update')
                        || findElementByText('button, div[role="button"]', 'Save')
                        || findElementByText('button, div[role="button"]', 'Save changes');
 
             if (saveBtn) {
               saveBtn.click();
-              await sleep(1000);
+              await sleep(1400);
 
               // Notify local server that this file was successfully uploaded
               GM_xmlhttpRequest({
@@ -219,7 +278,7 @@
                 headers: { 'Content-Type': 'application/json' }
               });
             } else {
-              console.warn("Could not find Update button.");
+              console.warn("Could not find Update/Save button.");
             }
           }
 
@@ -240,7 +299,6 @@
     };
   }
 
-  // Initialize UI once DOM is loaded
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', createControlPanel);
   } else {
