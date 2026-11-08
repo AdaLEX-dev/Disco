@@ -1,9 +1,405 @@
 {
-  "project": "Disco Elysium Lorebook for Character.ai",
-  "version": "1.0.0",
+  "project": "Disco Elysium Lorebook for Character.ai: Insulinde & Revachol",
+  "version": "2.0.0",
+  "max_allowed_entries": 128,
+  "total_planned_entries": 128,
+  "planned_files": [
+    "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.03 The Esperance River.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.04 Le Caillou.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.05 Sea of Insulinde.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.06 Osona and Surrounding Reefs.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.07 The Sea Fortress Island.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.01 Martinaise District.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.02 The Whirling-in-Rags.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.03 The Martinaise Coastal Boardwalk.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.04 The Martinaise Fishing Village.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.05 The Church of the Dolorian.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.06 The Martinaise Commercial Harbour.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.07 The Feld Building.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.08 The Doomed Commercial Area.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.09 Land's End and Martinaise Canal.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.10 The Capeside Apartments.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.11 The Martinaise Boulodrome Crater.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.01 Jamrock District.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.02 RCM Precinct 41 Headquarters.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.03 Central Jamrock and Motorway.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.04 Couron and Grand-Couron.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.01 Coal City.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.02 Old Town.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.03 Stella Maris and North Coast.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.04 RCM Heavy Duty Prybar and Baton.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.01 Filament Wire Radiocomputer.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.02 FALN Heavy LED Flashlight.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.03 RCM Blue Ledger and Clipboard.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.04 Coupris Kineema Motor Carriage.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.01 Astra Brand Filterless Cigarettes.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.02 Goracy 1 Spirits and Potent Wine.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.04 Officer Judit Minot.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.05 Officer Trant Heidelstam.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.06 Chester McLaine and Alice Steine.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.01 Evrart Claire.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.02 Titus Hardie and Hardie Boys.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.03 Leo the Harmless Dockworker.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.01 Joyce Messier.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.02 Colonel Kortenaer.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.03 Ruud Hoogenstraten and De Pauw.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.04 The Revachol Commune Revolution.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.05 The Coalition Naval Bombardment of Year 08.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.06 Post-Commune Executions and Wall of Martyrs.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.07 Formation of the Revachol Citizens Militia.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.01 The Martinaise Dockworkers Strike of 51.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.02 The Lynching Behind the Whirling.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.04 Wild Pines Group.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.05 Coalition of Nations and Moralintern.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.06 Coalition Armed Forces and Warships.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.01 Revachol Communards and Historic Party.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.02 Royalist Carabiniers and Monarchists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.03 Revacholian Nationalists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.04 Sunday Friends and Bureaucrats.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.01 Krenel Mercenary Company.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.02 La Puta Madre Criminal Syndicate.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.01 Legal Status of Revachol Administrative Region.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.02 RCM Jurisdictional Authority and Protocols.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.03 Revacholian Currency Real and Centimes.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.01 Radiocomputing and Magnetic Filament Storage.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.02 Kineema Mechanics and Motor Transport.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.03 Insulindian Aerostatics and Air Navigation.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.05 Communard Memory and Revolutionary Graffitis.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.03 Revacholian Working Class Cuisine and Chicory.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.01 Human Populations of the Insulindian Isola.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.04 Physiological Impact of Insulindian Pale Proximity.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.01 Insulindian Phasmid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.02 Insulindian Coastal Gulls and Seabirds.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.03 Insulindian Sea-Bears and Marine Beasts.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.04 Coastal Crustaceans and Kelp Feeders.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.05 Jamrock Urban Stray Dogs and Vermin.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.06 Col Do Ma Ma Daqua Folkloric Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.07 The Yekokatha Insulindian Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.08 Martinaise Damp Rot Parasites and Fungi.MD"
+  ],
+  "written_files": [
+    "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.03 The Esperance River.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.04 Le Caillou.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.05 Sea of Insulinde.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.06 Osona and Surrounding Reefs.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.07 The Sea Fortress Island.MD"
+  ],
   "uploaded_files": [],
-  "pending_files": [],
-  "total_entries": 47,
+  "pending_upload_files": [],
+  "total_entries": 7,
   "uploaded_count": 0,
-  "pending_count": 47
+  "pending_count": 7,
+  "pending_files": [
+    "Categories/01. Location/01.01 Insulinde/01.01.01 The Insulindian Isola.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.02 The Bay of Revachol.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.03 The Esperance River.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.04 Le Caillou.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.05 Sea of Insulinde.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.06 Osona and Surrounding Reefs.MD",
+    "Categories/01. Location/01.01 Insulinde/01.01.07 The Sea Fortress Island.MD"
+  ],
+  "written_count": 7,
+  "unwritten_count": 121,
+  "unwritten_files": [
+    "Categories/01. Location/01.02 Martinaise/01.02.01 Martinaise District.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.02 The Whirling-in-Rags.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.03 The Martinaise Coastal Boardwalk.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.04 The Martinaise Fishing Village.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.05 The Church of the Dolorian.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.06 The Martinaise Commercial Harbour.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.07 The Feld Building.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.08 The Doomed Commercial Area.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.09 Land's End and Martinaise Canal.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.10 The Capeside Apartments.MD",
+    "Categories/01. Location/01.02 Martinaise/01.02.11 The Martinaise Boulodrome Crater.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.01 Jamrock District.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.02 RCM Precinct 41 Headquarters.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.03 Central Jamrock and Motorway.MD",
+    "Categories/01. Location/01.03 Jamrock/01.03.04 Couron and Grand-Couron.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.01 Coal City.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.02 Old Town.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.03 Stella Maris and North Coast.MD",
+    "Categories/01. Location/01.04 Other Revachol Districts/01.04.04 Boogie Street and Valley of the Dogs.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.01 Villiers 9mm Pepperbox Pistol.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.02 Kiejl A9 Compression Rifle.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.03 Fairweather T-56 Body Armor.MD",
+    "Categories/02. Item/02.01 Weapons and Armor/02.01.04 RCM Heavy Duty Prybar and Baton.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.01 Filament Wire Radiocomputer.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.02 FALN Heavy LED Flashlight.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.03 RCM Blue Ledger and Clipboard.MD",
+    "Categories/02. Item/02.02 Technology and Tools/02.02.04 Coupris Kineema Motor Carriage.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.01 Astra Brand Filterless Cigarettes.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.02 Goracy 1 Spirits and Potent Wine.MD",
+    "Categories/02. Item/02.03 Narcotics and Consumables/02.03.03 Pyrholidon and Preptocain.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.01 Suzerainty Historical Board Game.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.02 Sad Surreal Interisolary Tape.MD",
+    "Categories/02. Item/02.04 Cultural and Relic Items/02.04.03 Pre-Revolutionary Frissel Medals.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.01 Lieutenant Kim Kitsuragi.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.02 Captain Pryce.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.03 Lieutenant Jean Vicquemare.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.04 Officer Judit Minot.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.05 Officer Trant Heidelstam.MD",
+    "Categories/03. Side character/03.01 RCM Officers/03.01.06 Chester McLaine and Alice Steine.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.01 Evrart Claire.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.02 Titus Hardie and Hardie Boys.MD",
+    "Categories/03. Side character/03.02 Union and Hardie Boys/03.02.03 Leo the Harmless Dockworker.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.01 Joyce Messier.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.02 Colonel Kortenaer.MD",
+    "Categories/03. Side character/03.03 Wild Pines and Mercenaries/03.03.03 Ruud Hoogenstraten and De Pauw.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.01 Garte the Cafeteria Manager.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.02 Lena and Morell the Cryptozoologist.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.03 Rene Arnoux and Gaston Martin.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.04 Cuno and Cunoesse.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.05 Klaasje Amandou.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.06 The Paledriver.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.07 Plaisance and Annette.MD",
+    "Categories/03. Side character/03.04 Martinaise Citizens/03.04.08 Iosef Lilianovich Dros the Deserter.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.01 Dolores Dei Arrival in Insulinde.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.02 Suzerainty of the Frissel Monarchy.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.03 The Antecentennial War.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.04 The Revachol Commune Revolution.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.05 The Coalition Naval Bombardment of Year 08.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.06 Post-Commune Executions and Wall of Martyrs.MD",
+    "Categories/04. Event/04.01 Historical Eras/04.01.07 Formation of the Revachol Citizens Militia.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.01 The Martinaise Dockworkers Strike of 51.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.02 The Lynching Behind the Whirling.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.03 The Sinking of the Motor Carriage into the Ice.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.04 The Church Dance Club Incident.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.05 The Martinaise Mercenary Tribunal.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.06 Sighting of the Insulindian Phasmid.MD",
+    "Categories/04. Event/04.02 Modern Crisis and Timeline/04.02.07 The Era of the Great Disappearance.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.01 Revachol Citizens Militia.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.02 Debardeurs Union Local 41.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.03 The Hardie Boys Council.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.04 Wild Pines Group.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.05 Coalition of Nations and Moralintern.MD",
+    "Categories/05. Faction/05.01 Civic and Corporate/05.01.06 Coalition Armed Forces and Warships.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.01 Revachol Communards and Historic Party.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.02 Royalist Carabiniers and Monarchists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.03 Revacholian Nationalists.MD",
+    "Categories/05. Faction/05.02 Political and Ideological/05.02.04 Sunday Friends and Bureaucrats.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.01 Krenel Mercenary Company.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.02 La Puta Madre Criminal Syndicate.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.03 Capeside Drug Smuggling Ring.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.04 The Forgotten Red Army Guerrillas.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.05 Martinaise Youth Gangs and Speedfreaks.MD",
+    "Categories/05. Faction/05.03 Militant and Underground/05.03.06 Holy Dolorian Congregation of Revachol.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.01 Insulindian Oceanic Geography and Climate.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.02 Pale Borderlands of the Insulindian Isola.MD",
+    "Categories/06. System/06.01 Geography and Physics/06.01.03 Pale Sickness and Entropic Amnesia.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.01 Legal Status of Revachol Administrative Region.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.02 RCM Jurisdictional Authority and Protocols.MD",
+    "Categories/06. System/06.02 Law and Civic Order/06.02.03 Revacholian Currency Real and Centimes.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.01 Radiocomputing and Magnetic Filament Storage.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.02 Kineema Mechanics and Motor Transport.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.03 Insulindian Aerostatics and Air Navigation.MD",
+    "Categories/06. System/06.03 Technology and Infrastructure/06.03.04 Revachol Subterranean Brick Sewers and Ruins.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.01 Revacholian Vernacular Slang and Dialects.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.02 Insulindian Pharmacology and Street Chemistry.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.03 The Twenty Four Skills as Biological Reality.MD",
+    "Categories/06. System/06.04 Medicine and Sociolinguistics/06.04.04 The Innocence Succession Doctrine in Revachol.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.01 Revacholian Identity and Spirit of Le Caillou.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.02 Martinaise Working Class Coastal Culture.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.03 Holy Dolorian Faith and Stained Glass Cult.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.04 Royalist Nostalgia and Suzerainty Traditions.MD",
+    "Categories/07. Culture and Religion/07.01 Society and Belief/07.01.05 Communard Memory and Revolutionary Graffitis.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.01 Anodic Dance Music and Tape Underground.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.02 Suzerainty Strategic Board Game Culture.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.03 Revacholian Working Class Cuisine and Chicory.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.04 Astra Tobacco Culture and Drinking Rituals.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.05 Mass Entertainment and Guillaume le Million.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.06 Mourning Customs and Insulindian Cemeteries.MD",
+    "Categories/07. Culture and Religion/07.02 Arts, Pastimes and Customs/07.02.07 Martinaise Petanque and Coastal Pastimes.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.01 Human Populations of the Insulindian Isola.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.02 Revacholian Colonial Demographics and Migrations.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.03 Seolite Minorities in Revachol West.MD",
+    "Categories/08. Species/08.01 Insulindian Demographics/08.01.04 Physiological Impact of Insulindian Pale Proximity.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.01 Insulindian Phasmid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.02 Insulindian Coastal Gulls and Seabirds.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.03 Insulindian Sea-Bears and Marine Beasts.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.04 Coastal Crustaceans and Kelp Feeders.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.05 Jamrock Urban Stray Dogs and Vermin.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.06 Col Do Ma Ma Daqua Folkloric Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.07 The Yekokatha Insulindian Cryptid.MD",
+    "Categories/09. Creatures/09.01 Insulindian Fauna/09.01.08 Martinaise Damp Rot Parasites and Fungi.MD"
+  ],
+  "categories": {
+    "00. Canon": {},
+    "01. Location": {
+      "01.01 Insulinde": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.02 Martinaise": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.03 Jamrock": {
+        "file_count": 0,
+        "files": []
+      },
+      "01.04 Other Revachol Districts": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "02. Item": {
+      "02.01 Weapons and Armor": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.02 Technology and Tools": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.03 Narcotics and Consumables": {
+        "file_count": 0,
+        "files": []
+      },
+      "02.04 Cultural and Relic Items": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "03. Side character": {
+      "03.01 RCM Officers": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.02 Union and Hardie Boys": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.03 Wild Pines and Mercenaries": {
+        "file_count": 0,
+        "files": []
+      },
+      "03.04 Martinaise Citizens": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "04. Event": {
+      "04.01 Historical Eras": {
+        "file_count": 0,
+        "files": []
+      },
+      "04.02 Modern Crisis and Timeline": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "05. Faction": {
+      "05.01 Civic and Corporate": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.02 Political and Ideological": {
+        "file_count": 0,
+        "files": []
+      },
+      "05.03 Militant and Underground": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "06. System": {
+      "06.01 Geography and Physics": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.02 Law and Civic Order": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.03 Technology and Infrastructure": {
+        "file_count": 0,
+        "files": []
+      },
+      "06.04 Medicine and Sociolinguistics": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "07. Culture and Religion": {
+      "07.01 Society and Belief": {
+        "file_count": 0,
+        "files": []
+      },
+      "07.02 Arts, Pastimes and Customs": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "08. Species": {
+      "08.01 Insulindian Demographics": {
+        "file_count": 0,
+        "files": []
+      }
+    },
+    "09. Creatures": {
+      "09.01 Insulindian Fauna": {
+        "file_count": 0,
+        "files": []
+      }
+    }
+  }
 }

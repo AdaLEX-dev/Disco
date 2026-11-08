@@ -1,4 +1,4 @@
-# Writing Rules and Structural Specification
+# Writing Rules and Structural Specification: Insulinde & Revachol
 
 This document lays down the strict formatting and content rules for every Markdown file in this lorebook. These rules are mandatory and non-negotiable.
 
@@ -23,10 +23,10 @@ This document lays down the strict formatting and content rules for every Markdo
 4. Entries must be pure in-universe factual encyclopedic documentation.
 5. No meta-commentary, no out-of-character disclaimers, no references to the player or developer.
 
-## Rule 3: Strict Canonical Grounding (No Hallucinations)
-1. Every claim, name, date, entity, geographical feature, and event must strictly originate from Tier 1 or Tier 2 canon as listed in Categories/00. Canon/CANON.MD.
-2. Unknown or deliberate mysteries must remain unknown. Never invent lore, dates, numbers, or events to fill gaps.
-3. No non-canonical theories, fanfiction, or unauthorized headcanons.
+## Rule 3: Geographic Scope Restriction (Insulindian Isola & Revachol)
+1. The project documents the Insulindian Isola and the city of Revachol exclusively.
+2. Do not write standalone entries for foreign isolas (Mundi, Graad, Seol, Katla, Samara, etc.). Foreign regions may only be mentioned in passing as background origin points for individuals, goods, or Coalition occupying forces present in Revachol.
+3. Total project ceiling across all categories is strictly capped at a maximum of 128 entries to match Character.ai lorebook storage limits.
 
 ## Rule 4: Distinct Separation of Skills and Lore
 1. Internal consciousness, psychological faculties, and the 24 Skills are defined entirely within the bot persona architecture (Prompts/CAIBOT.MD).
@@ -52,5 +52,5 @@ Keywords:
 ## Rule 6: Directory and Naming Conventions
 - Category Folders: Follow the standard two-digit indexed schema:
   01. Location, 02. Item, 03. Side character, 04. Event, 05. Faction, 06. System, 07. Culture and Religion, 08. Species, 09. Creatures.
-- Subfolders: Indexed matching the category schema (e.g., 01.01 World, 01.02 Insulinde).
-- Entry Files: Numbered matching the subfolder schema (e.g., 01.01.01 The World.MD).
+- Subfolders: Indexed matching the category schema (e.g., 01.01 Insulinde, 01.02 Martinaise).
+- Entry Files: Numbered matching the subfolder schema (e.g., 01.01.01 Insulindian Isola.MD).

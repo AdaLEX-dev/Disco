@@ -104,15 +104,27 @@ def build_payload():
             if rel_path not in uploaded_files:
                 pending_list.append(rel_path)
 
+    planned_files = pos_data.get("planned_files", [])
+    written_files = [e["file"] for e in all_entries]
+    unwritten_files = [f for f in planned_files if f not in written_files]
+
+    pos_data["max_allowed_entries"] = 128
+    pos_data["total_planned_entries"] = len(planned_files)
+    pos_data["written_count"] = len(written_files)
+    pos_data["written_files"] = written_files
+    pos_data["unwritten_count"] = len(unwritten_files)
+    pos_data["unwritten_files"] = unwritten_files
     pos_data["total_entries"] = len(all_entries)
     pos_data["uploaded_count"] = len(uploaded_files)
     pos_data["pending_count"] = len(pending_list)
     pos_data["pending_files"] = pending_list
     save_positions(pos_data)
 
-    print(f"Total MD entries: {len(all_entries)}")
-    print(f"Uploaded entries: {len(uploaded_files)}")
-    print(f"Pending entries:  {len(pending_list)}")
+    print(f"Total planned:   {len(planned_files)}")
+    print(f"Written entries: {len(written_files)}")
+    print(f"Remaining:       {len(unwritten_files)}")
+    print(f"Uploaded:        {len(uploaded_files)}")
+    print(f"Pending upload:  {len(pending_list)}")
 
     # Generate standalone JavaScript injector
     js_template = f"""// Character.ai Lorebook Automation Injector
